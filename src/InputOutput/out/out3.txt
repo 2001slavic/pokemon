@@ -1,0 +1,1458 @@
+Initiating new battle...
+Coach Iuliu to fight with Neutrel1...
+Coach Iuliu picked Meowth.
+Pokemon stats:
+Pokemon:
+	Name: Meowth.
+	HP: 43.
+	Normal attack value: 8.
+	Defense value: 7.
+	Special defense value: 4.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: true
+			Cooldown: 4
+		Ability:
+			Damage: 1
+			Stun: false
+			Dodge: true
+			Cooldown: 3
+	Items:
+		Shield
+		Vitamins
+		ChristmasTree
+	Score: 62.
+Starting battle...
+tick: 0...
+Meowth attempts to cast ability on Neutrel1 with damage: 5...
+	Damage dealt: 5.
+Meowth dodges Neutrel1's attack.
+Meowth HP: 43.
+Neutrel1 HP: 5.
+tick: 1...
+Meowth attempts to cast ability on Neutrel1 with damage: 1...
+	Damage dealt: 1.
+Meowth dodges Neutrel1's attack.
+Meowth HP: 43.
+Neutrel1 HP: 4.
+tick: 2...
+Meowth attempts normal attack with value 8 on Neutrel1 with defense value: 1...
+	Damage dealt: 7.
+Neutrel1 attempts normal attack with value 3 on Meowth with defense value: 7...
+	Damage dealt: 0.
+Meowth HP: 43.
+Neutrel1 HP: -3.
+Meowth WINS!
+Meowth buffed!
+New stats:
+Pokemon:
+	Name: Meowth.
+	HP: 44.
+	Normal attack value: 9.
+	Defense value: 8.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: true
+			Cooldown: 4
+		Ability:
+			Damage: 1
+			Stun: false
+			Dodge: true
+			Cooldown: 3
+	Items:
+		Shield
+		Vitamins
+		ChristmasTree
+	Score: 66.
+Coach Ileana to fight with Neutrel1...
+Coach Ileana picked Eevee.
+Pokemon stats:
+Pokemon:
+	Name: Eevee.
+	HP: 39.
+	Special attack value: 4.
+	Defense value: 3.
+	Special defense value: 3.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+	Score: 49.
+Starting battle...
+tick: 0...
+Eevee attempts to cast ability on Neutrel1 with damage: 5...
+	Damage dealt: 5.
+Neutrel1 attempts normal attack with value 3 on Eevee with defense value: 3...
+	Damage dealt: 0.
+Eevee HP: 39.
+Neutrel1 HP: 5.
+tick: 1...
+Eevee attempts to cast ability on Neutrel1 with damage: 3...
+	Damage dealt: 3.
+Neutrel1 attempts normal attack with value 3 on Eevee with defense value: 3...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Eevee HP: 39.
+Neutrel1 HP: 2.
+tick: 2...
+Eevee attempts special attack with value 4 on Neutrel1 with special defense value: 1...
+	Damage dealt: 3.
+Neutrel1 is unable to attack because stunned.
+Eevee HP: 39.
+Neutrel1 HP: -1.
+Eevee WINS!
+Eevee buffed!
+New stats:
+Pokemon:
+	Name: Eevee.
+	HP: 40.
+	Special attack value: 5.
+	Defense value: 4.
+	Special defense value: 4.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+	Score: 53.
+Coach Iuliu to fight with Neutrel1...
+Coach Iuliu picked Meowth.
+Pokemon stats:
+Pokemon:
+	Name: Meowth.
+	HP: 44.
+	Normal attack value: 9.
+	Defense value: 8.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: true
+			Cooldown: 4
+		Ability:
+			Damage: 1
+			Stun: false
+			Dodge: true
+			Cooldown: 3
+	Items:
+		Shield
+		Vitamins
+		ChristmasTree
+	Score: 66.
+Starting battle...
+tick: 0...
+Meowth attempts to cast ability on Neutrel1 with damage: 5...
+	Damage dealt: 5.
+Meowth dodges Neutrel1's attack.
+Meowth HP: 44.
+Neutrel1 HP: 5.
+tick: 1...
+Meowth attempts to cast ability on Neutrel1 with damage: 1...
+	Damage dealt: 1.
+Meowth dodges Neutrel1's attack.
+Meowth HP: 44.
+Neutrel1 HP: 4.
+tick: 2...
+Meowth attempts normal attack with value 9 on Neutrel1 with defense value: 1...
+	Damage dealt: 8.
+Neutrel1 attempts normal attack with value 3 on Meowth with defense value: 8...
+	Damage dealt: 0.
+Meowth HP: 44.
+Neutrel1 HP: -4.
+Meowth WINS!
+Meowth buffed!
+New stats:
+Pokemon:
+	Name: Meowth.
+	HP: 45.
+	Normal attack value: 10.
+	Defense value: 9.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: true
+			Cooldown: 4
+		Ability:
+			Damage: 1
+			Stun: false
+			Dodge: true
+			Cooldown: 3
+	Items:
+		Shield
+		Vitamins
+		ChristmasTree
+	Score: 70.
+Coach Ileana to fight with Neutrel1...
+Coach Ileana picked Psyduck.
+Pokemon stats:
+Pokemon:
+	Name: Psyduck.
+	HP: 43.
+	Normal attack value: 3.
+	Defense value: 3.
+	Special defense value: 3.
+	Abilities:
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+	Items:
+	Score: 52.
+Starting battle...
+tick: 0...
+Psyduck attempts to cast ability on Neutrel1 with damage: 2...
+	Damage dealt: 2.
+Neutrel1 attempts normal attack with value 3 on Psyduck with defense value: 3...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Psyduck HP: 43.
+Neutrel1 HP: 8.
+tick: 1...
+Psyduck attempts to cast ability on Neutrel1 with damage: 2...
+	Damage dealt: 2.
+Neutrel1 is unable to attack because stunned.
+Psyduck HP: 43.
+Neutrel1 HP: 6.
+tick: 2...
+Psyduck attempts normal attack with value 3 on Neutrel1 with defense value: 1...
+	Damage dealt: 2.
+Neutrel1 attempts normal attack with value 3 on Psyduck with defense value: 3...
+	Damage dealt: 0.
+Psyduck HP: 43.
+Neutrel1 HP: 4.
+tick: 3...
+Psyduck attempts normal attack with value 3 on Neutrel1 with defense value: 1...
+	Damage dealt: 2.
+Neutrel1 attempts normal attack with value 3 on Psyduck with defense value: 3...
+	Damage dealt: 0.
+Psyduck HP: 43.
+Neutrel1 HP: 2.
+tick: 4...
+Psyduck attempts normal attack with value 3 on Neutrel1 with defense value: 1...
+	Damage dealt: 2.
+Neutrel1 attempts normal attack with value 3 on Psyduck with defense value: 3...
+	Damage dealt: 0.
+Psyduck HP: 43.
+Neutrel1 HP: 0.
+Psyduck WINS!
+Psyduck buffed!
+New stats:
+Pokemon:
+	Name: Psyduck.
+	HP: 44.
+	Normal attack value: 4.
+	Defense value: 4.
+	Special defense value: 4.
+	Abilities:
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+	Items:
+	Score: 56.
+Coach Iuliu to fight with Neutrel1...
+Coach Iuliu picked Meowth.
+Pokemon stats:
+Pokemon:
+	Name: Meowth.
+	HP: 45.
+	Normal attack value: 10.
+	Defense value: 9.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: true
+			Cooldown: 4
+		Ability:
+			Damage: 1
+			Stun: false
+			Dodge: true
+			Cooldown: 3
+	Items:
+		Shield
+		Vitamins
+		ChristmasTree
+	Score: 70.
+Starting battle...
+tick: 0...
+Meowth attempts to cast ability on Neutrel1 with damage: 1...
+	Damage dealt: 1.
+Meowth dodges Neutrel1's attack.
+Meowth HP: 45.
+Neutrel1 HP: 9.
+tick: 1...
+Meowth attempts to cast ability on Neutrel1 with damage: 5...
+	Damage dealt: 5.
+Meowth dodges Neutrel1's attack.
+Meowth HP: 45.
+Neutrel1 HP: 4.
+tick: 2...
+Meowth attempts normal attack with value 10 on Neutrel1 with defense value: 1...
+	Damage dealt: 9.
+Neutrel1 attempts normal attack with value 3 on Meowth with defense value: 9...
+	Damage dealt: 0.
+Meowth HP: 45.
+Neutrel1 HP: -5.
+Meowth WINS!
+Meowth buffed!
+New stats:
+Pokemon:
+	Name: Meowth.
+	HP: 46.
+	Normal attack value: 11.
+	Defense value: 10.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: true
+			Cooldown: 4
+		Ability:
+			Damage: 1
+			Stun: false
+			Dodge: true
+			Cooldown: 3
+	Items:
+		Shield
+		Vitamins
+		ChristmasTree
+	Score: 74.
+Coach Ileana to fight with Neutrel1...
+Coach Ileana picked Eevee.
+Pokemon stats:
+Pokemon:
+	Name: Eevee.
+	HP: 40.
+	Special attack value: 5.
+	Defense value: 4.
+	Special defense value: 4.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+	Score: 53.
+Starting battle...
+tick: 0...
+Eevee attempts to cast ability on Neutrel1 with damage: 3...
+	Damage dealt: 3.
+Neutrel1 attempts normal attack with value 3 on Eevee with defense value: 4...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Eevee HP: 40.
+Neutrel1 HP: 7.
+tick: 1...
+Eevee attempts to cast ability on Neutrel1 with damage: 5...
+	Damage dealt: 5.
+Neutrel1 is unable to attack because stunned.
+Eevee HP: 40.
+Neutrel1 HP: 2.
+tick: 2...
+Eevee attempts special attack with value 5 on Neutrel1 with special defense value: 1...
+	Damage dealt: 4.
+Neutrel1 attempts normal attack with value 3 on Eevee with defense value: 4...
+	Damage dealt: 0.
+Eevee HP: 40.
+Neutrel1 HP: -2.
+Eevee WINS!
+Eevee buffed!
+New stats:
+Pokemon:
+	Name: Eevee.
+	HP: 41.
+	Special attack value: 6.
+	Defense value: 5.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+	Score: 57.
+Coach Iuliu to fight with Neutrel1...
+Coach Iuliu picked Jigglypuff.
+Pokemon stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 34.
+	Normal attack value: 7.
+	Defense value: 2.
+	Special defense value: 3.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Sword
+	Score: 46.
+Starting battle...
+tick: 0...
+Jigglypuff attempts to cast ability on Neutrel1 with damage: 3...
+	Damage dealt: 3.
+Neutrel1 attempts normal attack with value 3 on Jigglypuff with defense value: 2...
+	Damage dealt: 1.
+	Neutrel1 stunned.
+Jigglypuff HP: 33.
+Neutrel1 HP: 7.
+tick: 1...
+Jigglypuff attempts to cast ability on Neutrel1 with damage: 4...
+	Damage dealt: 4.
+Neutrel1 is unable to attack because stunned.
+	Neutrel1 stunned.
+Jigglypuff HP: 33.
+Neutrel1 HP: 3.
+tick: 2...
+Jigglypuff attempts normal attack with value 7 on Neutrel1 with defense value: 1...
+	Damage dealt: 6.
+Neutrel1 is unable to attack because stunned.
+Jigglypuff HP: 33.
+Neutrel1 HP: -3.
+Jigglypuff WINS!
+Jigglypuff buffed!
+New stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 35.
+	Normal attack value: 8.
+	Defense value: 3.
+	Special defense value: 4.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Sword
+	Score: 50.
+Coach Ileana to fight with Neutrel1...
+Coach Ileana picked Eevee.
+Pokemon stats:
+Pokemon:
+	Name: Eevee.
+	HP: 41.
+	Special attack value: 6.
+	Defense value: 5.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+	Score: 57.
+Starting battle...
+tick: 0...
+Eevee attempts to cast ability on Neutrel1 with damage: 3...
+	Damage dealt: 3.
+Neutrel1 attempts normal attack with value 3 on Eevee with defense value: 5...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Eevee HP: 41.
+Neutrel1 HP: 7.
+tick: 1...
+Eevee attempts to cast ability on Neutrel1 with damage: 5...
+	Damage dealt: 5.
+Neutrel1 is unable to attack because stunned.
+Eevee HP: 41.
+Neutrel1 HP: 2.
+tick: 2...
+Eevee attempts special attack with value 6 on Neutrel1 with special defense value: 1...
+	Damage dealt: 5.
+Neutrel1 attempts normal attack with value 3 on Eevee with defense value: 5...
+	Damage dealt: 0.
+Eevee HP: 41.
+Neutrel1 HP: -3.
+Eevee WINS!
+Eevee buffed!
+New stats:
+Pokemon:
+	Name: Eevee.
+	HP: 42.
+	Special attack value: 7.
+	Defense value: 6.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+	Score: 61.
+Coach Iuliu to fight with Neutrel1...
+Coach Iuliu picked Eevee.
+Pokemon stats:
+Pokemon:
+	Name: Eevee.
+	HP: 41.
+	Special attack value: 6.
+	Defense value: 5.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		Cape
+		Shield
+	Score: 60.
+Starting battle...
+tick: 0...
+Eevee attempts to cast ability on Neutrel1 with damage: 5...
+	Damage dealt: 5.
+Neutrel1 attempts normal attack with value 3 on Eevee with defense value: 5...
+	Damage dealt: 0.
+Eevee HP: 41.
+Neutrel1 HP: 5.
+tick: 1...
+Eevee attempts to cast ability on Neutrel1 with damage: 3...
+	Damage dealt: 3.
+Neutrel1 attempts normal attack with value 3 on Eevee with defense value: 5...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Eevee HP: 41.
+Neutrel1 HP: 2.
+tick: 2...
+Eevee attempts special attack with value 6 on Neutrel1 with special defense value: 1...
+	Damage dealt: 5.
+Neutrel1 is unable to attack because stunned.
+Eevee HP: 41.
+Neutrel1 HP: -3.
+Eevee WINS!
+Eevee buffed!
+New stats:
+Pokemon:
+	Name: Eevee.
+	HP: 42.
+	Special attack value: 7.
+	Defense value: 6.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		Cape
+		Shield
+	Score: 64.
+Coach Ileana to fight with Neutrel1...
+Coach Ileana picked Psyduck.
+Pokemon stats:
+Pokemon:
+	Name: Psyduck.
+	HP: 44.
+	Normal attack value: 4.
+	Defense value: 4.
+	Special defense value: 4.
+	Abilities:
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+	Items:
+	Score: 56.
+Starting battle...
+tick: 0...
+Psyduck attempts to cast ability on Neutrel1 with damage: 2...
+	Damage dealt: 2.
+Neutrel1 attempts normal attack with value 3 on Psyduck with defense value: 4...
+	Damage dealt: 0.
+Psyduck HP: 44.
+Neutrel1 HP: 8.
+tick: 1...
+Psyduck attempts to cast ability on Neutrel1 with damage: 2...
+	Damage dealt: 2.
+Neutrel1 attempts normal attack with value 3 on Psyduck with defense value: 4...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Psyduck HP: 44.
+Neutrel1 HP: 6.
+tick: 2...
+Psyduck attempts normal attack with value 4 on Neutrel1 with defense value: 1...
+	Damage dealt: 3.
+Neutrel1 is unable to attack because stunned.
+Psyduck HP: 44.
+Neutrel1 HP: 3.
+tick: 3...
+Psyduck attempts normal attack with value 4 on Neutrel1 with defense value: 1...
+	Damage dealt: 3.
+Neutrel1 attempts normal attack with value 3 on Psyduck with defense value: 4...
+	Damage dealt: 0.
+Psyduck HP: 44.
+Neutrel1 HP: 0.
+Psyduck WINS!
+Psyduck buffed!
+New stats:
+Pokemon:
+	Name: Psyduck.
+	HP: 45.
+	Normal attack value: 5.
+	Defense value: 5.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+	Items:
+	Score: 60.
+Coach Iuliu to fight with Neutrel1...
+Coach Iuliu picked Meowth.
+Pokemon stats:
+Pokemon:
+	Name: Meowth.
+	HP: 46.
+	Normal attack value: 11.
+	Defense value: 10.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: true
+			Cooldown: 4
+		Ability:
+			Damage: 1
+			Stun: false
+			Dodge: true
+			Cooldown: 3
+	Items:
+		Shield
+		Vitamins
+		ChristmasTree
+	Score: 74.
+Starting battle...
+tick: 0...
+Meowth attempts to cast ability on Neutrel1 with damage: 5...
+	Damage dealt: 5.
+Meowth dodges Neutrel1's attack.
+Meowth HP: 46.
+Neutrel1 HP: 5.
+tick: 1...
+Meowth attempts to cast ability on Neutrel1 with damage: 1...
+	Damage dealt: 1.
+Meowth dodges Neutrel1's attack.
+Meowth HP: 46.
+Neutrel1 HP: 4.
+tick: 2...
+Meowth attempts normal attack with value 11 on Neutrel1 with defense value: 1...
+	Damage dealt: 10.
+Neutrel1 attempts normal attack with value 3 on Meowth with defense value: 10...
+	Damage dealt: 0.
+Meowth HP: 46.
+Neutrel1 HP: -6.
+Meowth WINS!
+Meowth buffed!
+New stats:
+Pokemon:
+	Name: Meowth.
+	HP: 47.
+	Normal attack value: 12.
+	Defense value: 11.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: true
+			Cooldown: 4
+		Ability:
+			Damage: 1
+			Stun: false
+			Dodge: true
+			Cooldown: 3
+	Items:
+		Shield
+		Vitamins
+		ChristmasTree
+	Score: 78.
+Coach Ileana to fight with Neutrel1...
+Coach Ileana picked Eevee.
+Pokemon stats:
+Pokemon:
+	Name: Eevee.
+	HP: 42.
+	Special attack value: 7.
+	Defense value: 6.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+	Score: 61.
+Starting battle...
+tick: 0...
+Eevee attempts to cast ability on Neutrel1 with damage: 5...
+	Damage dealt: 5.
+Neutrel1 attempts normal attack with value 3 on Eevee with defense value: 6...
+	Damage dealt: 0.
+Eevee HP: 42.
+Neutrel1 HP: 5.
+tick: 1...
+Eevee attempts to cast ability on Neutrel1 with damage: 3...
+	Damage dealt: 3.
+Neutrel1 attempts normal attack with value 3 on Eevee with defense value: 6...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Eevee HP: 42.
+Neutrel1 HP: 2.
+tick: 2...
+Eevee attempts special attack with value 7 on Neutrel1 with special defense value: 1...
+	Damage dealt: 6.
+Neutrel1 is unable to attack because stunned.
+Eevee HP: 42.
+Neutrel1 HP: -4.
+Eevee WINS!
+Eevee buffed!
+New stats:
+Pokemon:
+	Name: Eevee.
+	HP: 43.
+	Special attack value: 8.
+	Defense value: 7.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+	Score: 65.
+Coach Iuliu to fight with coach Ileana...
+Battle 1...
+Pokemon Jigglypuff to fight with Psyduck...
+Jigglypuff's stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 35.
+	Normal attack value: 8.
+	Defense value: 3.
+	Special defense value: 4.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Sword
+	Score: 50.
+Psyduck's stats:
+Pokemon:
+	Name: Psyduck.
+	HP: 45.
+	Normal attack value: 5.
+	Defense value: 5.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+	Items:
+	Score: 60.
+tick: 0...
+Jigglypuff attempts to cast ability on Psyduck with damage: 3...
+Psyduck attempts to cast ability on Jigglypuff with damage: 2...
+	Damage dealt: 3.
+	Damage dealt: 2.
+	Jigglypuff stunned.
+	Psyduck stunned.
+Jigglypuff HP: 33.
+Psyduck HP: 42.
+tick: 1...
+Jigglypuff is unable to attack because stunned.
+Psyduck is unable to attack because stunned.
+Jigglypuff HP: 33.
+Psyduck HP: 42.
+tick: 2...
+Jigglypuff attempts to cast ability on Psyduck with damage: 4...
+Psyduck attempts to cast ability on Jigglypuff with damage: 2...
+	Damage dealt: 4.
+	Damage dealt: 2.
+	Psyduck stunned.
+Jigglypuff HP: 31.
+Psyduck HP: 38.
+tick: 3...
+Jigglypuff attempts normal attack with value 8 on Psyduck with defense value: 5...
+	Damage dealt: 3.
+Psyduck is unable to attack because stunned.
+Jigglypuff HP: 31.
+Psyduck HP: 35.
+tick: 4...
+Jigglypuff attempts normal attack with value 8 on Psyduck with defense value: 5...
+	Damage dealt: 3.
+Psyduck attempts normal attack with value 5 on Jigglypuff with defense value: 3...
+	Damage dealt: 2.
+Jigglypuff HP: 29.
+Psyduck HP: 32.
+tick: 5...
+Jigglypuff attempts to cast ability on Psyduck with damage: 3...
+	Damage dealt: 3.
+Psyduck attempts normal attack with value 5 on Jigglypuff with defense value: 3...
+	Damage dealt: 2.
+	Psyduck stunned.
+Jigglypuff HP: 27.
+Psyduck HP: 29.
+tick: 6...
+Jigglypuff attempts normal attack with value 8 on Psyduck with defense value: 5...
+	Damage dealt: 3.
+Psyduck is unable to attack because stunned.
+Jigglypuff HP: 27.
+Psyduck HP: 26.
+tick: 7...
+Jigglypuff attempts to cast ability on Psyduck with damage: 4...
+Psyduck attempts to cast ability on Jigglypuff with damage: 2...
+	Damage dealt: 4.
+	Damage dealt: 2.
+	Psyduck stunned.
+Jigglypuff HP: 25.
+Psyduck HP: 22.
+tick: 8...
+Jigglypuff attempts normal attack with value 8 on Psyduck with defense value: 5...
+	Damage dealt: 3.
+Psyduck is unable to attack because stunned.
+Jigglypuff HP: 25.
+Psyduck HP: 19.
+tick: 9...
+Psyduck attempts to cast ability on Jigglypuff with damage: 2...
+Jigglypuff attempts normal attack with value 8 on Psyduck with defense value: 5...
+	Damage dealt: 3.
+	Damage dealt: 2.
+	Jigglypuff stunned.
+Jigglypuff HP: 23.
+Psyduck HP: 16.
+tick: 10...
+Jigglypuff is unable to attack because stunned.
+Psyduck attempts normal attack with value 5 on Jigglypuff with defense value: 3...
+	Damage dealt: 2.
+Jigglypuff HP: 21.
+Psyduck HP: 16.
+tick: 11...
+Jigglypuff attempts to cast ability on Psyduck with damage: 3...
+	Damage dealt: 3.
+Psyduck attempts normal attack with value 5 on Jigglypuff with defense value: 3...
+	Damage dealt: 2.
+	Psyduck stunned.
+Jigglypuff HP: 19.
+Psyduck HP: 13.
+tick: 12...
+Jigglypuff attempts to cast ability on Psyduck with damage: 4...
+	Damage dealt: 4.
+Psyduck is unable to attack because stunned.
+	Psyduck stunned.
+Jigglypuff HP: 19.
+Psyduck HP: 9.
+tick: 13...
+Jigglypuff attempts normal attack with value 8 on Psyduck with defense value: 5...
+	Damage dealt: 3.
+Psyduck is unable to attack because stunned.
+Jigglypuff HP: 19.
+Psyduck HP: 6.
+tick: 14...
+Psyduck attempts to cast ability on Jigglypuff with damage: 2...
+Jigglypuff attempts normal attack with value 8 on Psyduck with defense value: 5...
+	Damage dealt: 3.
+	Damage dealt: 2.
+Jigglypuff HP: 17.
+Psyduck HP: 3.
+tick: 15...
+Psyduck attempts to cast ability on Jigglypuff with damage: 2...
+Jigglypuff attempts normal attack with value 8 on Psyduck with defense value: 5...
+	Damage dealt: 3.
+	Damage dealt: 2.
+	Jigglypuff stunned.
+Jigglypuff HP: 15.
+Psyduck HP: 0.
+Jigglypuff WINS!
+Jigglypuff buffed!
+New stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 36.
+	Normal attack value: 9.
+	Defense value: 4.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Sword
+	Score: 54.
+Battle 2...
+Pokemon Meowth to fight with Pikachu...
+Meowth's stats:
+Pokemon:
+	Name: Meowth.
+	HP: 47.
+	Normal attack value: 12.
+	Defense value: 11.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: true
+			Cooldown: 4
+		Ability:
+			Damage: 1
+			Stun: false
+			Dodge: true
+			Cooldown: 3
+	Items:
+		Shield
+		Vitamins
+		ChristmasTree
+	Score: 78.
+Pikachu's stats:
+Pokemon:
+	Name: Pikachu.
+	HP: 45.
+	Special attack value: 4.
+	Defense value: 3.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: true
+			Cooldown: 5
+	Items:
+		Vest
+		ChristmasTree
+		Cape
+	Score: 58.
+tick: 0...
+Meowth attempts to cast ability on Pikachu with damage: 5...
+Pikachu attempts to cast ability on Meowth with damage: 6...
+	Damage dealt: 5.
+Meowth dodges Pikachu's attack.
+Meowth HP: 47.
+Pikachu HP: 40.
+tick: 1...
+Meowth attempts to cast ability on Pikachu with damage: 1...
+Pikachu attempts to cast ability on Meowth with damage: 4...
+Pikachu dodges Meowth's attack.
+Meowth dodges Pikachu's attack.
+Meowth HP: 47.
+Pikachu HP: 40.
+tick: 2...
+Meowth attempts normal attack with value 12 on Pikachu with defense value: 3...
+	Damage dealt: 9.
+Pikachu attempts special attack with value 4 on Meowth with special defense value: 11...
+	Damage dealt: 0.
+Meowth HP: 47.
+Pikachu HP: 31.
+tick: 3...
+Meowth attempts normal attack with value 12 on Pikachu with defense value: 3...
+	Damage dealt: 9.
+Pikachu attempts special attack with value 4 on Meowth with special defense value: 11...
+	Damage dealt: 0.
+Meowth HP: 47.
+Pikachu HP: 22.
+tick: 4...
+Meowth attempts normal attack with value 12 on Pikachu with defense value: 3...
+	Damage dealt: 9.
+Pikachu attempts special attack with value 4 on Meowth with special defense value: 11...
+	Damage dealt: 0.
+Meowth HP: 47.
+Pikachu HP: 13.
+tick: 5...
+Meowth attempts to cast ability on Pikachu with damage: 1...
+Pikachu attempts to cast ability on Meowth with damage: 6...
+	Damage dealt: 1.
+Meowth dodges Pikachu's attack.
+Meowth HP: 47.
+Pikachu HP: 12.
+tick: 6...
+Meowth attempts to cast ability on Pikachu with damage: 5...
+	Damage dealt: 5.
+Meowth dodges Pikachu's attack.
+Meowth HP: 47.
+Pikachu HP: 7.
+tick: 7...
+Pikachu attempts to cast ability on Meowth with damage: 4...
+Pikachu dodges Meowth's attack.
+	Damage dealt: 4.
+	Meowth stunned.
+Meowth HP: 43.
+Pikachu HP: 7.
+tick: 8...
+Meowth is unable to attack because stunned.
+Pikachu attempts special attack with value 4 on Meowth with special defense value: 11...
+	Damage dealt: 0.
+Meowth HP: 43.
+Pikachu HP: 7.
+tick: 9...
+Meowth attempts to cast ability on Pikachu with damage: 1...
+	Damage dealt: 1.
+Meowth dodges Pikachu's attack.
+Meowth HP: 43.
+Pikachu HP: 6.
+tick: 10...
+Pikachu attempts to cast ability on Meowth with damage: 6...
+Meowth attempts normal attack with value 12 on Pikachu with defense value: 3...
+	Damage dealt: 9.
+	Damage dealt: 6.
+Meowth HP: 37.
+Pikachu HP: -3.
+Meowth WINS!
+Meowth buffed!
+New stats:
+Pokemon:
+	Name: Meowth.
+	HP: 48.
+	Normal attack value: 13.
+	Defense value: 12.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: true
+			Cooldown: 4
+		Ability:
+			Damage: 1
+			Stun: false
+			Dodge: true
+			Cooldown: 3
+	Items:
+		Shield
+		Vitamins
+		ChristmasTree
+	Score: 82.
+Battle 3...
+Pokemon Eevee to fight with Eevee...
+Eevee's stats:
+Pokemon:
+	Name: Eevee.
+	HP: 42.
+	Special attack value: 7.
+	Defense value: 6.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		Cape
+		Shield
+	Score: 64.
+Eevee's stats:
+Pokemon:
+	Name: Eevee.
+	HP: 43.
+	Special attack value: 8.
+	Defense value: 7.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+	Score: 65.
+tick: 0...
+Eevee attempts to cast ability on Eevee with damage: 3...
+Eevee attempts to cast ability on Eevee with damage: 5...
+	Damage dealt: 3.
+	Damage dealt: 5.
+	Eevee stunned.
+Eevee HP: 37.
+Eevee HP: 40.
+tick: 1...
+Eevee attempts to cast ability on Eevee with damage: 5...
+	Damage dealt: 5.
+Eevee is unable to attack because stunned.
+Eevee HP: 37.
+Eevee HP: 35.
+tick: 2...
+Eevee attempts to cast ability on Eevee with damage: 3...
+Eevee attempts special attack with value 7 on Eevee with special defense value: 7...
+	Damage dealt: 0.
+	Damage dealt: 3.
+	Eevee stunned.
+Eevee HP: 34.
+Eevee HP: 35.
+tick: 3...
+Eevee is unable to attack because stunned.
+Eevee attempts special attack with value 8 on Eevee with special defense value: 6...
+	Damage dealt: 0.
+Eevee HP: 34.
+Eevee HP: 35.
+tick: 4...
+Eevee attempts to cast ability on Eevee with damage: 3...
+Eevee attempts to cast ability on Eevee with damage: 5...
+	Damage dealt: 3.
+	Damage dealt: 5.
+	Eevee stunned.
+Eevee HP: 29.
+Eevee HP: 32.
+tick: 5...
+Eevee attempts to cast ability on Eevee with damage: 5...
+	Damage dealt: 5.
+Eevee is unable to attack because stunned.
+Eevee HP: 29.
+Eevee HP: 27.
+tick: 6...
+Eevee attempts to cast ability on Eevee with damage: 3...
+Eevee attempts special attack with value 7 on Eevee with special defense value: 7...
+	Damage dealt: 0.
+	Damage dealt: 3.
+	Eevee stunned.
+Eevee HP: 26.
+Eevee HP: 27.
+tick: 7...
+Eevee is unable to attack because stunned.
+Eevee attempts special attack with value 8 on Eevee with special defense value: 6...
+	Damage dealt: 0.
+Eevee HP: 26.
+Eevee HP: 27.
+tick: 8...
+Eevee attempts to cast ability on Eevee with damage: 3...
+Eevee attempts to cast ability on Eevee with damage: 5...
+	Damage dealt: 3.
+	Damage dealt: 5.
+	Eevee stunned.
+Eevee HP: 21.
+Eevee HP: 24.
+tick: 9...
+Eevee attempts to cast ability on Eevee with damage: 5...
+	Damage dealt: 5.
+Eevee is unable to attack because stunned.
+Eevee HP: 21.
+Eevee HP: 19.
+tick: 10...
+Eevee attempts to cast ability on Eevee with damage: 3...
+Eevee attempts special attack with value 7 on Eevee with special defense value: 7...
+	Damage dealt: 0.
+	Damage dealt: 3.
+	Eevee stunned.
+Eevee HP: 18.
+Eevee HP: 19.
+tick: 11...
+Eevee is unable to attack because stunned.
+Eevee attempts special attack with value 8 on Eevee with special defense value: 6...
+	Damage dealt: 0.
+Eevee HP: 18.
+Eevee HP: 19.
+tick: 12...
+Eevee attempts to cast ability on Eevee with damage: 3...
+Eevee attempts to cast ability on Eevee with damage: 5...
+	Damage dealt: 3.
+	Damage dealt: 5.
+	Eevee stunned.
+Eevee HP: 13.
+Eevee HP: 16.
+tick: 13...
+Eevee attempts to cast ability on Eevee with damage: 5...
+	Damage dealt: 5.
+Eevee is unable to attack because stunned.
+Eevee HP: 13.
+Eevee HP: 11.
+tick: 14...
+Eevee attempts to cast ability on Eevee with damage: 3...
+Eevee attempts special attack with value 7 on Eevee with special defense value: 7...
+	Damage dealt: 0.
+	Damage dealt: 3.
+	Eevee stunned.
+Eevee HP: 10.
+Eevee HP: 11.
+tick: 15...
+Eevee is unable to attack because stunned.
+Eevee attempts special attack with value 8 on Eevee with special defense value: 6...
+	Damage dealt: 0.
+Eevee HP: 10.
+Eevee HP: 11.
+tick: 16...
+Eevee attempts to cast ability on Eevee with damage: 3...
+Eevee attempts to cast ability on Eevee with damage: 5...
+	Damage dealt: 3.
+	Damage dealt: 5.
+	Eevee stunned.
+Eevee HP: 5.
+Eevee HP: 8.
+tick: 17...
+Eevee attempts to cast ability on Eevee with damage: 5...
+	Damage dealt: 5.
+Eevee is unable to attack because stunned.
+Eevee HP: 5.
+Eevee HP: 3.
+tick: 18...
+Eevee attempts to cast ability on Eevee with damage: 3...
+Eevee attempts special attack with value 7 on Eevee with special defense value: 7...
+	Damage dealt: 0.
+	Damage dealt: 3.
+	Eevee stunned.
+Eevee HP: 2.
+Eevee HP: 3.
+tick: 19...
+Eevee is unable to attack because stunned.
+Eevee attempts special attack with value 8 on Eevee with special defense value: 6...
+	Damage dealt: 0.
+Eevee HP: 2.
+Eevee HP: 3.
+tick: 20...
+Eevee attempts to cast ability on Eevee with damage: 3...
+Eevee attempts to cast ability on Eevee with damage: 5...
+	Damage dealt: 3.
+	Damage dealt: 5.
+	Eevee stunned.
+Eevee HP: -3.
+Eevee HP: 0.
+DRAW!
+Eevee's score: 64.
+Eevee's score: 65.
+Final battle...
+Meowth with score: 82 to fight Eevee with score: 65...
+tick: 0...
+Meowth attempts to cast ability on Eevee with damage: 1...
+Eevee attempts to cast ability on Meowth with damage: 3...
+	Damage dealt: 1.
+Meowth dodges Eevee's attack.
+Meowth HP: 48.
+Eevee HP: 42.
+tick: 1...
+Meowth attempts to cast ability on Eevee with damage: 5...
+Eevee attempts to cast ability on Meowth with damage: 5...
+	Damage dealt: 5.
+Meowth dodges Eevee's attack.
+Meowth HP: 48.
+Eevee HP: 37.
+tick: 2...
+Meowth attempts normal attack with value 13 on Eevee with defense value: 7...
+	Damage dealt: 6.
+Eevee attempts special attack with value 8 on Meowth with special defense value: 12...
+	Damage dealt: 0.
+Meowth HP: 48.
+Eevee HP: 31.
+tick: 3...
+Meowth attempts normal attack with value 13 on Eevee with defense value: 7...
+	Damage dealt: 6.
+Eevee attempts special attack with value 8 on Meowth with special defense value: 12...
+	Damage dealt: 0.
+Meowth HP: 48.
+Eevee HP: 25.
+tick: 4...
+Meowth attempts to cast ability on Eevee with damage: 1...
+Eevee attempts to cast ability on Meowth with damage: 3...
+	Damage dealt: 1.
+Meowth dodges Eevee's attack.
+Meowth HP: 48.
+Eevee HP: 24.
+tick: 5...
+Eevee attempts to cast ability on Meowth with damage: 5...
+Meowth attempts normal attack with value 13 on Eevee with defense value: 7...
+	Damage dealt: 6.
+	Damage dealt: 5.
+Meowth HP: 43.
+Eevee HP: 18.
+tick: 6...
+Meowth attempts to cast ability on Eevee with damage: 5...
+	Damage dealt: 5.
+Meowth dodges Eevee's attack.
+Meowth HP: 43.
+Eevee HP: 13.
+tick: 7...
+Meowth attempts normal attack with value 13 on Eevee with defense value: 7...
+	Damage dealt: 6.
+Eevee attempts special attack with value 8 on Meowth with special defense value: 12...
+	Damage dealt: 0.
+Meowth HP: 43.
+Eevee HP: 7.
+tick: 8...
+Meowth attempts to cast ability on Eevee with damage: 1...
+Eevee attempts to cast ability on Meowth with damage: 3...
+	Damage dealt: 1.
+Meowth dodges Eevee's attack.
+Meowth HP: 43.
+Eevee HP: 6.
+tick: 9...
+Eevee attempts to cast ability on Meowth with damage: 5...
+Meowth attempts normal attack with value 13 on Eevee with defense value: 7...
+	Damage dealt: 6.
+	Damage dealt: 5.
+Meowth HP: 38.
+Eevee HP: 0.
+Meowth WINS!
+Meowth buffed!
+New stats:
+Pokemon:
+	Name: Meowth.
+	HP: 49.
+	Normal attack value: 14.
+	Defense value: 13.
+	Special defense value: 10.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: true
+			Cooldown: 4
+		Ability:
+			Damage: 1
+			Stun: false
+			Dodge: true
+			Cooldown: 3
+	Items:
+		Shield
+		Vitamins
+		ChristmasTree
+	Score: 86.
+Coach Iuliu is the winner of the adventure!

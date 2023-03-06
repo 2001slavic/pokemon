@@ -1,0 +1,2696 @@
+Initiating new battle...
+Coach Ileana to fight with Neutrel1...
+Coach Ileana picked Jigglypuff.
+Pokemon stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 34.
+	Normal attack value: 7.
+	Defense value: 5.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Shield
+		ChristmasTree
+		Cape
+	Score: 54.
+Starting battle...
+tick: 0...
+Jigglypuff attempts to cast ability on Neutrel1 with damage: 4...
+	Damage dealt: 4.
+Neutrel1 attempts normal attack with value 3 on Jigglypuff with defense value: 5...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Jigglypuff HP: 34.
+Neutrel1 HP: 6.
+tick: 1...
+Jigglypuff attempts to cast ability on Neutrel1 with damage: 3...
+	Damage dealt: 3.
+Neutrel1 is unable to attack because stunned.
+	Neutrel1 stunned.
+Jigglypuff HP: 34.
+Neutrel1 HP: 3.
+tick: 2...
+Jigglypuff attempts normal attack with value 7 on Neutrel1 with defense value: 1...
+	Damage dealt: 6.
+Neutrel1 is unable to attack because stunned.
+Jigglypuff HP: 34.
+Neutrel1 HP: -3.
+Jigglypuff WINS!
+Jigglypuff buffed!
+New stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 35.
+	Normal attack value: 8.
+	Defense value: 6.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Shield
+		ChristmasTree
+		Cape
+	Score: 58.
+Coach Viorica to fight with Neutrel1...
+Coach Viorica picked Bulbasaur.
+Pokemon stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 44.
+	Special attack value: 7.
+	Defense value: 4.
+	Special defense value: 4.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 59.
+Starting battle...
+tick: 0...
+Bulbasaur attempts to cast ability on Neutrel1 with damage: 5...
+	Damage dealt: 5.
+Neutrel1 attempts normal attack with value 3 on Bulbasaur with defense value: 4...
+	Damage dealt: 0.
+Bulbasaur HP: 44.
+Neutrel1 HP: 5.
+tick: 1...
+Bulbasaur attempts to cast ability on Neutrel1 with damage: 6...
+	Damage dealt: 6.
+Neutrel1 attempts normal attack with value 3 on Bulbasaur with defense value: 4...
+	Damage dealt: 0.
+Bulbasaur HP: 44.
+Neutrel1 HP: -1.
+Bulbasaur WINS!
+Bulbasaur buffed!
+New stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 45.
+	Special attack value: 8.
+	Defense value: 5.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 63.
+Coach Ileana to fight with Neutrel2...
+Coach Ileana picked Vulpix.
+Pokemon stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 36.
+	Normal attack value: 5.
+	Defense value: 2.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		Cape
+	Score: 50.
+Starting battle...
+tick: 0...
+Vulpix attempts to cast ability on Neutrel2 with damage: 2...
+	Damage dealt: 2.
+Vulpix dodges Neutrel2's attack.
+Vulpix HP: 36.
+Neutrel2 HP: 18.
+tick: 1...
+Vulpix attempts to cast ability on Neutrel2 with damage: 8...
+	Damage dealt: 8.
+Neutrel2 attempts normal attack with value 4 on Vulpix with defense value: 2...
+	Damage dealt: 2.
+	Neutrel2 stunned.
+Vulpix HP: 34.
+Neutrel2 HP: 10.
+tick: 2...
+Vulpix attempts normal attack with value 5 on Neutrel2 with defense value: 1...
+	Damage dealt: 4.
+Neutrel2 is unable to attack because stunned.
+Vulpix HP: 34.
+Neutrel2 HP: 6.
+tick: 3...
+Vulpix attempts normal attack with value 5 on Neutrel2 with defense value: 1...
+	Damage dealt: 4.
+Neutrel2 attempts normal attack with value 4 on Vulpix with defense value: 2...
+	Damage dealt: 2.
+Vulpix HP: 32.
+Neutrel2 HP: 2.
+tick: 4...
+Vulpix attempts normal attack with value 5 on Neutrel2 with defense value: 1...
+	Damage dealt: 4.
+Neutrel2 attempts normal attack with value 4 on Vulpix with defense value: 2...
+	Damage dealt: 2.
+Vulpix HP: 30.
+Neutrel2 HP: -2.
+Vulpix WINS!
+Vulpix buffed!
+New stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 37.
+	Normal attack value: 6.
+	Defense value: 3.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		Cape
+	Score: 54.
+Coach Viorica to fight with Neutrel2...
+Coach Viorica picked Bulbasaur.
+Pokemon stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 45.
+	Special attack value: 8.
+	Defense value: 5.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 63.
+Starting battle...
+tick: 0...
+Bulbasaur attempts to cast ability on Neutrel2 with damage: 6...
+	Damage dealt: 6.
+Neutrel2 attempts normal attack with value 4 on Bulbasaur with defense value: 5...
+	Damage dealt: 0.
+Bulbasaur HP: 45.
+Neutrel2 HP: 14.
+tick: 1...
+Bulbasaur attempts to cast ability on Neutrel2 with damage: 5...
+	Damage dealt: 5.
+Neutrel2 attempts normal attack with value 4 on Bulbasaur with defense value: 5...
+	Damage dealt: 0.
+Bulbasaur HP: 45.
+Neutrel2 HP: 9.
+tick: 2...
+Bulbasaur attempts special attack with value 8 on Neutrel2 with special defense value: 1...
+	Damage dealt: 7.
+Neutrel2 attempts normal attack with value 4 on Bulbasaur with defense value: 5...
+	Damage dealt: 0.
+Bulbasaur HP: 45.
+Neutrel2 HP: 2.
+tick: 3...
+Bulbasaur attempts special attack with value 8 on Neutrel2 with special defense value: 1...
+	Damage dealt: 7.
+Neutrel2 attempts normal attack with value 4 on Bulbasaur with defense value: 5...
+	Damage dealt: 0.
+Bulbasaur HP: 45.
+Neutrel2 HP: -5.
+Bulbasaur WINS!
+Bulbasaur buffed!
+New stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 46.
+	Special attack value: 9.
+	Defense value: 6.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 67.
+Coach Ileana to fight with Neutrel2...
+Coach Ileana picked Vulpix.
+Pokemon stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 37.
+	Normal attack value: 6.
+	Defense value: 3.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		Cape
+	Score: 54.
+Starting battle...
+tick: 0...
+Vulpix attempts to cast ability on Neutrel2 with damage: 8...
+	Damage dealt: 8.
+Neutrel2 attempts normal attack with value 4 on Vulpix with defense value: 3...
+	Damage dealt: 1.
+	Neutrel2 stunned.
+Vulpix HP: 36.
+Neutrel2 HP: 12.
+tick: 1...
+Vulpix attempts to cast ability on Neutrel2 with damage: 2...
+	Damage dealt: 2.
+Neutrel2 is unable to attack because stunned.
+Vulpix HP: 36.
+Neutrel2 HP: 10.
+tick: 2...
+Vulpix attempts normal attack with value 6 on Neutrel2 with defense value: 1...
+	Damage dealt: 5.
+Neutrel2 attempts normal attack with value 4 on Vulpix with defense value: 3...
+	Damage dealt: 1.
+Vulpix HP: 35.
+Neutrel2 HP: 5.
+tick: 3...
+Vulpix attempts normal attack with value 6 on Neutrel2 with defense value: 1...
+	Damage dealt: 5.
+Neutrel2 attempts normal attack with value 4 on Vulpix with defense value: 3...
+	Damage dealt: 1.
+Vulpix HP: 34.
+Neutrel2 HP: 0.
+Vulpix WINS!
+Vulpix buffed!
+New stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 38.
+	Normal attack value: 7.
+	Defense value: 4.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		Cape
+	Score: 58.
+Coach Viorica to fight with Neutrel2...
+Coach Viorica picked Bulbasaur.
+Pokemon stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 46.
+	Special attack value: 9.
+	Defense value: 6.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 67.
+Starting battle...
+tick: 0...
+Bulbasaur attempts to cast ability on Neutrel2 with damage: 6...
+	Damage dealt: 6.
+Neutrel2 attempts normal attack with value 4 on Bulbasaur with defense value: 6...
+	Damage dealt: 0.
+Bulbasaur HP: 46.
+Neutrel2 HP: 14.
+tick: 1...
+Bulbasaur attempts to cast ability on Neutrel2 with damage: 5...
+	Damage dealt: 5.
+Neutrel2 attempts normal attack with value 4 on Bulbasaur with defense value: 6...
+	Damage dealt: 0.
+Bulbasaur HP: 46.
+Neutrel2 HP: 9.
+tick: 2...
+Bulbasaur attempts special attack with value 9 on Neutrel2 with special defense value: 1...
+	Damage dealt: 8.
+Neutrel2 attempts normal attack with value 4 on Bulbasaur with defense value: 6...
+	Damage dealt: 0.
+Bulbasaur HP: 46.
+Neutrel2 HP: 1.
+tick: 3...
+Bulbasaur attempts special attack with value 9 on Neutrel2 with special defense value: 1...
+	Damage dealt: 8.
+Neutrel2 attempts normal attack with value 4 on Bulbasaur with defense value: 6...
+	Damage dealt: 0.
+Bulbasaur HP: 46.
+Neutrel2 HP: -7.
+Bulbasaur WINS!
+Bulbasaur buffed!
+New stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 47.
+	Special attack value: 10.
+	Defense value: 7.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 71.
+Coach Ileana to fight with Neutrel2...
+Coach Ileana picked Snorlax.
+Pokemon stats:
+Pokemon:
+	Name: Snorlax.
+	HP: 62.
+	Normal attack value: 3.
+	Defense value: 6.
+	Special defense value: 4.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+		Ability:
+			Damage: 0
+			Stun: false
+			Dodge: true
+			Cooldown: 5
+	Items:
+	Score: 75.
+Starting battle...
+tick: 0...
+Snorlax attempts to cast ability on Neutrel2 with damage: 0...
+	Damage dealt: 0.
+Snorlax dodges Neutrel2's attack.
+Snorlax HP: 62.
+Neutrel2 HP: 20.
+tick: 1...
+Snorlax attempts to cast ability on Neutrel2 with damage: 4...
+	Damage dealt: 4.
+Neutrel2 attempts normal attack with value 4 on Snorlax with defense value: 6...
+	Damage dealt: 0.
+	Neutrel2 stunned.
+Snorlax HP: 62.
+Neutrel2 HP: 16.
+tick: 2...
+Snorlax attempts normal attack with value 3 on Neutrel2 with defense value: 1...
+	Damage dealt: 2.
+Neutrel2 is unable to attack because stunned.
+Snorlax HP: 62.
+Neutrel2 HP: 14.
+tick: 3...
+Snorlax attempts normal attack with value 3 on Neutrel2 with defense value: 1...
+	Damage dealt: 2.
+Neutrel2 attempts normal attack with value 4 on Snorlax with defense value: 6...
+	Damage dealt: 0.
+Snorlax HP: 62.
+Neutrel2 HP: 12.
+tick: 4...
+Snorlax attempts normal attack with value 3 on Neutrel2 with defense value: 1...
+	Damage dealt: 2.
+Neutrel2 attempts normal attack with value 4 on Snorlax with defense value: 6...
+	Damage dealt: 0.
+Snorlax HP: 62.
+Neutrel2 HP: 10.
+tick: 5...
+Snorlax attempts normal attack with value 3 on Neutrel2 with defense value: 1...
+	Damage dealt: 2.
+Neutrel2 attempts normal attack with value 4 on Snorlax with defense value: 6...
+	Damage dealt: 0.
+Snorlax HP: 62.
+Neutrel2 HP: 8.
+tick: 6...
+Snorlax attempts to cast ability on Neutrel2 with damage: 0...
+	Damage dealt: 0.
+Snorlax dodges Neutrel2's attack.
+Snorlax HP: 62.
+Neutrel2 HP: 8.
+tick: 7...
+Snorlax attempts to cast ability on Neutrel2 with damage: 4...
+	Damage dealt: 4.
+Neutrel2 attempts normal attack with value 4 on Snorlax with defense value: 6...
+	Damage dealt: 0.
+	Neutrel2 stunned.
+Snorlax HP: 62.
+Neutrel2 HP: 4.
+tick: 8...
+Snorlax attempts normal attack with value 3 on Neutrel2 with defense value: 1...
+	Damage dealt: 2.
+Neutrel2 is unable to attack because stunned.
+Snorlax HP: 62.
+Neutrel2 HP: 2.
+tick: 9...
+Snorlax attempts normal attack with value 3 on Neutrel2 with defense value: 1...
+	Damage dealt: 2.
+Neutrel2 attempts normal attack with value 4 on Snorlax with defense value: 6...
+	Damage dealt: 0.
+Snorlax HP: 62.
+Neutrel2 HP: 0.
+Snorlax WINS!
+Snorlax buffed!
+New stats:
+Pokemon:
+	Name: Snorlax.
+	HP: 63.
+	Normal attack value: 4.
+	Defense value: 7.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+		Ability:
+			Damage: 0
+			Stun: false
+			Dodge: true
+			Cooldown: 5
+	Items:
+	Score: 79.
+Coach Viorica to fight with Neutrel2...
+Coach Viorica picked Pikachu.
+Pokemon stats:
+Pokemon:
+	Name: Pikachu.
+	HP: 35.
+	Special attack value: 7.
+	Defense value: 3.
+	Special defense value: 3.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: true
+			Cooldown: 5
+	Items:
+		MagicWand
+		ChristmasTree
+	Score: 48.
+Starting battle...
+tick: 0...
+Pikachu attempts to cast ability on Neutrel2 with damage: 6...
+	Damage dealt: 6.
+Neutrel2 attempts normal attack with value 4 on Pikachu with defense value: 3...
+	Damage dealt: 1.
+Pikachu HP: 34.
+Neutrel2 HP: 14.
+tick: 1...
+Pikachu attempts to cast ability on Neutrel2 with damage: 4...
+	Damage dealt: 4.
+Pikachu dodges Neutrel2's attack.
+	Neutrel2 stunned.
+Pikachu HP: 34.
+Neutrel2 HP: 10.
+tick: 2...
+Pikachu attempts special attack with value 7 on Neutrel2 with special defense value: 1...
+	Damage dealt: 6.
+Neutrel2 is unable to attack because stunned.
+Pikachu HP: 34.
+Neutrel2 HP: 4.
+tick: 3...
+Pikachu attempts special attack with value 7 on Neutrel2 with special defense value: 1...
+	Damage dealt: 6.
+Neutrel2 attempts normal attack with value 4 on Pikachu with defense value: 3...
+	Damage dealt: 1.
+Pikachu HP: 33.
+Neutrel2 HP: -2.
+Pikachu WINS!
+Pikachu buffed!
+New stats:
+Pokemon:
+	Name: Pikachu.
+	HP: 36.
+	Special attack value: 8.
+	Defense value: 4.
+	Special defense value: 4.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: true
+			Cooldown: 5
+	Items:
+		MagicWand
+		ChristmasTree
+	Score: 52.
+Coach Ileana to fight with Neutrel1...
+Coach Ileana picked Vulpix.
+Pokemon stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 38.
+	Normal attack value: 7.
+	Defense value: 4.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		Cape
+	Score: 58.
+Starting battle...
+tick: 0...
+Vulpix attempts to cast ability on Neutrel1 with damage: 2...
+	Damage dealt: 2.
+Vulpix dodges Neutrel1's attack.
+Vulpix HP: 38.
+Neutrel1 HP: 8.
+tick: 1...
+Vulpix attempts to cast ability on Neutrel1 with damage: 8...
+	Damage dealt: 8.
+Neutrel1 attempts normal attack with value 3 on Vulpix with defense value: 4...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Vulpix HP: 38.
+Neutrel1 HP: 0.
+Vulpix WINS!
+Vulpix buffed!
+New stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 39.
+	Normal attack value: 8.
+	Defense value: 5.
+	Special defense value: 10.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		Cape
+	Score: 62.
+Coach Viorica to fight with Neutrel1...
+Coach Viorica picked Pikachu.
+Pokemon stats:
+Pokemon:
+	Name: Pikachu.
+	HP: 36.
+	Special attack value: 8.
+	Defense value: 4.
+	Special defense value: 4.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: true
+			Cooldown: 5
+	Items:
+		MagicWand
+		ChristmasTree
+	Score: 52.
+Starting battle...
+tick: 0...
+Pikachu attempts to cast ability on Neutrel1 with damage: 4...
+	Damage dealt: 4.
+Pikachu dodges Neutrel1's attack.
+	Neutrel1 stunned.
+Pikachu HP: 36.
+Neutrel1 HP: 6.
+tick: 1...
+Pikachu attempts to cast ability on Neutrel1 with damage: 6...
+	Damage dealt: 6.
+Neutrel1 is unable to attack because stunned.
+Pikachu HP: 36.
+Neutrel1 HP: 0.
+Pikachu WINS!
+Pikachu buffed!
+New stats:
+Pokemon:
+	Name: Pikachu.
+	HP: 37.
+	Special attack value: 9.
+	Defense value: 5.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: true
+			Cooldown: 5
+	Items:
+		MagicWand
+		ChristmasTree
+	Score: 56.
+Coach Ileana to fight with Neutrel1...
+Coach Ileana picked Jigglypuff.
+Pokemon stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 35.
+	Normal attack value: 8.
+	Defense value: 6.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Shield
+		ChristmasTree
+		Cape
+	Score: 58.
+Starting battle...
+tick: 0...
+Jigglypuff attempts to cast ability on Neutrel1 with damage: 3...
+	Damage dealt: 3.
+Neutrel1 attempts normal attack with value 3 on Jigglypuff with defense value: 6...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Jigglypuff HP: 35.
+Neutrel1 HP: 7.
+tick: 1...
+Jigglypuff attempts to cast ability on Neutrel1 with damage: 4...
+	Damage dealt: 4.
+Neutrel1 is unable to attack because stunned.
+	Neutrel1 stunned.
+Jigglypuff HP: 35.
+Neutrel1 HP: 3.
+tick: 2...
+Jigglypuff attempts normal attack with value 8 on Neutrel1 with defense value: 1...
+	Damage dealt: 7.
+Neutrel1 is unable to attack because stunned.
+Jigglypuff HP: 35.
+Neutrel1 HP: -4.
+Jigglypuff WINS!
+Jigglypuff buffed!
+New stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 36.
+	Normal attack value: 9.
+	Defense value: 7.
+	Special defense value: 10.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Shield
+		ChristmasTree
+		Cape
+	Score: 62.
+Coach Viorica to fight with Neutrel1...
+Coach Viorica picked Bulbasaur.
+Pokemon stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 47.
+	Special attack value: 10.
+	Defense value: 7.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 71.
+Starting battle...
+tick: 0...
+Bulbasaur attempts to cast ability on Neutrel1 with damage: 6...
+	Damage dealt: 6.
+Neutrel1 attempts normal attack with value 3 on Bulbasaur with defense value: 7...
+	Damage dealt: 0.
+Bulbasaur HP: 47.
+Neutrel1 HP: 4.
+tick: 1...
+Bulbasaur attempts to cast ability on Neutrel1 with damage: 5...
+	Damage dealt: 5.
+Neutrel1 attempts normal attack with value 3 on Bulbasaur with defense value: 7...
+	Damage dealt: 0.
+Bulbasaur HP: 47.
+Neutrel1 HP: -1.
+Bulbasaur WINS!
+Bulbasaur buffed!
+New stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 48.
+	Special attack value: 11.
+	Defense value: 8.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 75.
+Coach Ileana to fight with Neutrel2...
+Coach Ileana picked Vulpix.
+Pokemon stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 39.
+	Normal attack value: 8.
+	Defense value: 5.
+	Special defense value: 10.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		Cape
+	Score: 62.
+Starting battle...
+tick: 0...
+Vulpix attempts to cast ability on Neutrel2 with damage: 8...
+	Damage dealt: 8.
+Neutrel2 attempts normal attack with value 4 on Vulpix with defense value: 5...
+	Damage dealt: 0.
+	Neutrel2 stunned.
+Vulpix HP: 39.
+Neutrel2 HP: 12.
+tick: 1...
+Vulpix attempts to cast ability on Neutrel2 with damage: 2...
+	Damage dealt: 2.
+Neutrel2 is unable to attack because stunned.
+Vulpix HP: 39.
+Neutrel2 HP: 10.
+tick: 2...
+Vulpix attempts normal attack with value 8 on Neutrel2 with defense value: 1...
+	Damage dealt: 7.
+Neutrel2 attempts normal attack with value 4 on Vulpix with defense value: 5...
+	Damage dealt: 0.
+Vulpix HP: 39.
+Neutrel2 HP: 3.
+tick: 3...
+Vulpix attempts normal attack with value 8 on Neutrel2 with defense value: 1...
+	Damage dealt: 7.
+Neutrel2 attempts normal attack with value 4 on Vulpix with defense value: 5...
+	Damage dealt: 0.
+Vulpix HP: 39.
+Neutrel2 HP: -4.
+Vulpix WINS!
+Vulpix buffed!
+New stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 40.
+	Normal attack value: 9.
+	Defense value: 6.
+	Special defense value: 11.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		Cape
+	Score: 66.
+Coach Viorica to fight with Neutrel2...
+Coach Viorica picked Charmander.
+Pokemon stats:
+Pokemon:
+	Name: Charmander.
+	HP: 50.
+	Normal attack value: 4.
+	Defense value: 3.
+	Special defense value: 2.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 7
+			Stun: false
+			Dodge: false
+			Cooldown: 6
+	Items:
+	Score: 59.
+Starting battle...
+tick: 0...
+Charmander attempts to cast ability on Neutrel2 with damage: 7...
+	Damage dealt: 7.
+Neutrel2 attempts normal attack with value 4 on Charmander with defense value: 3...
+	Damage dealt: 1.
+Charmander HP: 49.
+Neutrel2 HP: 13.
+tick: 1...
+Charmander attempts to cast ability on Neutrel2 with damage: 4...
+	Damage dealt: 4.
+Neutrel2 attempts normal attack with value 4 on Charmander with defense value: 3...
+	Damage dealt: 1.
+	Neutrel2 stunned.
+Charmander HP: 48.
+Neutrel2 HP: 9.
+tick: 2...
+Charmander attempts normal attack with value 4 on Neutrel2 with defense value: 1...
+	Damage dealt: 3.
+Neutrel2 is unable to attack because stunned.
+Charmander HP: 48.
+Neutrel2 HP: 6.
+tick: 3...
+Charmander attempts normal attack with value 4 on Neutrel2 with defense value: 1...
+	Damage dealt: 3.
+Neutrel2 attempts normal attack with value 4 on Charmander with defense value: 3...
+	Damage dealt: 1.
+Charmander HP: 47.
+Neutrel2 HP: 3.
+tick: 4...
+Charmander attempts normal attack with value 4 on Neutrel2 with defense value: 1...
+	Damage dealt: 3.
+Neutrel2 attempts normal attack with value 4 on Charmander with defense value: 3...
+	Damage dealt: 1.
+Charmander HP: 46.
+Neutrel2 HP: 0.
+Charmander WINS!
+Charmander buffed!
+New stats:
+Pokemon:
+	Name: Charmander.
+	HP: 51.
+	Normal attack value: 5.
+	Defense value: 4.
+	Special defense value: 3.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 7
+			Stun: false
+			Dodge: false
+			Cooldown: 6
+	Items:
+	Score: 63.
+Coach Ileana to fight with Neutrel1...
+Coach Ileana picked Snorlax.
+Pokemon stats:
+Pokemon:
+	Name: Snorlax.
+	HP: 63.
+	Normal attack value: 4.
+	Defense value: 7.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+		Ability:
+			Damage: 0
+			Stun: false
+			Dodge: true
+			Cooldown: 5
+	Items:
+	Score: 79.
+Starting battle...
+tick: 0...
+Snorlax attempts to cast ability on Neutrel1 with damage: 4...
+	Damage dealt: 4.
+Neutrel1 attempts normal attack with value 3 on Snorlax with defense value: 7...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Snorlax HP: 63.
+Neutrel1 HP: 6.
+tick: 1...
+Snorlax attempts to cast ability on Neutrel1 with damage: 0...
+	Damage dealt: 0.
+Neutrel1 is unable to attack because stunned.
+Snorlax HP: 63.
+Neutrel1 HP: 6.
+tick: 2...
+Snorlax attempts normal attack with value 4 on Neutrel1 with defense value: 1...
+	Damage dealt: 3.
+Neutrel1 attempts normal attack with value 3 on Snorlax with defense value: 7...
+	Damage dealt: 0.
+Snorlax HP: 63.
+Neutrel1 HP: 3.
+tick: 3...
+Snorlax attempts normal attack with value 4 on Neutrel1 with defense value: 1...
+	Damage dealt: 3.
+Neutrel1 attempts normal attack with value 3 on Snorlax with defense value: 7...
+	Damage dealt: 0.
+Snorlax HP: 63.
+Neutrel1 HP: 0.
+Snorlax WINS!
+Snorlax buffed!
+New stats:
+Pokemon:
+	Name: Snorlax.
+	HP: 64.
+	Normal attack value: 5.
+	Defense value: 8.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+		Ability:
+			Damage: 0
+			Stun: false
+			Dodge: true
+			Cooldown: 5
+	Items:
+	Score: 83.
+Coach Viorica to fight with Neutrel1...
+Coach Viorica picked Bulbasaur.
+Pokemon stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 48.
+	Special attack value: 11.
+	Defense value: 8.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 75.
+Starting battle...
+tick: 0...
+Bulbasaur attempts to cast ability on Neutrel1 with damage: 6...
+	Damage dealt: 6.
+Neutrel1 attempts normal attack with value 3 on Bulbasaur with defense value: 8...
+	Damage dealt: 0.
+Bulbasaur HP: 48.
+Neutrel1 HP: 4.
+tick: 1...
+Bulbasaur attempts to cast ability on Neutrel1 with damage: 5...
+	Damage dealt: 5.
+Neutrel1 attempts normal attack with value 3 on Bulbasaur with defense value: 8...
+	Damage dealt: 0.
+Bulbasaur HP: 48.
+Neutrel1 HP: -1.
+Bulbasaur WINS!
+Bulbasaur buffed!
+New stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 49.
+	Special attack value: 12.
+	Defense value: 9.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 79.
+Coach Ileana to fight with Neutrel1...
+Coach Ileana picked Jigglypuff.
+Pokemon stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 36.
+	Normal attack value: 9.
+	Defense value: 7.
+	Special defense value: 10.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Shield
+		ChristmasTree
+		Cape
+	Score: 62.
+Starting battle...
+tick: 0...
+Jigglypuff attempts to cast ability on Neutrel1 with damage: 3...
+	Damage dealt: 3.
+Neutrel1 attempts normal attack with value 3 on Jigglypuff with defense value: 7...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Jigglypuff HP: 36.
+Neutrel1 HP: 7.
+tick: 1...
+Jigglypuff attempts to cast ability on Neutrel1 with damage: 4...
+	Damage dealt: 4.
+Neutrel1 is unable to attack because stunned.
+	Neutrel1 stunned.
+Jigglypuff HP: 36.
+Neutrel1 HP: 3.
+tick: 2...
+Jigglypuff attempts normal attack with value 9 on Neutrel1 with defense value: 1...
+	Damage dealt: 8.
+Neutrel1 is unable to attack because stunned.
+Jigglypuff HP: 36.
+Neutrel1 HP: -5.
+Jigglypuff WINS!
+Jigglypuff buffed!
+New stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 37.
+	Normal attack value: 10.
+	Defense value: 8.
+	Special defense value: 11.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Shield
+		ChristmasTree
+		Cape
+	Score: 66.
+Coach Viorica to fight with Neutrel1...
+Coach Viorica picked Pikachu.
+Pokemon stats:
+Pokemon:
+	Name: Pikachu.
+	HP: 37.
+	Special attack value: 9.
+	Defense value: 5.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: true
+			Cooldown: 5
+	Items:
+		MagicWand
+		ChristmasTree
+	Score: 56.
+Starting battle...
+tick: 0...
+Pikachu attempts to cast ability on Neutrel1 with damage: 6...
+	Damage dealt: 6.
+Neutrel1 attempts normal attack with value 3 on Pikachu with defense value: 5...
+	Damage dealt: 0.
+Pikachu HP: 37.
+Neutrel1 HP: 4.
+tick: 1...
+Pikachu attempts to cast ability on Neutrel1 with damage: 4...
+	Damage dealt: 4.
+Pikachu dodges Neutrel1's attack.
+	Neutrel1 stunned.
+Pikachu HP: 37.
+Neutrel1 HP: 0.
+Pikachu WINS!
+Pikachu buffed!
+New stats:
+Pokemon:
+	Name: Pikachu.
+	HP: 38.
+	Special attack value: 10.
+	Defense value: 6.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: true
+			Cooldown: 5
+	Items:
+		MagicWand
+		ChristmasTree
+	Score: 60.
+Coach Ileana to fight with Neutrel1...
+Coach Ileana picked Snorlax.
+Pokemon stats:
+Pokemon:
+	Name: Snorlax.
+	HP: 64.
+	Normal attack value: 5.
+	Defense value: 8.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+		Ability:
+			Damage: 0
+			Stun: false
+			Dodge: true
+			Cooldown: 5
+	Items:
+	Score: 83.
+Starting battle...
+tick: 0...
+Snorlax attempts to cast ability on Neutrel1 with damage: 0...
+	Damage dealt: 0.
+Snorlax dodges Neutrel1's attack.
+Snorlax HP: 64.
+Neutrel1 HP: 10.
+tick: 1...
+Snorlax attempts to cast ability on Neutrel1 with damage: 4...
+	Damage dealt: 4.
+Neutrel1 attempts normal attack with value 3 on Snorlax with defense value: 8...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Snorlax HP: 64.
+Neutrel1 HP: 6.
+tick: 2...
+Snorlax attempts normal attack with value 5 on Neutrel1 with defense value: 1...
+	Damage dealt: 4.
+Neutrel1 is unable to attack because stunned.
+Snorlax HP: 64.
+Neutrel1 HP: 2.
+tick: 3...
+Snorlax attempts normal attack with value 5 on Neutrel1 with defense value: 1...
+	Damage dealt: 4.
+Neutrel1 attempts normal attack with value 3 on Snorlax with defense value: 8...
+	Damage dealt: 0.
+Snorlax HP: 64.
+Neutrel1 HP: -2.
+Snorlax WINS!
+Snorlax buffed!
+New stats:
+Pokemon:
+	Name: Snorlax.
+	HP: 65.
+	Normal attack value: 6.
+	Defense value: 9.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+		Ability:
+			Damage: 0
+			Stun: false
+			Dodge: true
+			Cooldown: 5
+	Items:
+	Score: 87.
+Coach Viorica to fight with Neutrel1...
+Coach Viorica picked Bulbasaur.
+Pokemon stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 49.
+	Special attack value: 12.
+	Defense value: 9.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 79.
+Starting battle...
+tick: 0...
+Bulbasaur attempts to cast ability on Neutrel1 with damage: 5...
+	Damage dealt: 5.
+Neutrel1 attempts normal attack with value 3 on Bulbasaur with defense value: 9...
+	Damage dealt: 0.
+Bulbasaur HP: 49.
+Neutrel1 HP: 5.
+tick: 1...
+Bulbasaur attempts to cast ability on Neutrel1 with damage: 6...
+	Damage dealt: 6.
+Neutrel1 attempts normal attack with value 3 on Bulbasaur with defense value: 9...
+	Damage dealt: 0.
+Bulbasaur HP: 49.
+Neutrel1 HP: -1.
+Bulbasaur WINS!
+Bulbasaur buffed!
+New stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 50.
+	Special attack value: 13.
+	Defense value: 10.
+	Special defense value: 10.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 83.
+Coach Ileana to fight with Neutrel1...
+Coach Ileana picked Snorlax.
+Pokemon stats:
+Pokemon:
+	Name: Snorlax.
+	HP: 65.
+	Normal attack value: 6.
+	Defense value: 9.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+		Ability:
+			Damage: 0
+			Stun: false
+			Dodge: true
+			Cooldown: 5
+	Items:
+	Score: 87.
+Starting battle...
+tick: 0...
+Snorlax attempts to cast ability on Neutrel1 with damage: 4...
+	Damage dealt: 4.
+Neutrel1 attempts normal attack with value 3 on Snorlax with defense value: 9...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Snorlax HP: 65.
+Neutrel1 HP: 6.
+tick: 1...
+Snorlax attempts to cast ability on Neutrel1 with damage: 0...
+	Damage dealt: 0.
+Neutrel1 is unable to attack because stunned.
+Snorlax HP: 65.
+Neutrel1 HP: 6.
+tick: 2...
+Snorlax attempts normal attack with value 6 on Neutrel1 with defense value: 1...
+	Damage dealt: 5.
+Neutrel1 attempts normal attack with value 3 on Snorlax with defense value: 9...
+	Damage dealt: 0.
+Snorlax HP: 65.
+Neutrel1 HP: 1.
+tick: 3...
+Snorlax attempts normal attack with value 6 on Neutrel1 with defense value: 1...
+	Damage dealt: 5.
+Neutrel1 attempts normal attack with value 3 on Snorlax with defense value: 9...
+	Damage dealt: 0.
+Snorlax HP: 65.
+Neutrel1 HP: -4.
+Snorlax WINS!
+Snorlax buffed!
+New stats:
+Pokemon:
+	Name: Snorlax.
+	HP: 66.
+	Normal attack value: 7.
+	Defense value: 10.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+		Ability:
+			Damage: 0
+			Stun: false
+			Dodge: true
+			Cooldown: 5
+	Items:
+	Score: 91.
+Coach Viorica to fight with Neutrel1...
+Coach Viorica picked Bulbasaur.
+Pokemon stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 50.
+	Special attack value: 13.
+	Defense value: 10.
+	Special defense value: 10.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 83.
+Starting battle...
+tick: 0...
+Bulbasaur attempts to cast ability on Neutrel1 with damage: 5...
+	Damage dealt: 5.
+Neutrel1 attempts normal attack with value 3 on Bulbasaur with defense value: 10...
+	Damage dealt: 0.
+Bulbasaur HP: 50.
+Neutrel1 HP: 5.
+tick: 1...
+Bulbasaur attempts to cast ability on Neutrel1 with damage: 6...
+	Damage dealt: 6.
+Neutrel1 attempts normal attack with value 3 on Bulbasaur with defense value: 10...
+	Damage dealt: 0.
+Bulbasaur HP: 50.
+Neutrel1 HP: -1.
+Bulbasaur WINS!
+Bulbasaur buffed!
+New stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 51.
+	Special attack value: 14.
+	Defense value: 11.
+	Special defense value: 11.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 87.
+Coach Ileana to fight with Neutrel2...
+Coach Ileana picked Snorlax.
+Pokemon stats:
+Pokemon:
+	Name: Snorlax.
+	HP: 66.
+	Normal attack value: 7.
+	Defense value: 10.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+		Ability:
+			Damage: 0
+			Stun: false
+			Dodge: true
+			Cooldown: 5
+	Items:
+	Score: 91.
+Starting battle...
+tick: 0...
+Snorlax attempts to cast ability on Neutrel2 with damage: 0...
+	Damage dealt: 0.
+Snorlax dodges Neutrel2's attack.
+Snorlax HP: 66.
+Neutrel2 HP: 20.
+tick: 1...
+Snorlax attempts to cast ability on Neutrel2 with damage: 4...
+	Damage dealt: 4.
+Neutrel2 attempts normal attack with value 4 on Snorlax with defense value: 10...
+	Damage dealt: 0.
+	Neutrel2 stunned.
+Snorlax HP: 66.
+Neutrel2 HP: 16.
+tick: 2...
+Snorlax attempts normal attack with value 7 on Neutrel2 with defense value: 1...
+	Damage dealt: 6.
+Neutrel2 is unable to attack because stunned.
+Snorlax HP: 66.
+Neutrel2 HP: 10.
+tick: 3...
+Snorlax attempts normal attack with value 7 on Neutrel2 with defense value: 1...
+	Damage dealt: 6.
+Neutrel2 attempts normal attack with value 4 on Snorlax with defense value: 10...
+	Damage dealt: 0.
+Snorlax HP: 66.
+Neutrel2 HP: 4.
+tick: 4...
+Snorlax attempts normal attack with value 7 on Neutrel2 with defense value: 1...
+	Damage dealt: 6.
+Neutrel2 attempts normal attack with value 4 on Snorlax with defense value: 10...
+	Damage dealt: 0.
+Snorlax HP: 66.
+Neutrel2 HP: -2.
+Snorlax WINS!
+Snorlax buffed!
+New stats:
+Pokemon:
+	Name: Snorlax.
+	HP: 67.
+	Normal attack value: 8.
+	Defense value: 11.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+		Ability:
+			Damage: 0
+			Stun: false
+			Dodge: true
+			Cooldown: 5
+	Items:
+	Score: 95.
+Coach Viorica to fight with Neutrel2...
+Coach Viorica picked Bulbasaur.
+Pokemon stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 51.
+	Special attack value: 14.
+	Defense value: 11.
+	Special defense value: 11.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 87.
+Starting battle...
+tick: 0...
+Bulbasaur attempts to cast ability on Neutrel2 with damage: 6...
+	Damage dealt: 6.
+Neutrel2 attempts normal attack with value 4 on Bulbasaur with defense value: 11...
+	Damage dealt: 0.
+Bulbasaur HP: 51.
+Neutrel2 HP: 14.
+tick: 1...
+Bulbasaur attempts to cast ability on Neutrel2 with damage: 5...
+	Damage dealt: 5.
+Neutrel2 attempts normal attack with value 4 on Bulbasaur with defense value: 11...
+	Damage dealt: 0.
+Bulbasaur HP: 51.
+Neutrel2 HP: 9.
+tick: 2...
+Bulbasaur attempts special attack with value 14 on Neutrel2 with special defense value: 1...
+	Damage dealt: 13.
+Neutrel2 attempts normal attack with value 4 on Bulbasaur with defense value: 11...
+	Damage dealt: 0.
+Bulbasaur HP: 51.
+Neutrel2 HP: -4.
+Bulbasaur WINS!
+Bulbasaur buffed!
+New stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 52.
+	Special attack value: 15.
+	Defense value: 12.
+	Special defense value: 12.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 91.
+Coach Ileana to fight with Neutrel1...
+Coach Ileana picked Snorlax.
+Pokemon stats:
+Pokemon:
+	Name: Snorlax.
+	HP: 67.
+	Normal attack value: 8.
+	Defense value: 11.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+		Ability:
+			Damage: 0
+			Stun: false
+			Dodge: true
+			Cooldown: 5
+	Items:
+	Score: 95.
+Starting battle...
+tick: 0...
+Snorlax attempts to cast ability on Neutrel1 with damage: 4...
+	Damage dealt: 4.
+Neutrel1 attempts normal attack with value 3 on Snorlax with defense value: 11...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Snorlax HP: 67.
+Neutrel1 HP: 6.
+tick: 1...
+Snorlax attempts to cast ability on Neutrel1 with damage: 0...
+	Damage dealt: 0.
+Neutrel1 is unable to attack because stunned.
+Snorlax HP: 67.
+Neutrel1 HP: 6.
+tick: 2...
+Snorlax attempts normal attack with value 8 on Neutrel1 with defense value: 1...
+	Damage dealt: 7.
+Neutrel1 attempts normal attack with value 3 on Snorlax with defense value: 11...
+	Damage dealt: 0.
+Snorlax HP: 67.
+Neutrel1 HP: -1.
+Snorlax WINS!
+Snorlax buffed!
+New stats:
+Pokemon:
+	Name: Snorlax.
+	HP: 68.
+	Normal attack value: 9.
+	Defense value: 12.
+	Special defense value: 10.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+		Ability:
+			Damage: 0
+			Stun: false
+			Dodge: true
+			Cooldown: 5
+	Items:
+	Score: 99.
+Coach Viorica to fight with Neutrel1...
+Coach Viorica picked Bulbasaur.
+Pokemon stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 52.
+	Special attack value: 15.
+	Defense value: 12.
+	Special defense value: 12.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 91.
+Starting battle...
+tick: 0...
+Bulbasaur attempts to cast ability on Neutrel1 with damage: 5...
+	Damage dealt: 5.
+Neutrel1 attempts normal attack with value 3 on Bulbasaur with defense value: 12...
+	Damage dealt: 0.
+Bulbasaur HP: 52.
+Neutrel1 HP: 5.
+tick: 1...
+Bulbasaur attempts to cast ability on Neutrel1 with damage: 6...
+	Damage dealt: 6.
+Neutrel1 attempts normal attack with value 3 on Bulbasaur with defense value: 12...
+	Damage dealt: 0.
+Bulbasaur HP: 52.
+Neutrel1 HP: -1.
+Bulbasaur WINS!
+Bulbasaur buffed!
+New stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 53.
+	Special attack value: 16.
+	Defense value: 13.
+	Special defense value: 13.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 95.
+Coach Ileana to fight with Neutrel2...
+Coach Ileana picked Jigglypuff.
+Pokemon stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 37.
+	Normal attack value: 10.
+	Defense value: 8.
+	Special defense value: 11.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Shield
+		ChristmasTree
+		Cape
+	Score: 66.
+Starting battle...
+tick: 0...
+Jigglypuff attempts to cast ability on Neutrel2 with damage: 3...
+	Damage dealt: 3.
+Neutrel2 attempts normal attack with value 4 on Jigglypuff with defense value: 8...
+	Damage dealt: 0.
+	Neutrel2 stunned.
+Jigglypuff HP: 37.
+Neutrel2 HP: 17.
+tick: 1...
+Jigglypuff attempts to cast ability on Neutrel2 with damage: 4...
+	Damage dealt: 4.
+Neutrel2 is unable to attack because stunned.
+	Neutrel2 stunned.
+Jigglypuff HP: 37.
+Neutrel2 HP: 13.
+tick: 2...
+Jigglypuff attempts normal attack with value 10 on Neutrel2 with defense value: 1...
+	Damage dealt: 9.
+Neutrel2 is unable to attack because stunned.
+Jigglypuff HP: 37.
+Neutrel2 HP: 4.
+tick: 3...
+Jigglypuff attempts normal attack with value 10 on Neutrel2 with defense value: 1...
+	Damage dealt: 9.
+Neutrel2 attempts normal attack with value 4 on Jigglypuff with defense value: 8...
+	Damage dealt: 0.
+Jigglypuff HP: 37.
+Neutrel2 HP: -5.
+Jigglypuff WINS!
+Jigglypuff buffed!
+New stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 38.
+	Normal attack value: 11.
+	Defense value: 9.
+	Special defense value: 12.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Shield
+		ChristmasTree
+		Cape
+	Score: 70.
+Coach Viorica to fight with Neutrel2...
+Coach Viorica picked Bulbasaur.
+Pokemon stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 53.
+	Special attack value: 16.
+	Defense value: 13.
+	Special defense value: 13.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 95.
+Starting battle...
+tick: 0...
+Bulbasaur attempts to cast ability on Neutrel2 with damage: 5...
+	Damage dealt: 5.
+Neutrel2 attempts normal attack with value 4 on Bulbasaur with defense value: 13...
+	Damage dealt: 0.
+Bulbasaur HP: 53.
+Neutrel2 HP: 15.
+tick: 1...
+Bulbasaur attempts to cast ability on Neutrel2 with damage: 6...
+	Damage dealt: 6.
+Neutrel2 attempts normal attack with value 4 on Bulbasaur with defense value: 13...
+	Damage dealt: 0.
+Bulbasaur HP: 53.
+Neutrel2 HP: 9.
+tick: 2...
+Bulbasaur attempts special attack with value 16 on Neutrel2 with special defense value: 1...
+	Damage dealt: 15.
+Neutrel2 attempts normal attack with value 4 on Bulbasaur with defense value: 13...
+	Damage dealt: 0.
+Bulbasaur HP: 53.
+Neutrel2 HP: -6.
+Bulbasaur WINS!
+Bulbasaur buffed!
+New stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 54.
+	Special attack value: 17.
+	Defense value: 14.
+	Special defense value: 14.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 99.
+Coach Ileana to fight with coach Viorica...
+Battle 1...
+Pokemon Vulpix to fight with Pikachu...
+Vulpix's stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 40.
+	Normal attack value: 9.
+	Defense value: 6.
+	Special defense value: 11.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		Cape
+	Score: 66.
+Pikachu's stats:
+Pokemon:
+	Name: Pikachu.
+	HP: 38.
+	Special attack value: 10.
+	Defense value: 6.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: true
+			Cooldown: 5
+	Items:
+		MagicWand
+		ChristmasTree
+	Score: 60.
+tick: 0...
+Vulpix attempts to cast ability on Pikachu with damage: 8...
+Pikachu attempts to cast ability on Vulpix with damage: 4...
+Pikachu dodges Vulpix's attack.
+	Damage dealt: 4.
+	Vulpix stunned.
+Vulpix HP: 36.
+Pikachu HP: 38.
+tick: 1...
+Pikachu attempts to cast ability on Vulpix with damage: 6...
+Vulpix is unable to attack because stunned.
+	Damage dealt: 6.
+Vulpix HP: 30.
+Pikachu HP: 38.
+tick: 2...
+Vulpix attempts to cast ability on Pikachu with damage: 2...
+	Damage dealt: 2.
+Vulpix dodges Pikachu's attack.
+Vulpix HP: 30.
+Pikachu HP: 36.
+tick: 3...
+Vulpix attempts normal attack with value 9 on Pikachu with defense value: 6...
+	Damage dealt: 3.
+Pikachu attempts special attack with value 10 on Vulpix with special defense value: 6...
+	Damage dealt: 0.
+Vulpix HP: 30.
+Pikachu HP: 33.
+tick: 4...
+Vulpix attempts normal attack with value 9 on Pikachu with defense value: 6...
+	Damage dealt: 3.
+Pikachu attempts special attack with value 10 on Vulpix with special defense value: 6...
+	Damage dealt: 0.
+Vulpix HP: 30.
+Pikachu HP: 30.
+tick: 5...
+Vulpix attempts normal attack with value 9 on Pikachu with defense value: 6...
+	Damage dealt: 3.
+Pikachu attempts special attack with value 10 on Vulpix with special defense value: 6...
+	Damage dealt: 0.
+Vulpix HP: 30.
+Pikachu HP: 27.
+tick: 6...
+Pikachu attempts to cast ability on Vulpix with damage: 6...
+Vulpix attempts normal attack with value 9 on Pikachu with defense value: 6...
+	Damage dealt: 3.
+	Damage dealt: 6.
+Vulpix HP: 24.
+Pikachu HP: 24.
+tick: 7...
+Vulpix attempts to cast ability on Pikachu with damage: 8...
+Pikachu attempts to cast ability on Vulpix with damage: 4...
+Pikachu dodges Vulpix's attack.
+	Damage dealt: 4.
+	Vulpix stunned.
+Vulpix HP: 20.
+Pikachu HP: 24.
+tick: 8...
+Vulpix is unable to attack because stunned.
+Pikachu attempts special attack with value 10 on Vulpix with special defense value: 6...
+	Damage dealt: 0.
+Vulpix HP: 20.
+Pikachu HP: 24.
+tick: 9...
+Vulpix attempts normal attack with value 9 on Pikachu with defense value: 6...
+	Damage dealt: 3.
+Pikachu attempts special attack with value 10 on Vulpix with special defense value: 6...
+	Damage dealt: 0.
+Vulpix HP: 20.
+Pikachu HP: 21.
+tick: 10...
+Vulpix attempts to cast ability on Pikachu with damage: 2...
+	Damage dealt: 2.
+Vulpix dodges Pikachu's attack.
+Vulpix HP: 20.
+Pikachu HP: 19.
+tick: 11...
+Pikachu attempts to cast ability on Vulpix with damage: 6...
+Vulpix attempts normal attack with value 9 on Pikachu with defense value: 6...
+	Damage dealt: 3.
+	Damage dealt: 6.
+Vulpix HP: 14.
+Pikachu HP: 16.
+tick: 12...
+Vulpix attempts normal attack with value 9 on Pikachu with defense value: 6...
+	Damage dealt: 3.
+Pikachu attempts special attack with value 10 on Vulpix with special defense value: 6...
+	Damage dealt: 0.
+Vulpix HP: 14.
+Pikachu HP: 13.
+tick: 13...
+Pikachu attempts to cast ability on Vulpix with damage: 4...
+Pikachu dodges Vulpix's attack.
+	Damage dealt: 4.
+	Vulpix stunned.
+Vulpix HP: 10.
+Pikachu HP: 13.
+tick: 14...
+Vulpix is unable to attack because stunned.
+Pikachu attempts special attack with value 10 on Vulpix with special defense value: 6...
+	Damage dealt: 0.
+Vulpix HP: 10.
+Pikachu HP: 13.
+tick: 15...
+Vulpix attempts to cast ability on Pikachu with damage: 8...
+	Damage dealt: 8.
+Pikachu attempts special attack with value 10 on Vulpix with special defense value: 6...
+	Damage dealt: 0.
+	Pikachu stunned.
+Vulpix HP: 10.
+Pikachu HP: 5.
+tick: 16...
+Vulpix attempts normal attack with value 9 on Pikachu with defense value: 6...
+	Damage dealt: 3.
+Pikachu is unable to attack because stunned.
+Vulpix HP: 10.
+Pikachu HP: 2.
+tick: 17...
+Pikachu attempts to cast ability on Vulpix with damage: 6...
+Vulpix attempts normal attack with value 9 on Pikachu with defense value: 6...
+	Damage dealt: 3.
+	Damage dealt: 6.
+Vulpix HP: 4.
+Pikachu HP: -1.
+Vulpix WINS!
+Vulpix buffed!
+New stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 41.
+	Normal attack value: 10.
+	Defense value: 7.
+	Special defense value: 12.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		Cape
+	Score: 70.
+Battle 2...
+Pokemon Jigglypuff to fight with Bulbasaur...
+Jigglypuff's stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 38.
+	Normal attack value: 11.
+	Defense value: 9.
+	Special defense value: 12.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Shield
+		ChristmasTree
+		Cape
+	Score: 70.
+Bulbasaur's stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 54.
+	Special attack value: 17.
+	Defense value: 14.
+	Special defense value: 14.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 99.
+tick: 0...
+Jigglypuff attempts to cast ability on Bulbasaur with damage: 3...
+Bulbasaur attempts to cast ability on Jigglypuff with damage: 6...
+	Damage dealt: 3.
+	Damage dealt: 6.
+	Bulbasaur stunned.
+Jigglypuff HP: 32.
+Bulbasaur HP: 51.
+tick: 1...
+Jigglypuff attempts to cast ability on Bulbasaur with damage: 4...
+	Damage dealt: 4.
+Bulbasaur is unable to attack because stunned.
+	Bulbasaur stunned.
+Jigglypuff HP: 32.
+Bulbasaur HP: 47.
+tick: 2...
+Jigglypuff attempts normal attack with value 11 on Bulbasaur with defense value: 14...
+	Damage dealt: 0.
+Bulbasaur is unable to attack because stunned.
+Jigglypuff HP: 32.
+Bulbasaur HP: 47.
+tick: 3...
+Bulbasaur attempts to cast ability on Jigglypuff with damage: 5...
+Jigglypuff attempts normal attack with value 11 on Bulbasaur with defense value: 14...
+	Damage dealt: 0.
+	Damage dealt: 5.
+Jigglypuff HP: 27.
+Bulbasaur HP: 47.
+tick: 4...
+Jigglypuff attempts normal attack with value 11 on Bulbasaur with defense value: 14...
+	Damage dealt: 0.
+Bulbasaur attempts special attack with value 17 on Jigglypuff with special defense value: 9...
+	Damage dealt: 5.
+Jigglypuff HP: 22.
+Bulbasaur HP: 47.
+tick: 5...
+Jigglypuff attempts to cast ability on Bulbasaur with damage: 3...
+Bulbasaur attempts to cast ability on Jigglypuff with damage: 6...
+	Damage dealt: 3.
+	Damage dealt: 6.
+	Bulbasaur stunned.
+Jigglypuff HP: 16.
+Bulbasaur HP: 44.
+tick: 6...
+Jigglypuff attempts to cast ability on Bulbasaur with damage: 4...
+	Damage dealt: 4.
+Bulbasaur is unable to attack because stunned.
+	Bulbasaur stunned.
+Jigglypuff HP: 16.
+Bulbasaur HP: 40.
+tick: 7...
+Jigglypuff attempts normal attack with value 11 on Bulbasaur with defense value: 14...
+	Damage dealt: 0.
+Bulbasaur is unable to attack because stunned.
+Jigglypuff HP: 16.
+Bulbasaur HP: 40.
+tick: 8...
+Bulbasaur attempts to cast ability on Jigglypuff with damage: 5...
+Jigglypuff attempts normal attack with value 11 on Bulbasaur with defense value: 14...
+	Damage dealt: 0.
+	Damage dealt: 5.
+Jigglypuff HP: 11.
+Bulbasaur HP: 40.
+tick: 9...
+Jigglypuff attempts normal attack with value 11 on Bulbasaur with defense value: 14...
+	Damage dealt: 0.
+Bulbasaur attempts special attack with value 17 on Jigglypuff with special defense value: 9...
+	Damage dealt: 5.
+Jigglypuff HP: 6.
+Bulbasaur HP: 40.
+tick: 10...
+Jigglypuff attempts to cast ability on Bulbasaur with damage: 3...
+Bulbasaur attempts to cast ability on Jigglypuff with damage: 6...
+	Damage dealt: 3.
+	Damage dealt: 6.
+	Bulbasaur stunned.
+Jigglypuff HP: 0.
+Bulbasaur HP: 37.
+Bulbasaur WINS!
+Bulbasaur buffed!
+New stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 55.
+	Special attack value: 18.
+	Defense value: 15.
+	Special defense value: 15.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 103.
+Battle 3...
+Pokemon Snorlax to fight with Charmander...
+Snorlax's stats:
+Pokemon:
+	Name: Snorlax.
+	HP: 68.
+	Normal attack value: 9.
+	Defense value: 12.
+	Special defense value: 10.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+		Ability:
+			Damage: 0
+			Stun: false
+			Dodge: true
+			Cooldown: 5
+	Items:
+	Score: 99.
+Charmander's stats:
+Pokemon:
+	Name: Charmander.
+	HP: 51.
+	Normal attack value: 5.
+	Defense value: 4.
+	Special defense value: 3.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 7
+			Stun: false
+			Dodge: false
+			Cooldown: 6
+	Items:
+	Score: 63.
+tick: 0...
+Snorlax attempts to cast ability on Charmander with damage: 4...
+Charmander attempts to cast ability on Snorlax with damage: 7...
+	Damage dealt: 4.
+	Damage dealt: 7.
+	Charmander stunned.
+Snorlax HP: 61.
+Charmander HP: 47.
+tick: 1...
+Snorlax attempts to cast ability on Charmander with damage: 0...
+	Damage dealt: 0.
+Charmander is unable to attack because stunned.
+Snorlax HP: 61.
+Charmander HP: 47.
+tick: 2...
+Charmander attempts to cast ability on Snorlax with damage: 4...
+Snorlax attempts normal attack with value 9 on Charmander with defense value: 4...
+	Damage dealt: 5.
+	Damage dealt: 4.
+	Snorlax stunned.
+Snorlax HP: 57.
+Charmander HP: 42.
+tick: 3...
+Snorlax is unable to attack because stunned.
+Charmander attempts normal attack with value 5 on Snorlax with defense value: 12...
+	Damage dealt: 0.
+Snorlax HP: 57.
+Charmander HP: 42.
+tick: 4...
+Snorlax attempts normal attack with value 9 on Charmander with defense value: 4...
+	Damage dealt: 5.
+Charmander attempts normal attack with value 5 on Snorlax with defense value: 12...
+	Damage dealt: 0.
+Snorlax HP: 57.
+Charmander HP: 37.
+tick: 5...
+Snorlax attempts normal attack with value 9 on Charmander with defense value: 4...
+	Damage dealt: 5.
+Charmander attempts normal attack with value 5 on Snorlax with defense value: 12...
+	Damage dealt: 0.
+Snorlax HP: 57.
+Charmander HP: 32.
+tick: 6...
+Snorlax attempts to cast ability on Charmander with damage: 4...
+	Damage dealt: 4.
+Charmander attempts normal attack with value 5 on Snorlax with defense value: 12...
+	Damage dealt: 0.
+	Charmander stunned.
+Snorlax HP: 57.
+Charmander HP: 28.
+tick: 7...
+Snorlax attempts to cast ability on Charmander with damage: 0...
+	Damage dealt: 0.
+Charmander is unable to attack because stunned.
+Snorlax HP: 57.
+Charmander HP: 28.
+tick: 8...
+Charmander attempts to cast ability on Snorlax with damage: 7...
+Snorlax attempts normal attack with value 9 on Charmander with defense value: 4...
+	Damage dealt: 5.
+	Damage dealt: 7.
+Snorlax HP: 50.
+Charmander HP: 23.
+tick: 9...
+Charmander attempts to cast ability on Snorlax with damage: 4...
+Snorlax attempts normal attack with value 9 on Charmander with defense value: 4...
+	Damage dealt: 5.
+	Damage dealt: 4.
+	Snorlax stunned.
+Snorlax HP: 46.
+Charmander HP: 18.
+tick: 10...
+Snorlax is unable to attack because stunned.
+Charmander attempts normal attack with value 5 on Snorlax with defense value: 12...
+	Damage dealt: 0.
+Snorlax HP: 46.
+Charmander HP: 18.
+tick: 11...
+Snorlax attempts normal attack with value 9 on Charmander with defense value: 4...
+	Damage dealt: 5.
+Charmander attempts normal attack with value 5 on Snorlax with defense value: 12...
+	Damage dealt: 0.
+Snorlax HP: 46.
+Charmander HP: 13.
+tick: 12...
+Snorlax attempts to cast ability on Charmander with damage: 4...
+	Damage dealt: 4.
+Charmander attempts normal attack with value 5 on Snorlax with defense value: 12...
+	Damage dealt: 0.
+	Charmander stunned.
+Snorlax HP: 46.
+Charmander HP: 9.
+tick: 13...
+Snorlax attempts to cast ability on Charmander with damage: 0...
+	Damage dealt: 0.
+Charmander is unable to attack because stunned.
+Snorlax HP: 46.
+Charmander HP: 9.
+tick: 14...
+Charmander attempts to cast ability on Snorlax with damage: 4...
+Snorlax attempts normal attack with value 9 on Charmander with defense value: 4...
+	Damage dealt: 5.
+	Damage dealt: 4.
+	Snorlax stunned.
+Snorlax HP: 42.
+Charmander HP: 4.
+tick: 15...
+Charmander attempts to cast ability on Snorlax with damage: 7...
+Snorlax is unable to attack because stunned.
+	Damage dealt: 7.
+Snorlax HP: 35.
+Charmander HP: 4.
+tick: 16...
+Snorlax attempts normal attack with value 9 on Charmander with defense value: 4...
+	Damage dealt: 5.
+Charmander attempts normal attack with value 5 on Snorlax with defense value: 12...
+	Damage dealt: 0.
+Snorlax HP: 35.
+Charmander HP: -1.
+Snorlax WINS!
+Snorlax buffed!
+New stats:
+Pokemon:
+	Name: Snorlax.
+	HP: 69.
+	Normal attack value: 10.
+	Defense value: 13.
+	Special defense value: 11.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+		Ability:
+			Damage: 0
+			Stun: false
+			Dodge: true
+			Cooldown: 5
+	Items:
+	Score: 103.
+Final battle...
+Snorlax with score: 103 to fight Bulbasaur with score: 103...
+tick: 0...
+Snorlax attempts to cast ability on Bulbasaur with damage: 4...
+Bulbasaur attempts to cast ability on Snorlax with damage: 6...
+	Damage dealt: 4.
+	Damage dealt: 6.
+	Bulbasaur stunned.
+Snorlax HP: 63.
+Bulbasaur HP: 51.
+tick: 1...
+Snorlax attempts to cast ability on Bulbasaur with damage: 0...
+	Damage dealt: 0.
+Bulbasaur is unable to attack because stunned.
+Snorlax HP: 63.
+Bulbasaur HP: 51.
+tick: 2...
+Bulbasaur attempts to cast ability on Snorlax with damage: 5...
+Snorlax attempts normal attack with value 10 on Bulbasaur with defense value: 15...
+	Damage dealt: 0.
+	Damage dealt: 5.
+Snorlax HP: 58.
+Bulbasaur HP: 51.
+tick: 3...
+Snorlax attempts normal attack with value 10 on Bulbasaur with defense value: 15...
+	Damage dealt: 0.
+Bulbasaur attempts special attack with value 18 on Snorlax with special defense value: 13...
+	Damage dealt: 7.
+Snorlax HP: 51.
+Bulbasaur HP: 51.
+tick: 4...
+Snorlax attempts normal attack with value 10 on Bulbasaur with defense value: 15...
+	Damage dealt: 0.
+Bulbasaur attempts special attack with value 18 on Snorlax with special defense value: 13...
+	Damage dealt: 7.
+Snorlax HP: 44.
+Bulbasaur HP: 51.
+tick: 5...
+Bulbasaur attempts to cast ability on Snorlax with damage: 6...
+Snorlax attempts normal attack with value 10 on Bulbasaur with defense value: 15...
+	Damage dealt: 0.
+	Damage dealt: 6.
+Snorlax HP: 38.
+Bulbasaur HP: 51.
+tick: 6...
+Snorlax attempts to cast ability on Bulbasaur with damage: 4...
+Bulbasaur attempts to cast ability on Snorlax with damage: 5...
+	Damage dealt: 4.
+	Damage dealt: 5.
+	Bulbasaur stunned.
+Snorlax HP: 33.
+Bulbasaur HP: 47.
+tick: 7...
+Snorlax attempts to cast ability on Bulbasaur with damage: 0...
+	Damage dealt: 0.
+Bulbasaur is unable to attack because stunned.
+Snorlax HP: 33.
+Bulbasaur HP: 47.
+tick: 8...
+Snorlax attempts normal attack with value 10 on Bulbasaur with defense value: 15...
+	Damage dealt: 0.
+Bulbasaur attempts special attack with value 18 on Snorlax with special defense value: 13...
+	Damage dealt: 7.
+Snorlax HP: 26.
+Bulbasaur HP: 47.
+tick: 9...
+Snorlax attempts normal attack with value 10 on Bulbasaur with defense value: 15...
+	Damage dealt: 0.
+Bulbasaur attempts special attack with value 18 on Snorlax with special defense value: 13...
+	Damage dealt: 7.
+Snorlax HP: 19.
+Bulbasaur HP: 47.
+tick: 10...
+Bulbasaur attempts to cast ability on Snorlax with damage: 6...
+Snorlax attempts normal attack with value 10 on Bulbasaur with defense value: 15...
+	Damage dealt: 0.
+	Damage dealt: 6.
+Snorlax HP: 13.
+Bulbasaur HP: 47.
+tick: 11...
+Bulbasaur attempts to cast ability on Snorlax with damage: 5...
+Snorlax attempts normal attack with value 10 on Bulbasaur with defense value: 15...
+	Damage dealt: 0.
+	Damage dealt: 5.
+Snorlax HP: 8.
+Bulbasaur HP: 47.
+tick: 12...
+Snorlax attempts to cast ability on Bulbasaur with damage: 4...
+	Damage dealt: 4.
+Bulbasaur attempts special attack with value 18 on Snorlax with special defense value: 13...
+	Damage dealt: 7.
+	Bulbasaur stunned.
+Snorlax HP: 1.
+Bulbasaur HP: 43.
+tick: 13...
+Snorlax attempts to cast ability on Bulbasaur with damage: 0...
+	Damage dealt: 0.
+Bulbasaur is unable to attack because stunned.
+Snorlax HP: 1.
+Bulbasaur HP: 43.
+tick: 14...
+Snorlax attempts normal attack with value 10 on Bulbasaur with defense value: 15...
+	Damage dealt: 0.
+Bulbasaur attempts special attack with value 18 on Snorlax with special defense value: 13...
+	Damage dealt: 7.
+Snorlax HP: -6.
+Bulbasaur HP: 43.
+Bulbasaur WINS!
+Bulbasaur buffed!
+New stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 56.
+	Special attack value: 19.
+	Defense value: 16.
+	Special defense value: 16.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+		ChristmasTree
+		Cape
+	Score: 107.
+Coach Ileana is the winner of the adventure!

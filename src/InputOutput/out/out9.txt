@@ -1,0 +1,738 @@
+Initiating new battle...
+Coach Iuliu to fight with coach Viorica...
+Battle 1...
+Pokemon Charmander to fight with Vulpix...
+Charmander's stats:
+Pokemon:
+	Name: Charmander.
+	HP: 60.
+	Normal attack value: 7.
+	Defense value: 3.
+	Special defense value: 2.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 7
+			Stun: false
+			Dodge: false
+			Cooldown: 6
+	Items:
+		Vest
+		Sword
+	Score: 72.
+Vulpix's stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 46.
+	Normal attack value: 8.
+	Defense value: 3.
+	Special defense value: 4.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		ChristmasTree
+		Vest
+	Score: 61.
+tick: 0...
+Charmander attempts to cast ability on Vulpix with damage: 4...
+Vulpix attempts to cast ability on Charmander with damage: 2...
+Vulpix dodges Charmander's attack.
+	Damage dealt: 2.
+Charmander HP: 58.
+Vulpix HP: 46.
+tick: 1...
+Charmander attempts to cast ability on Vulpix with damage: 7...
+Vulpix attempts to cast ability on Charmander with damage: 8...
+	Damage dealt: 7.
+	Damage dealt: 8.
+	Charmander stunned.
+Charmander HP: 50.
+Vulpix HP: 39.
+tick: 2...
+Charmander is unable to attack because stunned.
+Vulpix attempts normal attack with value 8 on Charmander with defense value: 3...
+	Damage dealt: 5.
+Charmander HP: 45.
+Vulpix HP: 39.
+tick: 3...
+Charmander attempts normal attack with value 7 on Vulpix with defense value: 3...
+	Damage dealt: 4.
+Vulpix attempts normal attack with value 8 on Charmander with defense value: 3...
+	Damage dealt: 5.
+Charmander HP: 40.
+Vulpix HP: 35.
+tick: 4...
+Charmander attempts normal attack with value 7 on Vulpix with defense value: 3...
+	Damage dealt: 4.
+Vulpix attempts normal attack with value 8 on Charmander with defense value: 3...
+	Damage dealt: 5.
+Charmander HP: 35.
+Vulpix HP: 31.
+tick: 5...
+Charmander attempts to cast ability on Vulpix with damage: 4...
+	Damage dealt: 4.
+Vulpix attempts normal attack with value 8 on Charmander with defense value: 3...
+	Damage dealt: 5.
+	Vulpix stunned.
+Charmander HP: 30.
+Vulpix HP: 27.
+tick: 6...
+Charmander attempts normal attack with value 7 on Vulpix with defense value: 3...
+	Damage dealt: 4.
+Vulpix is unable to attack because stunned.
+Charmander HP: 30.
+Vulpix HP: 23.
+tick: 7...
+Charmander attempts normal attack with value 7 on Vulpix with defense value: 3...
+	Damage dealt: 4.
+Vulpix attempts normal attack with value 8 on Charmander with defense value: 3...
+	Damage dealt: 5.
+Charmander HP: 25.
+Vulpix HP: 19.
+tick: 8...
+Charmander attempts to cast ability on Vulpix with damage: 7...
+Vulpix attempts to cast ability on Charmander with damage: 8...
+	Damage dealt: 7.
+	Damage dealt: 8.
+	Charmander stunned.
+Charmander HP: 17.
+Vulpix HP: 12.
+tick: 9...
+Vulpix attempts to cast ability on Charmander with damage: 2...
+Charmander is unable to attack because stunned.
+	Damage dealt: 2.
+Charmander HP: 15.
+Vulpix HP: 12.
+tick: 10...
+Charmander attempts to cast ability on Vulpix with damage: 4...
+	Damage dealt: 4.
+Vulpix attempts normal attack with value 8 on Charmander with defense value: 3...
+	Damage dealt: 5.
+	Vulpix stunned.
+Charmander HP: 10.
+Vulpix HP: 8.
+tick: 11...
+Charmander attempts normal attack with value 7 on Vulpix with defense value: 3...
+	Damage dealt: 4.
+Vulpix is unable to attack because stunned.
+Charmander HP: 10.
+Vulpix HP: 4.
+tick: 12...
+Charmander attempts normal attack with value 7 on Vulpix with defense value: 3...
+	Damage dealt: 4.
+Vulpix attempts normal attack with value 8 on Charmander with defense value: 3...
+	Damage dealt: 5.
+Charmander HP: 5.
+Vulpix HP: 0.
+Charmander WINS!
+Charmander buffed!
+New stats:
+Pokemon:
+	Name: Charmander.
+	HP: 61.
+	Normal attack value: 8.
+	Defense value: 4.
+	Special defense value: 3.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 7
+			Stun: false
+			Dodge: false
+			Cooldown: 6
+	Items:
+		Vest
+		Sword
+	Score: 76.
+Battle 2...
+Pokemon Eevee to fight with Snorlax...
+Eevee's stats:
+Pokemon:
+	Name: Eevee.
+	HP: 41.
+	Special attack value: 6.
+	Defense value: 3.
+	Special defense value: 3.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vitamins
+	Score: 53.
+Snorlax's stats:
+Pokemon:
+	Name: Snorlax.
+	HP: 62.
+	Normal attack value: 6.
+	Defense value: 6.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+		Ability:
+			Damage: 0
+			Stun: false
+			Dodge: true
+			Cooldown: 5
+	Items:
+		Cape
+		Sword
+	Score: 81.
+tick: 0...
+Eevee attempts to cast ability on Snorlax with damage: 5...
+Snorlax attempts to cast ability on Eevee with damage: 0...
+Snorlax dodges Eevee's attack.
+	Damage dealt: 0.
+Eevee HP: 41.
+Snorlax HP: 62.
+tick: 1...
+Eevee attempts to cast ability on Snorlax with damage: 3...
+Snorlax attempts to cast ability on Eevee with damage: 4...
+	Damage dealt: 3.
+	Damage dealt: 4.
+	Eevee stunned.
+	Snorlax stunned.
+Eevee HP: 37.
+Snorlax HP: 59.
+tick: 2...
+Eevee is unable to attack because stunned.
+Snorlax is unable to attack because stunned.
+Eevee HP: 37.
+Snorlax HP: 59.
+tick: 3...
+Eevee attempts special attack with value 6 on Snorlax with special defense value: 6...
+	Damage dealt: 0.
+Snorlax attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+Eevee HP: 34.
+Snorlax HP: 59.
+tick: 4...
+Eevee attempts to cast ability on Snorlax with damage: 5...
+	Damage dealt: 5.
+Snorlax attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+Eevee HP: 31.
+Snorlax HP: 54.
+tick: 5...
+Eevee attempts to cast ability on Snorlax with damage: 3...
+	Damage dealt: 3.
+Snorlax attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+	Snorlax stunned.
+Eevee HP: 28.
+Snorlax HP: 51.
+tick: 6...
+Eevee attempts special attack with value 6 on Snorlax with special defense value: 6...
+	Damage dealt: 0.
+Snorlax is unable to attack because stunned.
+Eevee HP: 28.
+Snorlax HP: 51.
+tick: 7...
+Snorlax attempts to cast ability on Eevee with damage: 0...
+Snorlax dodges Eevee's attack.
+	Damage dealt: 0.
+Eevee HP: 28.
+Snorlax HP: 51.
+tick: 8...
+Eevee attempts to cast ability on Snorlax with damage: 5...
+Snorlax attempts to cast ability on Eevee with damage: 4...
+	Damage dealt: 5.
+	Damage dealt: 4.
+	Eevee stunned.
+Eevee HP: 24.
+Snorlax HP: 46.
+tick: 9...
+Eevee is unable to attack because stunned.
+Snorlax attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+Eevee HP: 21.
+Snorlax HP: 46.
+tick: 10...
+Eevee attempts to cast ability on Snorlax with damage: 3...
+	Damage dealt: 3.
+Snorlax attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+	Snorlax stunned.
+Eevee HP: 18.
+Snorlax HP: 43.
+tick: 11...
+Eevee attempts special attack with value 6 on Snorlax with special defense value: 6...
+	Damage dealt: 0.
+Snorlax is unable to attack because stunned.
+Eevee HP: 18.
+Snorlax HP: 43.
+tick: 12...
+Eevee attempts to cast ability on Snorlax with damage: 5...
+	Damage dealt: 5.
+Snorlax attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+Eevee HP: 15.
+Snorlax HP: 38.
+tick: 13...
+Snorlax attempts to cast ability on Eevee with damage: 0...
+Snorlax dodges Eevee's attack.
+	Damage dealt: 0.
+Eevee HP: 15.
+Snorlax HP: 38.
+tick: 14...
+Eevee attempts to cast ability on Snorlax with damage: 3...
+Snorlax attempts to cast ability on Eevee with damage: 4...
+	Damage dealt: 3.
+	Damage dealt: 4.
+	Eevee stunned.
+	Snorlax stunned.
+Eevee HP: 11.
+Snorlax HP: 35.
+tick: 15...
+Eevee is unable to attack because stunned.
+Snorlax is unable to attack because stunned.
+Eevee HP: 11.
+Snorlax HP: 35.
+tick: 16...
+Eevee attempts to cast ability on Snorlax with damage: 5...
+	Damage dealt: 5.
+Snorlax attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+Eevee HP: 8.
+Snorlax HP: 30.
+tick: 17...
+Eevee attempts special attack with value 6 on Snorlax with special defense value: 6...
+	Damage dealt: 0.
+Snorlax attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+Eevee HP: 5.
+Snorlax HP: 30.
+tick: 18...
+Eevee attempts to cast ability on Snorlax with damage: 3...
+	Damage dealt: 3.
+Snorlax attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+	Snorlax stunned.
+Eevee HP: 2.
+Snorlax HP: 27.
+tick: 19...
+Eevee attempts special attack with value 6 on Snorlax with special defense value: 6...
+	Damage dealt: 0.
+Snorlax is unable to attack because stunned.
+Eevee HP: 2.
+Snorlax HP: 27.
+tick: 20...
+Eevee attempts to cast ability on Snorlax with damage: 5...
+Snorlax attempts to cast ability on Eevee with damage: 4...
+	Damage dealt: 5.
+	Damage dealt: 4.
+	Eevee stunned.
+Eevee HP: -2.
+Snorlax HP: 22.
+Snorlax WINS!
+Snorlax buffed!
+New stats:
+Pokemon:
+	Name: Snorlax.
+	HP: 63.
+	Normal attack value: 7.
+	Defense value: 7.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+		Ability:
+			Damage: 0
+			Stun: false
+			Dodge: true
+			Cooldown: 5
+	Items:
+		Cape
+		Sword
+	Score: 85.
+Battle 3...
+Pokemon Meowth to fight with Jigglypuff...
+Meowth's stats:
+Pokemon:
+	Name: Meowth.
+	HP: 41.
+	Normal attack value: 6.
+	Defense value: 7.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: true
+			Cooldown: 4
+		Ability:
+			Damage: 1
+			Stun: false
+			Dodge: true
+			Cooldown: 3
+	Items:
+		ChristmasTree
+		Cape
+		Shield
+	Score: 61.
+Jigglypuff's stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 34.
+	Normal attack value: 4.
+	Defense value: 2.
+	Special defense value: 3.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+	Score: 43.
+tick: 0...
+Meowth attempts to cast ability on Jigglypuff with damage: 5...
+Jigglypuff attempts to cast ability on Meowth with damage: 3...
+	Damage dealt: 5.
+Meowth dodges Jigglypuff's attack.
+Meowth HP: 41.
+Jigglypuff HP: 29.
+tick: 1...
+Meowth attempts to cast ability on Jigglypuff with damage: 1...
+Jigglypuff attempts to cast ability on Meowth with damage: 4...
+	Damage dealt: 1.
+Meowth dodges Jigglypuff's attack.
+Meowth HP: 41.
+Jigglypuff HP: 28.
+tick: 2...
+Meowth attempts normal attack with value 6 on Jigglypuff with defense value: 2...
+	Damage dealt: 4.
+Jigglypuff attempts normal attack with value 4 on Meowth with defense value: 7...
+	Damage dealt: 0.
+Meowth HP: 41.
+Jigglypuff HP: 24.
+tick: 3...
+Meowth attempts normal attack with value 6 on Jigglypuff with defense value: 2...
+	Damage dealt: 4.
+Jigglypuff attempts normal attack with value 4 on Meowth with defense value: 7...
+	Damage dealt: 0.
+Meowth HP: 41.
+Jigglypuff HP: 20.
+tick: 4...
+Meowth attempts normal attack with value 6 on Jigglypuff with defense value: 2...
+	Damage dealt: 4.
+Jigglypuff attempts normal attack with value 4 on Meowth with defense value: 7...
+	Damage dealt: 0.
+Meowth HP: 41.
+Jigglypuff HP: 16.
+tick: 5...
+Meowth attempts to cast ability on Jigglypuff with damage: 5...
+Jigglypuff attempts to cast ability on Meowth with damage: 3...
+	Damage dealt: 5.
+Meowth dodges Jigglypuff's attack.
+Meowth HP: 41.
+Jigglypuff HP: 11.
+tick: 6...
+Meowth attempts to cast ability on Jigglypuff with damage: 1...
+Jigglypuff attempts to cast ability on Meowth with damage: 4...
+	Damage dealt: 1.
+Meowth dodges Jigglypuff's attack.
+Meowth HP: 41.
+Jigglypuff HP: 10.
+tick: 7...
+Meowth attempts normal attack with value 6 on Jigglypuff with defense value: 2...
+	Damage dealt: 4.
+Jigglypuff attempts normal attack with value 4 on Meowth with defense value: 7...
+	Damage dealt: 0.
+Meowth HP: 41.
+Jigglypuff HP: 6.
+tick: 8...
+Meowth attempts normal attack with value 6 on Jigglypuff with defense value: 2...
+	Damage dealt: 4.
+Jigglypuff attempts normal attack with value 4 on Meowth with defense value: 7...
+	Damage dealt: 0.
+Meowth HP: 41.
+Jigglypuff HP: 2.
+tick: 9...
+Meowth attempts normal attack with value 6 on Jigglypuff with defense value: 2...
+	Damage dealt: 4.
+Jigglypuff attempts normal attack with value 4 on Meowth with defense value: 7...
+	Damage dealt: 0.
+Meowth HP: 41.
+Jigglypuff HP: -2.
+Meowth WINS!
+Meowth buffed!
+New stats:
+Pokemon:
+	Name: Meowth.
+	HP: 42.
+	Normal attack value: 7.
+	Defense value: 8.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: true
+			Cooldown: 4
+		Ability:
+			Damage: 1
+			Stun: false
+			Dodge: true
+			Cooldown: 3
+	Items:
+		ChristmasTree
+		Cape
+		Shield
+	Score: 65.
+Final battle...
+Charmander with score: 76 to fight Snorlax with score: 85...
+tick: 0...
+Charmander attempts to cast ability on Snorlax with damage: 7...
+Snorlax attempts to cast ability on Charmander with damage: 0...
+Snorlax dodges Charmander's attack.
+	Damage dealt: 0.
+Charmander HP: 61.
+Snorlax HP: 63.
+tick: 1...
+Charmander attempts to cast ability on Snorlax with damage: 4...
+Snorlax attempts to cast ability on Charmander with damage: 4...
+	Damage dealt: 4.
+	Damage dealt: 4.
+	Charmander stunned.
+	Snorlax stunned.
+Charmander HP: 57.
+Snorlax HP: 59.
+tick: 2...
+Charmander is unable to attack because stunned.
+Snorlax is unable to attack because stunned.
+Charmander HP: 57.
+Snorlax HP: 59.
+tick: 3...
+Charmander attempts normal attack with value 8 on Snorlax with defense value: 7...
+	Damage dealt: 1.
+Snorlax attempts normal attack with value 7 on Charmander with defense value: 4...
+	Damage dealt: 3.
+Charmander HP: 54.
+Snorlax HP: 58.
+tick: 4...
+Charmander attempts normal attack with value 8 on Snorlax with defense value: 7...
+	Damage dealt: 1.
+Snorlax attempts normal attack with value 7 on Charmander with defense value: 4...
+	Damage dealt: 3.
+Charmander HP: 51.
+Snorlax HP: 57.
+tick: 5...
+Charmander attempts normal attack with value 8 on Snorlax with defense value: 7...
+	Damage dealt: 1.
+Snorlax attempts normal attack with value 7 on Charmander with defense value: 4...
+	Damage dealt: 3.
+Charmander HP: 48.
+Snorlax HP: 56.
+tick: 6...
+Charmander attempts to cast ability on Snorlax with damage: 4...
+Snorlax attempts to cast ability on Charmander with damage: 0...
+Snorlax dodges Charmander's attack.
+	Damage dealt: 0.
+Charmander HP: 48.
+Snorlax HP: 56.
+tick: 7...
+Charmander attempts to cast ability on Snorlax with damage: 7...
+Snorlax attempts to cast ability on Charmander with damage: 4...
+	Damage dealt: 7.
+	Damage dealt: 4.
+	Charmander stunned.
+Charmander HP: 44.
+Snorlax HP: 49.
+tick: 8...
+Charmander is unable to attack because stunned.
+Snorlax attempts normal attack with value 7 on Charmander with defense value: 4...
+	Damage dealt: 3.
+Charmander HP: 41.
+Snorlax HP: 49.
+tick: 9...
+Charmander attempts normal attack with value 8 on Snorlax with defense value: 7...
+	Damage dealt: 1.
+Snorlax attempts normal attack with value 7 on Charmander with defense value: 4...
+	Damage dealt: 3.
+Charmander HP: 38.
+Snorlax HP: 48.
+tick: 10...
+Charmander attempts normal attack with value 8 on Snorlax with defense value: 7...
+	Damage dealt: 1.
+Snorlax attempts normal attack with value 7 on Charmander with defense value: 4...
+	Damage dealt: 3.
+Charmander HP: 35.
+Snorlax HP: 47.
+tick: 11...
+Charmander attempts to cast ability on Snorlax with damage: 4...
+	Damage dealt: 4.
+Snorlax attempts normal attack with value 7 on Charmander with defense value: 4...
+	Damage dealt: 3.
+	Snorlax stunned.
+Charmander HP: 32.
+Snorlax HP: 43.
+tick: 12...
+Charmander attempts normal attack with value 8 on Snorlax with defense value: 7...
+	Damage dealt: 1.
+Snorlax is unable to attack because stunned.
+Charmander HP: 32.
+Snorlax HP: 42.
+tick: 13...
+Snorlax attempts to cast ability on Charmander with damage: 0...
+Snorlax dodges Charmander's attack.
+	Damage dealt: 0.
+Charmander HP: 32.
+Snorlax HP: 42.
+tick: 14...
+Charmander attempts to cast ability on Snorlax with damage: 7...
+Snorlax attempts to cast ability on Charmander with damage: 4...
+	Damage dealt: 7.
+	Damage dealt: 4.
+	Charmander stunned.
+Charmander HP: 28.
+Snorlax HP: 35.
+tick: 15...
+Charmander is unable to attack because stunned.
+Snorlax attempts normal attack with value 7 on Charmander with defense value: 4...
+	Damage dealt: 3.
+Charmander HP: 25.
+Snorlax HP: 35.
+tick: 16...
+Charmander attempts to cast ability on Snorlax with damage: 4...
+	Damage dealt: 4.
+Snorlax attempts normal attack with value 7 on Charmander with defense value: 4...
+	Damage dealt: 3.
+	Snorlax stunned.
+Charmander HP: 22.
+Snorlax HP: 31.
+tick: 17...
+Charmander attempts normal attack with value 8 on Snorlax with defense value: 7...
+	Damage dealt: 1.
+Snorlax is unable to attack because stunned.
+Charmander HP: 22.
+Snorlax HP: 30.
+tick: 18...
+Charmander attempts normal attack with value 8 on Snorlax with defense value: 7...
+	Damage dealt: 1.
+Snorlax attempts normal attack with value 7 on Charmander with defense value: 4...
+	Damage dealt: 3.
+Charmander HP: 19.
+Snorlax HP: 29.
+tick: 19...
+Snorlax attempts to cast ability on Charmander with damage: 0...
+Snorlax dodges Charmander's attack.
+	Damage dealt: 0.
+Charmander HP: 19.
+Snorlax HP: 29.
+tick: 20...
+Snorlax attempts to cast ability on Charmander with damage: 4...
+Charmander attempts normal attack with value 8 on Snorlax with defense value: 7...
+	Damage dealt: 1.
+	Damage dealt: 4.
+	Charmander stunned.
+Charmander HP: 15.
+Snorlax HP: 28.
+tick: 21...
+Charmander is unable to attack because stunned.
+Snorlax attempts normal attack with value 7 on Charmander with defense value: 4...
+	Damage dealt: 3.
+Charmander HP: 12.
+Snorlax HP: 28.
+tick: 22...
+Charmander attempts to cast ability on Snorlax with damage: 7...
+	Damage dealt: 7.
+Snorlax attempts normal attack with value 7 on Charmander with defense value: 4...
+	Damage dealt: 3.
+Charmander HP: 9.
+Snorlax HP: 21.
+tick: 23...
+Charmander attempts to cast ability on Snorlax with damage: 4...
+	Damage dealt: 4.
+Snorlax attempts normal attack with value 7 on Charmander with defense value: 4...
+	Damage dealt: 3.
+	Snorlax stunned.
+Charmander HP: 6.
+Snorlax HP: 17.
+tick: 24...
+Charmander attempts normal attack with value 8 on Snorlax with defense value: 7...
+	Damage dealt: 1.
+Snorlax is unable to attack because stunned.
+Charmander HP: 6.
+Snorlax HP: 16.
+tick: 25...
+Snorlax attempts to cast ability on Charmander with damage: 0...
+Snorlax dodges Charmander's attack.
+	Damage dealt: 0.
+Charmander HP: 6.
+Snorlax HP: 16.
+tick: 26...
+Snorlax attempts to cast ability on Charmander with damage: 4...
+Charmander attempts normal attack with value 8 on Snorlax with defense value: 7...
+	Damage dealt: 1.
+	Damage dealt: 4.
+	Charmander stunned.
+Charmander HP: 2.
+Snorlax HP: 15.
+tick: 27...
+Charmander is unable to attack because stunned.
+Snorlax attempts normal attack with value 7 on Charmander with defense value: 4...
+	Damage dealt: 3.
+Charmander HP: -1.
+Snorlax HP: 15.
+Snorlax WINS!
+Snorlax buffed!
+New stats:
+Pokemon:
+	Name: Snorlax.
+	HP: 64.
+	Normal attack value: 8.
+	Defense value: 8.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+		Ability:
+			Damage: 0
+			Stun: false
+			Dodge: true
+			Cooldown: 5
+	Items:
+		Cape
+		Sword
+	Score: 89.
+Coach Iuliu is the winner of the adventure!

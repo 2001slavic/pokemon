@@ -1,0 +1,1051 @@
+Initiating new battle...
+Coach Viorica to fight with Neutrel1...
+Coach Viorica picked Jigglypuff.
+Pokemon stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 34.
+	Normal attack value: 4.
+	Defense value: 4.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Shield
+	Score: 47.
+Starting battle...
+tick: 0...
+Jigglypuff attempts to cast ability on Neutrel1 with damage: 3...
+	Damage dealt: 3.
+Neutrel1 attempts normal attack with value 3 on Jigglypuff with defense value: 4...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Jigglypuff HP: 34.
+Neutrel1 HP: 7.
+tick: 1...
+Jigglypuff attempts to cast ability on Neutrel1 with damage: 4...
+	Damage dealt: 4.
+Neutrel1 is unable to attack because stunned.
+	Neutrel1 stunned.
+Jigglypuff HP: 34.
+Neutrel1 HP: 3.
+tick: 2...
+Jigglypuff attempts normal attack with value 4 on Neutrel1 with defense value: 1...
+	Damage dealt: 3.
+Neutrel1 is unable to attack because stunned.
+Jigglypuff HP: 34.
+Neutrel1 HP: 0.
+Jigglypuff WINS!
+Jigglypuff buffed!
+New stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 35.
+	Normal attack value: 5.
+	Defense value: 5.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Shield
+	Score: 51.
+Coach Paula to fight with Neutrel1...
+Coach Paula picked Squirtle.
+Pokemon stats:
+Pokemon:
+	Name: Squirtle.
+	HP: 70.
+	Special attack value: 3.
+	Defense value: 7.
+	Special defense value: 10.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 2
+	Items:
+		Shield
+		Cape
+		Vest
+	Score: 90.
+Starting battle...
+tick: 0...
+Squirtle attempts to cast ability on Neutrel1 with damage: 4...
+	Damage dealt: 4.
+Neutrel1 attempts normal attack with value 3 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+Squirtle HP: 70.
+Neutrel1 HP: 6.
+tick: 1...
+Squirtle attempts to cast ability on Neutrel1 with damage: 2...
+	Damage dealt: 2.
+Neutrel1 attempts normal attack with value 3 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Squirtle HP: 70.
+Neutrel1 HP: 4.
+tick: 2...
+Squirtle attempts special attack with value 3 on Neutrel1 with special defense value: 1...
+	Damage dealt: 2.
+Neutrel1 is unable to attack because stunned.
+Squirtle HP: 70.
+Neutrel1 HP: 2.
+tick: 3...
+Squirtle attempts special attack with value 3 on Neutrel1 with special defense value: 1...
+	Damage dealt: 2.
+Neutrel1 attempts normal attack with value 3 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+Squirtle HP: 70.
+Neutrel1 HP: 0.
+Squirtle WINS!
+Squirtle buffed!
+New stats:
+Pokemon:
+	Name: Squirtle.
+	HP: 71.
+	Special attack value: 4.
+	Defense value: 8.
+	Special defense value: 11.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 2
+	Items:
+		Shield
+		Cape
+		Vest
+	Score: 94.
+Coach Viorica to fight with coach Paula...
+Battle 1...
+Pokemon Charmander to fight with Jigglypuff...
+Charmander's stats:
+Pokemon:
+	Name: Charmander.
+	HP: 62.
+	Normal attack value: 6.
+	Defense value: 3.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 7
+			Stun: false
+			Dodge: false
+			Cooldown: 6
+	Items:
+		Vitamins
+		Vest
+		Cape
+	Score: 76.
+Jigglypuff's stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 34.
+	Normal attack value: 7.
+	Defense value: 4.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Sword
+		Shield
+	Score: 50.
+tick: 0...
+Charmander attempts to cast ability on Jigglypuff with damage: 7...
+Jigglypuff attempts to cast ability on Charmander with damage: 4...
+	Damage dealt: 7.
+	Damage dealt: 4.
+	Charmander stunned.
+Charmander HP: 58.
+Jigglypuff HP: 27.
+tick: 1...
+Jigglypuff attempts to cast ability on Charmander with damage: 3...
+Charmander is unable to attack because stunned.
+	Damage dealt: 3.
+	Charmander stunned.
+Charmander HP: 55.
+Jigglypuff HP: 27.
+tick: 2...
+Charmander is unable to attack because stunned.
+Jigglypuff attempts normal attack with value 7 on Charmander with defense value: 3...
+	Damage dealt: 4.
+Charmander HP: 51.
+Jigglypuff HP: 27.
+tick: 3...
+Charmander attempts to cast ability on Jigglypuff with damage: 4...
+	Damage dealt: 4.
+Jigglypuff attempts normal attack with value 7 on Charmander with defense value: 3...
+	Damage dealt: 4.
+	Jigglypuff stunned.
+Charmander HP: 47.
+Jigglypuff HP: 23.
+tick: 4...
+Charmander attempts normal attack with value 6 on Jigglypuff with defense value: 4...
+	Damage dealt: 2.
+Jigglypuff is unable to attack because stunned.
+Charmander HP: 47.
+Jigglypuff HP: 21.
+tick: 5...
+Jigglypuff attempts to cast ability on Charmander with damage: 4...
+Charmander attempts normal attack with value 6 on Jigglypuff with defense value: 4...
+	Damage dealt: 2.
+	Damage dealt: 4.
+	Charmander stunned.
+Charmander HP: 43.
+Jigglypuff HP: 19.
+tick: 6...
+Jigglypuff attempts to cast ability on Charmander with damage: 3...
+Charmander is unable to attack because stunned.
+	Damage dealt: 3.
+	Charmander stunned.
+Charmander HP: 40.
+Jigglypuff HP: 19.
+tick: 7...
+Charmander is unable to attack because stunned.
+Jigglypuff attempts normal attack with value 7 on Charmander with defense value: 3...
+	Damage dealt: 4.
+Charmander HP: 36.
+Jigglypuff HP: 19.
+tick: 8...
+Charmander attempts to cast ability on Jigglypuff with damage: 7...
+	Damage dealt: 7.
+Jigglypuff attempts normal attack with value 7 on Charmander with defense value: 3...
+	Damage dealt: 4.
+Charmander HP: 32.
+Jigglypuff HP: 12.
+tick: 9...
+Charmander attempts to cast ability on Jigglypuff with damage: 4...
+	Damage dealt: 4.
+Jigglypuff attempts normal attack with value 7 on Charmander with defense value: 3...
+	Damage dealt: 4.
+	Jigglypuff stunned.
+Charmander HP: 28.
+Jigglypuff HP: 8.
+tick: 10...
+Charmander attempts normal attack with value 6 on Jigglypuff with defense value: 4...
+	Damage dealt: 2.
+Jigglypuff is unable to attack because stunned.
+Charmander HP: 28.
+Jigglypuff HP: 6.
+tick: 11...
+Jigglypuff attempts to cast ability on Charmander with damage: 4...
+Charmander attempts normal attack with value 6 on Jigglypuff with defense value: 4...
+	Damage dealt: 2.
+	Damage dealt: 4.
+	Charmander stunned.
+Charmander HP: 24.
+Jigglypuff HP: 4.
+tick: 12...
+Jigglypuff attempts to cast ability on Charmander with damage: 3...
+Charmander is unable to attack because stunned.
+	Damage dealt: 3.
+	Charmander stunned.
+Charmander HP: 21.
+Jigglypuff HP: 4.
+tick: 13...
+Charmander is unable to attack because stunned.
+Jigglypuff attempts normal attack with value 7 on Charmander with defense value: 3...
+	Damage dealt: 4.
+Charmander HP: 17.
+Jigglypuff HP: 4.
+tick: 14...
+Charmander attempts to cast ability on Jigglypuff with damage: 4...
+	Damage dealt: 4.
+Jigglypuff attempts normal attack with value 7 on Charmander with defense value: 3...
+	Damage dealt: 4.
+	Jigglypuff stunned.
+Charmander HP: 13.
+Jigglypuff HP: 0.
+Charmander WINS!
+Charmander buffed!
+New stats:
+Pokemon:
+	Name: Charmander.
+	HP: 63.
+	Normal attack value: 7.
+	Defense value: 4.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 7
+			Stun: false
+			Dodge: false
+			Cooldown: 6
+	Items:
+		Vitamins
+		Vest
+		Cape
+	Score: 80.
+Battle 2...
+Pokemon Jigglypuff to fight with Squirtle...
+Jigglypuff's stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 35.
+	Normal attack value: 5.
+	Defense value: 5.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Shield
+	Score: 51.
+Squirtle's stats:
+Pokemon:
+	Name: Squirtle.
+	HP: 71.
+	Special attack value: 4.
+	Defense value: 8.
+	Special defense value: 11.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 2
+	Items:
+		Shield
+		Cape
+		Vest
+	Score: 94.
+tick: 0...
+Jigglypuff attempts to cast ability on Squirtle with damage: 3...
+Squirtle attempts to cast ability on Jigglypuff with damage: 4...
+	Damage dealt: 3.
+	Damage dealt: 4.
+	Squirtle stunned.
+Jigglypuff HP: 31.
+Squirtle HP: 68.
+tick: 1...
+Jigglypuff attempts to cast ability on Squirtle with damage: 4...
+	Damage dealt: 4.
+Squirtle is unable to attack because stunned.
+	Squirtle stunned.
+Jigglypuff HP: 31.
+Squirtle HP: 64.
+tick: 2...
+Jigglypuff attempts normal attack with value 5 on Squirtle with defense value: 8...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Jigglypuff HP: 31.
+Squirtle HP: 64.
+tick: 3...
+Squirtle attempts to cast ability on Jigglypuff with damage: 2...
+Jigglypuff attempts normal attack with value 5 on Squirtle with defense value: 8...
+	Damage dealt: 0.
+	Damage dealt: 2.
+	Jigglypuff stunned.
+Jigglypuff HP: 29.
+Squirtle HP: 64.
+tick: 4...
+Squirtle attempts to cast ability on Jigglypuff with damage: 4...
+Jigglypuff is unable to attack because stunned.
+	Damage dealt: 4.
+Jigglypuff HP: 25.
+Squirtle HP: 64.
+tick: 5...
+Jigglypuff attempts to cast ability on Squirtle with damage: 3...
+	Damage dealt: 3.
+Squirtle attempts special attack with value 4 on Jigglypuff with special defense value: 5...
+	Damage dealt: 0.
+	Squirtle stunned.
+Jigglypuff HP: 25.
+Squirtle HP: 61.
+tick: 6...
+Jigglypuff attempts to cast ability on Squirtle with damage: 4...
+	Damage dealt: 4.
+Squirtle is unable to attack because stunned.
+	Squirtle stunned.
+Jigglypuff HP: 25.
+Squirtle HP: 57.
+tick: 7...
+Jigglypuff attempts normal attack with value 5 on Squirtle with defense value: 8...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Jigglypuff HP: 25.
+Squirtle HP: 57.
+tick: 8...
+Squirtle attempts to cast ability on Jigglypuff with damage: 2...
+Jigglypuff attempts normal attack with value 5 on Squirtle with defense value: 8...
+	Damage dealt: 0.
+	Damage dealt: 2.
+	Jigglypuff stunned.
+Jigglypuff HP: 23.
+Squirtle HP: 57.
+tick: 9...
+Squirtle attempts to cast ability on Jigglypuff with damage: 4...
+Jigglypuff is unable to attack because stunned.
+	Damage dealt: 4.
+Jigglypuff HP: 19.
+Squirtle HP: 57.
+tick: 10...
+Jigglypuff attempts to cast ability on Squirtle with damage: 3...
+	Damage dealt: 3.
+Squirtle attempts special attack with value 4 on Jigglypuff with special defense value: 5...
+	Damage dealt: 0.
+	Squirtle stunned.
+Jigglypuff HP: 19.
+Squirtle HP: 54.
+tick: 11...
+Jigglypuff attempts to cast ability on Squirtle with damage: 4...
+	Damage dealt: 4.
+Squirtle is unable to attack because stunned.
+	Squirtle stunned.
+Jigglypuff HP: 19.
+Squirtle HP: 50.
+tick: 12...
+Jigglypuff attempts normal attack with value 5 on Squirtle with defense value: 8...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Jigglypuff HP: 19.
+Squirtle HP: 50.
+tick: 13...
+Squirtle attempts to cast ability on Jigglypuff with damage: 2...
+Jigglypuff attempts normal attack with value 5 on Squirtle with defense value: 8...
+	Damage dealt: 0.
+	Damage dealt: 2.
+	Jigglypuff stunned.
+Jigglypuff HP: 17.
+Squirtle HP: 50.
+tick: 14...
+Squirtle attempts to cast ability on Jigglypuff with damage: 4...
+Jigglypuff is unable to attack because stunned.
+	Damage dealt: 4.
+Jigglypuff HP: 13.
+Squirtle HP: 50.
+tick: 15...
+Jigglypuff attempts to cast ability on Squirtle with damage: 3...
+	Damage dealt: 3.
+Squirtle attempts special attack with value 4 on Jigglypuff with special defense value: 5...
+	Damage dealt: 0.
+	Squirtle stunned.
+Jigglypuff HP: 13.
+Squirtle HP: 47.
+tick: 16...
+Jigglypuff attempts to cast ability on Squirtle with damage: 4...
+	Damage dealt: 4.
+Squirtle is unable to attack because stunned.
+	Squirtle stunned.
+Jigglypuff HP: 13.
+Squirtle HP: 43.
+tick: 17...
+Jigglypuff attempts normal attack with value 5 on Squirtle with defense value: 8...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Jigglypuff HP: 13.
+Squirtle HP: 43.
+tick: 18...
+Squirtle attempts to cast ability on Jigglypuff with damage: 4...
+Jigglypuff attempts normal attack with value 5 on Squirtle with defense value: 8...
+	Damage dealt: 0.
+	Damage dealt: 4.
+Jigglypuff HP: 9.
+Squirtle HP: 43.
+tick: 19...
+Squirtle attempts to cast ability on Jigglypuff with damage: 2...
+Jigglypuff attempts normal attack with value 5 on Squirtle with defense value: 8...
+	Damage dealt: 0.
+	Damage dealt: 2.
+	Jigglypuff stunned.
+Jigglypuff HP: 7.
+Squirtle HP: 43.
+tick: 20...
+Jigglypuff is unable to attack because stunned.
+Squirtle attempts special attack with value 4 on Jigglypuff with special defense value: 5...
+	Damage dealt: 0.
+Jigglypuff HP: 7.
+Squirtle HP: 43.
+tick: 21...
+Jigglypuff attempts to cast ability on Squirtle with damage: 4...
+	Damage dealt: 4.
+Squirtle attempts special attack with value 4 on Jigglypuff with special defense value: 5...
+	Damage dealt: 0.
+	Squirtle stunned.
+Jigglypuff HP: 7.
+Squirtle HP: 39.
+tick: 22...
+Jigglypuff attempts to cast ability on Squirtle with damage: 3...
+	Damage dealt: 3.
+Squirtle is unable to attack because stunned.
+	Squirtle stunned.
+Jigglypuff HP: 7.
+Squirtle HP: 36.
+tick: 23...
+Jigglypuff attempts normal attack with value 5 on Squirtle with defense value: 8...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Jigglypuff HP: 7.
+Squirtle HP: 36.
+tick: 24...
+Squirtle attempts to cast ability on Jigglypuff with damage: 4...
+Jigglypuff attempts normal attack with value 5 on Squirtle with defense value: 8...
+	Damage dealt: 0.
+	Damage dealt: 4.
+Jigglypuff HP: 3.
+Squirtle HP: 36.
+tick: 25...
+Squirtle attempts to cast ability on Jigglypuff with damage: 2...
+Jigglypuff attempts normal attack with value 5 on Squirtle with defense value: 8...
+	Damage dealt: 0.
+	Damage dealt: 2.
+	Jigglypuff stunned.
+Jigglypuff HP: 1.
+Squirtle HP: 36.
+tick: 26...
+Jigglypuff is unable to attack because stunned.
+Squirtle attempts special attack with value 4 on Jigglypuff with special defense value: 5...
+	Damage dealt: 0.
+Jigglypuff HP: 1.
+Squirtle HP: 36.
+tick: 27...
+Jigglypuff attempts to cast ability on Squirtle with damage: 3...
+	Damage dealt: 3.
+Squirtle attempts special attack with value 4 on Jigglypuff with special defense value: 5...
+	Damage dealt: 0.
+	Squirtle stunned.
+Jigglypuff HP: 1.
+Squirtle HP: 33.
+tick: 28...
+Jigglypuff attempts to cast ability on Squirtle with damage: 4...
+	Damage dealt: 4.
+Squirtle is unable to attack because stunned.
+	Squirtle stunned.
+Jigglypuff HP: 1.
+Squirtle HP: 29.
+tick: 29...
+Jigglypuff attempts normal attack with value 5 on Squirtle with defense value: 8...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Jigglypuff HP: 1.
+Squirtle HP: 29.
+tick: 30...
+Squirtle attempts to cast ability on Jigglypuff with damage: 2...
+Jigglypuff attempts normal attack with value 5 on Squirtle with defense value: 8...
+	Damage dealt: 0.
+	Damage dealt: 2.
+	Jigglypuff stunned.
+Jigglypuff HP: -1.
+Squirtle HP: 29.
+Squirtle WINS!
+Squirtle buffed!
+New stats:
+Pokemon:
+	Name: Squirtle.
+	HP: 72.
+	Special attack value: 5.
+	Defense value: 9.
+	Special defense value: 12.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 2
+	Items:
+		Shield
+		Cape
+		Vest
+	Score: 98.
+Battle 3...
+Pokemon Vulpix to fight with Charmander...
+Vulpix's stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 38.
+	Normal attack value: 13.
+	Defense value: 3.
+	Special defense value: 4.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		Vitamins
+		Sword
+		ChristmasTree
+	Score: 58.
+Charmander's stats:
+Pokemon:
+	Name: Charmander.
+	HP: 50.
+	Normal attack value: 4.
+	Defense value: 3.
+	Special defense value: 2.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 7
+			Stun: false
+			Dodge: false
+			Cooldown: 6
+	Items:
+	Score: 59.
+tick: 0...
+Vulpix attempts to cast ability on Charmander with damage: 8...
+Charmander attempts to cast ability on Vulpix with damage: 7...
+	Damage dealt: 8.
+	Damage dealt: 7.
+	Charmander stunned.
+Vulpix HP: 31.
+Charmander HP: 42.
+tick: 1...
+Vulpix attempts to cast ability on Charmander with damage: 2...
+	Damage dealt: 2.
+Charmander is unable to attack because stunned.
+Vulpix HP: 31.
+Charmander HP: 40.
+tick: 2...
+Charmander attempts to cast ability on Vulpix with damage: 4...
+Vulpix attempts normal attack with value 13 on Charmander with defense value: 3...
+	Damage dealt: 10.
+	Damage dealt: 4.
+	Vulpix stunned.
+Vulpix HP: 27.
+Charmander HP: 30.
+tick: 3...
+Vulpix is unable to attack because stunned.
+Charmander attempts normal attack with value 4 on Vulpix with defense value: 3...
+	Damage dealt: 1.
+Vulpix HP: 26.
+Charmander HP: 30.
+tick: 4...
+Vulpix attempts normal attack with value 13 on Charmander with defense value: 3...
+	Damage dealt: 10.
+Charmander attempts normal attack with value 4 on Vulpix with defense value: 3...
+	Damage dealt: 1.
+Vulpix HP: 25.
+Charmander HP: 20.
+tick: 5...
+Vulpix attempts normal attack with value 13 on Charmander with defense value: 3...
+	Damage dealt: 10.
+Charmander attempts normal attack with value 4 on Vulpix with defense value: 3...
+	Damage dealt: 1.
+Vulpix HP: 24.
+Charmander HP: 10.
+tick: 6...
+Vulpix attempts normal attack with value 13 on Charmander with defense value: 3...
+	Damage dealt: 10.
+Charmander attempts normal attack with value 4 on Vulpix with defense value: 3...
+	Damage dealt: 1.
+Vulpix HP: 23.
+Charmander HP: 0.
+Vulpix WINS!
+Vulpix buffed!
+New stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 39.
+	Normal attack value: 14.
+	Defense value: 4.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		Vitamins
+		Sword
+		ChristmasTree
+	Score: 62.
+Final battle...
+Charmander with score: 80 to fight Squirtle with score: 98...
+tick: 0...
+Charmander attempts to cast ability on Squirtle with damage: 7...
+Squirtle attempts to cast ability on Charmander with damage: 2...
+	Damage dealt: 7.
+	Damage dealt: 2.
+	Charmander stunned.
+Charmander HP: 61.
+Squirtle HP: 65.
+tick: 1...
+Squirtle attempts to cast ability on Charmander with damage: 4...
+Charmander is unable to attack because stunned.
+	Damage dealt: 4.
+Charmander HP: 57.
+Squirtle HP: 65.
+tick: 2...
+Charmander attempts to cast ability on Squirtle with damage: 4...
+	Damage dealt: 4.
+Squirtle attempts special attack with value 5 on Charmander with special defense value: 4...
+	Damage dealt: 0.
+	Squirtle stunned.
+Charmander HP: 57.
+Squirtle HP: 61.
+tick: 3...
+Charmander attempts normal attack with value 7 on Squirtle with defense value: 9...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Charmander HP: 57.
+Squirtle HP: 61.
+tick: 4...
+Squirtle attempts to cast ability on Charmander with damage: 2...
+Charmander attempts normal attack with value 7 on Squirtle with defense value: 9...
+	Damage dealt: 0.
+	Damage dealt: 2.
+	Charmander stunned.
+Charmander HP: 55.
+Squirtle HP: 61.
+tick: 5...
+Squirtle attempts to cast ability on Charmander with damage: 4...
+Charmander is unable to attack because stunned.
+	Damage dealt: 4.
+Charmander HP: 51.
+Squirtle HP: 61.
+tick: 6...
+Charmander attempts normal attack with value 7 on Squirtle with defense value: 9...
+	Damage dealt: 0.
+Squirtle attempts special attack with value 5 on Charmander with special defense value: 4...
+	Damage dealt: 0.
+Charmander HP: 51.
+Squirtle HP: 61.
+tick: 7...
+Charmander attempts to cast ability on Squirtle with damage: 7...
+Squirtle attempts to cast ability on Charmander with damage: 2...
+	Damage dealt: 7.
+	Damage dealt: 2.
+	Charmander stunned.
+Charmander HP: 49.
+Squirtle HP: 54.
+tick: 8...
+Charmander is unable to attack because stunned.
+Squirtle attempts special attack with value 5 on Charmander with special defense value: 4...
+	Damage dealt: 0.
+Charmander HP: 49.
+Squirtle HP: 54.
+tick: 9...
+Charmander attempts to cast ability on Squirtle with damage: 4...
+Squirtle attempts to cast ability on Charmander with damage: 4...
+	Damage dealt: 4.
+	Damage dealt: 4.
+	Squirtle stunned.
+Charmander HP: 45.
+Squirtle HP: 50.
+tick: 10...
+Charmander attempts normal attack with value 7 on Squirtle with defense value: 9...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Charmander HP: 45.
+Squirtle HP: 50.
+tick: 11...
+Squirtle attempts to cast ability on Charmander with damage: 2...
+Charmander attempts normal attack with value 7 on Squirtle with defense value: 9...
+	Damage dealt: 0.
+	Damage dealt: 2.
+	Charmander stunned.
+Charmander HP: 43.
+Squirtle HP: 50.
+tick: 12...
+Charmander is unable to attack because stunned.
+Squirtle attempts special attack with value 5 on Charmander with special defense value: 4...
+	Damage dealt: 0.
+Charmander HP: 43.
+Squirtle HP: 50.
+tick: 13...
+Squirtle attempts to cast ability on Charmander with damage: 4...
+Charmander attempts normal attack with value 7 on Squirtle with defense value: 9...
+	Damage dealt: 0.
+	Damage dealt: 4.
+Charmander HP: 39.
+Squirtle HP: 50.
+tick: 14...
+Charmander attempts to cast ability on Squirtle with damage: 4...
+Squirtle attempts to cast ability on Charmander with damage: 2...
+	Damage dealt: 4.
+	Damage dealt: 2.
+	Charmander stunned.
+	Squirtle stunned.
+Charmander HP: 37.
+Squirtle HP: 46.
+tick: 15...
+Charmander is unable to attack because stunned.
+Squirtle is unable to attack because stunned.
+Charmander HP: 37.
+Squirtle HP: 46.
+tick: 16...
+Charmander attempts to cast ability on Squirtle with damage: 7...
+	Damage dealt: 7.
+Squirtle attempts special attack with value 5 on Charmander with special defense value: 4...
+	Damage dealt: 0.
+Charmander HP: 37.
+Squirtle HP: 39.
+tick: 17...
+Squirtle attempts to cast ability on Charmander with damage: 4...
+Charmander attempts normal attack with value 7 on Squirtle with defense value: 9...
+	Damage dealt: 0.
+	Damage dealt: 4.
+Charmander HP: 33.
+Squirtle HP: 39.
+tick: 18...
+Squirtle attempts to cast ability on Charmander with damage: 2...
+Charmander attempts normal attack with value 7 on Squirtle with defense value: 9...
+	Damage dealt: 0.
+	Damage dealt: 2.
+	Charmander stunned.
+Charmander HP: 31.
+Squirtle HP: 39.
+tick: 19...
+Charmander is unable to attack because stunned.
+Squirtle attempts special attack with value 5 on Charmander with special defense value: 4...
+	Damage dealt: 0.
+Charmander HP: 31.
+Squirtle HP: 39.
+tick: 20...
+Charmander attempts to cast ability on Squirtle with damage: 4...
+	Damage dealt: 4.
+Squirtle attempts special attack with value 5 on Charmander with special defense value: 4...
+	Damage dealt: 0.
+	Squirtle stunned.
+Charmander HP: 31.
+Squirtle HP: 35.
+tick: 21...
+Charmander attempts normal attack with value 7 on Squirtle with defense value: 9...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Charmander HP: 31.
+Squirtle HP: 35.
+tick: 22...
+Squirtle attempts to cast ability on Charmander with damage: 2...
+Charmander attempts normal attack with value 7 on Squirtle with defense value: 9...
+	Damage dealt: 0.
+	Damage dealt: 2.
+	Charmander stunned.
+Charmander HP: 29.
+Squirtle HP: 35.
+tick: 23...
+Squirtle attempts to cast ability on Charmander with damage: 4...
+Charmander is unable to attack because stunned.
+	Damage dealt: 4.
+Charmander HP: 25.
+Squirtle HP: 35.
+tick: 24...
+Charmander attempts to cast ability on Squirtle with damage: 7...
+	Damage dealt: 7.
+Squirtle attempts special attack with value 5 on Charmander with special defense value: 4...
+	Damage dealt: 0.
+Charmander HP: 25.
+Squirtle HP: 28.
+tick: 25...
+Charmander attempts to cast ability on Squirtle with damage: 4...
+Squirtle attempts to cast ability on Charmander with damage: 2...
+	Damage dealt: 4.
+	Damage dealt: 2.
+	Charmander stunned.
+	Squirtle stunned.
+Charmander HP: 23.
+Squirtle HP: 24.
+tick: 26...
+Charmander is unable to attack because stunned.
+Squirtle is unable to attack because stunned.
+Charmander HP: 23.
+Squirtle HP: 24.
+tick: 27...
+Squirtle attempts to cast ability on Charmander with damage: 4...
+Charmander attempts normal attack with value 7 on Squirtle with defense value: 9...
+	Damage dealt: 0.
+	Damage dealt: 4.
+Charmander HP: 19.
+Squirtle HP: 24.
+tick: 28...
+Squirtle attempts to cast ability on Charmander with damage: 2...
+Charmander attempts normal attack with value 7 on Squirtle with defense value: 9...
+	Damage dealt: 0.
+	Damage dealt: 2.
+	Charmander stunned.
+Charmander HP: 17.
+Squirtle HP: 24.
+tick: 29...
+Charmander is unable to attack because stunned.
+Squirtle attempts special attack with value 5 on Charmander with special defense value: 4...
+	Damage dealt: 0.
+Charmander HP: 17.
+Squirtle HP: 24.
+tick: 30...
+Charmander attempts to cast ability on Squirtle with damage: 4...
+	Damage dealt: 4.
+Squirtle attempts special attack with value 5 on Charmander with special defense value: 4...
+	Damage dealt: 0.
+	Squirtle stunned.
+Charmander HP: 17.
+Squirtle HP: 20.
+tick: 31...
+Charmander attempts to cast ability on Squirtle with damage: 7...
+	Damage dealt: 7.
+Squirtle is unable to attack because stunned.
+Charmander HP: 17.
+Squirtle HP: 13.
+tick: 32...
+Squirtle attempts to cast ability on Charmander with damage: 2...
+Charmander attempts normal attack with value 7 on Squirtle with defense value: 9...
+	Damage dealt: 0.
+	Damage dealt: 2.
+	Charmander stunned.
+Charmander HP: 15.
+Squirtle HP: 13.
+tick: 33...
+Squirtle attempts to cast ability on Charmander with damage: 4...
+Charmander is unable to attack because stunned.
+	Damage dealt: 4.
+Charmander HP: 11.
+Squirtle HP: 13.
+tick: 34...
+Charmander attempts normal attack with value 7 on Squirtle with defense value: 9...
+	Damage dealt: 0.
+Squirtle attempts special attack with value 5 on Charmander with special defense value: 4...
+	Damage dealt: 0.
+Charmander HP: 11.
+Squirtle HP: 13.
+tick: 35...
+Charmander attempts to cast ability on Squirtle with damage: 4...
+Squirtle attempts to cast ability on Charmander with damage: 2...
+	Damage dealt: 4.
+	Damage dealt: 2.
+	Charmander stunned.
+	Squirtle stunned.
+Charmander HP: 9.
+Squirtle HP: 9.
+tick: 36...
+Charmander is unable to attack because stunned.
+Squirtle is unable to attack because stunned.
+Charmander HP: 9.
+Squirtle HP: 9.
+tick: 37...
+Squirtle attempts to cast ability on Charmander with damage: 4...
+Charmander attempts normal attack with value 7 on Squirtle with defense value: 9...
+	Damage dealt: 0.
+	Damage dealt: 4.
+Charmander HP: 5.
+Squirtle HP: 9.
+tick: 38...
+Charmander attempts to cast ability on Squirtle with damage: 7...
+Squirtle attempts to cast ability on Charmander with damage: 2...
+	Damage dealt: 7.
+	Damage dealt: 2.
+	Charmander stunned.
+Charmander HP: 3.
+Squirtle HP: 2.
+tick: 39...
+Charmander is unable to attack because stunned.
+Squirtle attempts special attack with value 5 on Charmander with special defense value: 4...
+	Damage dealt: 0.
+Charmander HP: 3.
+Squirtle HP: 2.
+tick: 40...
+Charmander attempts to cast ability on Squirtle with damage: 4...
+	Damage dealt: 4.
+Squirtle attempts special attack with value 5 on Charmander with special defense value: 4...
+	Damage dealt: 0.
+	Squirtle stunned.
+Charmander HP: 3.
+Squirtle HP: -2.
+Charmander WINS!
+Charmander buffed!
+New stats:
+Pokemon:
+	Name: Charmander.
+	HP: 64.
+	Normal attack value: 8.
+	Defense value: 5.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 7
+			Stun: false
+			Dodge: false
+			Cooldown: 6
+	Items:
+		Vitamins
+		Vest
+		Cape
+	Score: 84.
+Coach Viorica is the winner of the adventure!

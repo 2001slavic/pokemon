@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<coaches>
+    <coach>
+        <name>Iuliu</name>
+        <age>37</age>
+        <pokemons>
+            <pokemon>
+                <name>Snorlax</name>
+                <items>
+                    <item>Vitamins</item>
+                    <item>Shield</item>
+                    <item>Sword</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Squirtle</name>
+                <items>
+                    <item>Shield</item>
+                    <item>Vitamins</item>
+                    <item>Christmas tree</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Psyduck</name>
+                <items/>
+            </pokemon>
+        </pokemons>
+    </coach>
+    <coach>
+        <name>Marilena</name>
+        <age>16</age>
+        <pokemons>
+            <pokemon>
+                <name>Meowth</name>
+                <items>
+                    <item>Christmas tree</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Bulbasaur</name>
+                <items>
+                    <item>Shield</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Squirtle</name>
+                <items>
+                    <item>Christmas tree</item>
+                </items>
+            </pokemon>
+        </pokemons>
+    </coach>
+</coaches>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<coaches>
+    <coach>
+        <name>Iuliu</name>
+        <age>64</age>
+        <pokemons>
+            <pokemon>
+                <name>Jigglypuff</name>
+                <items>
+                    <item>Sword</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Meowth</name>
+                <items>
+                    <item>Shield</item>
+                    <item>Vitamins</item>
+                    <item>Christmas tree</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Eevee</name>
+                <items>
+                    <item>Vitamins</item>
+                    <item>Cape</item>
+                    <item>Shield</item>
+                </items>
+            </pokemon>
+        </pokemons>
+    </coach>
+    <coach>
+        <name>Ileana</name>
+        <age>16</age>
+        <pokemons>
+            <pokemon>
+                <name>Psyduck</name>
+                <items/>
+            </pokemon>
+            <pokemon>
+                <name>Pikachu</name>
+                <items>
+                    <item>Vest</item>
+                    <item>Christmas tree</item>
+                    <item>Cape</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Eevee</name>
+                <items/>
+            </pokemon>
+        </pokemons>
+    </coach>
+</coaches>

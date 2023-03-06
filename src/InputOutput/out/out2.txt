@@ -1,0 +1,1522 @@
+Initiating new battle...
+Coach Ionel to fight with Neutrel2...
+Coach Ionel picked Jigglypuff.
+Pokemon stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 34.
+	Normal attack value: 4.
+	Defense value: 2.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Cape
+	Score: 46.
+Starting battle...
+tick: 0...
+Jigglypuff attempts to cast ability on Neutrel2 with damage: 3...
+	Damage dealt: 3.
+Neutrel2 attempts normal attack with value 4 on Jigglypuff with defense value: 2...
+	Damage dealt: 2.
+	Neutrel2 stunned.
+Jigglypuff HP: 32.
+Neutrel2 HP: 17.
+tick: 1...
+Jigglypuff attempts to cast ability on Neutrel2 with damage: 4...
+	Damage dealt: 4.
+Neutrel2 is unable to attack because stunned.
+	Neutrel2 stunned.
+Jigglypuff HP: 32.
+Neutrel2 HP: 13.
+tick: 2...
+Jigglypuff attempts normal attack with value 4 on Neutrel2 with defense value: 1...
+	Damage dealt: 3.
+Neutrel2 is unable to attack because stunned.
+Jigglypuff HP: 32.
+Neutrel2 HP: 10.
+tick: 3...
+Jigglypuff attempts normal attack with value 4 on Neutrel2 with defense value: 1...
+	Damage dealt: 3.
+Neutrel2 attempts normal attack with value 4 on Jigglypuff with defense value: 2...
+	Damage dealt: 2.
+Jigglypuff HP: 30.
+Neutrel2 HP: 7.
+tick: 4...
+Jigglypuff attempts normal attack with value 4 on Neutrel2 with defense value: 1...
+	Damage dealt: 3.
+Neutrel2 attempts normal attack with value 4 on Jigglypuff with defense value: 2...
+	Damage dealt: 2.
+Jigglypuff HP: 28.
+Neutrel2 HP: 4.
+tick: 5...
+Jigglypuff attempts to cast ability on Neutrel2 with damage: 3...
+	Damage dealt: 3.
+Neutrel2 attempts normal attack with value 4 on Jigglypuff with defense value: 2...
+	Damage dealt: 2.
+	Neutrel2 stunned.
+Jigglypuff HP: 26.
+Neutrel2 HP: 1.
+tick: 6...
+Jigglypuff attempts to cast ability on Neutrel2 with damage: 4...
+	Damage dealt: 4.
+Neutrel2 is unable to attack because stunned.
+	Neutrel2 stunned.
+Jigglypuff HP: 26.
+Neutrel2 HP: -3.
+Jigglypuff WINS!
+Jigglypuff buffed!
+New stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 35.
+	Normal attack value: 5.
+	Defense value: 3.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Cape
+	Score: 50.
+Coach Roxana to fight with Neutrel2...
+Coach Roxana picked Psyduck.
+Pokemon stats:
+Pokemon:
+	Name: Psyduck.
+	HP: 43.
+	Normal attack value: 3.
+	Defense value: 3.
+	Special defense value: 3.
+	Abilities:
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+	Items:
+	Score: 52.
+Starting battle...
+tick: 0...
+Psyduck attempts to cast ability on Neutrel2 with damage: 2...
+	Damage dealt: 2.
+Neutrel2 attempts normal attack with value 4 on Psyduck with defense value: 3...
+	Damage dealt: 1.
+	Neutrel2 stunned.
+Psyduck HP: 42.
+Neutrel2 HP: 18.
+tick: 1...
+Psyduck attempts to cast ability on Neutrel2 with damage: 2...
+	Damage dealt: 2.
+Neutrel2 is unable to attack because stunned.
+Psyduck HP: 42.
+Neutrel2 HP: 16.
+tick: 2...
+Psyduck attempts normal attack with value 3 on Neutrel2 with defense value: 1...
+	Damage dealt: 2.
+Neutrel2 attempts normal attack with value 4 on Psyduck with defense value: 3...
+	Damage dealt: 1.
+Psyduck HP: 41.
+Neutrel2 HP: 14.
+tick: 3...
+Psyduck attempts normal attack with value 3 on Neutrel2 with defense value: 1...
+	Damage dealt: 2.
+Neutrel2 attempts normal attack with value 4 on Psyduck with defense value: 3...
+	Damage dealt: 1.
+Psyduck HP: 40.
+Neutrel2 HP: 12.
+tick: 4...
+Psyduck attempts normal attack with value 3 on Neutrel2 with defense value: 1...
+	Damage dealt: 2.
+Neutrel2 attempts normal attack with value 4 on Psyduck with defense value: 3...
+	Damage dealt: 1.
+Psyduck HP: 39.
+Neutrel2 HP: 10.
+tick: 5...
+Psyduck attempts normal attack with value 3 on Neutrel2 with defense value: 1...
+	Damage dealt: 2.
+Neutrel2 attempts normal attack with value 4 on Psyduck with defense value: 3...
+	Damage dealt: 1.
+Psyduck HP: 38.
+Neutrel2 HP: 8.
+tick: 6...
+Psyduck attempts to cast ability on Neutrel2 with damage: 2...
+	Damage dealt: 2.
+Neutrel2 attempts normal attack with value 4 on Psyduck with defense value: 3...
+	Damage dealt: 1.
+	Neutrel2 stunned.
+Psyduck HP: 37.
+Neutrel2 HP: 6.
+tick: 7...
+Psyduck attempts to cast ability on Neutrel2 with damage: 2...
+	Damage dealt: 2.
+Neutrel2 is unable to attack because stunned.
+Psyduck HP: 37.
+Neutrel2 HP: 4.
+tick: 8...
+Psyduck attempts normal attack with value 3 on Neutrel2 with defense value: 1...
+	Damage dealt: 2.
+Neutrel2 attempts normal attack with value 4 on Psyduck with defense value: 3...
+	Damage dealt: 1.
+Psyduck HP: 36.
+Neutrel2 HP: 2.
+tick: 9...
+Psyduck attempts normal attack with value 3 on Neutrel2 with defense value: 1...
+	Damage dealt: 2.
+Neutrel2 attempts normal attack with value 4 on Psyduck with defense value: 3...
+	Damage dealt: 1.
+Psyduck HP: 35.
+Neutrel2 HP: 0.
+Psyduck WINS!
+Psyduck buffed!
+New stats:
+Pokemon:
+	Name: Psyduck.
+	HP: 44.
+	Normal attack value: 4.
+	Defense value: 4.
+	Special defense value: 4.
+	Abilities:
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+	Items:
+	Score: 56.
+Coach Ionel to fight with Neutrel1...
+Coach Ionel picked Jigglypuff.
+Pokemon stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 35.
+	Normal attack value: 5.
+	Defense value: 3.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Cape
+	Score: 50.
+Starting battle...
+tick: 0...
+Jigglypuff attempts to cast ability on Neutrel1 with damage: 4...
+	Damage dealt: 4.
+Neutrel1 attempts normal attack with value 3 on Jigglypuff with defense value: 3...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Jigglypuff HP: 35.
+Neutrel1 HP: 6.
+tick: 1...
+Jigglypuff attempts to cast ability on Neutrel1 with damage: 3...
+	Damage dealt: 3.
+Neutrel1 is unable to attack because stunned.
+	Neutrel1 stunned.
+Jigglypuff HP: 35.
+Neutrel1 HP: 3.
+tick: 2...
+Jigglypuff attempts normal attack with value 5 on Neutrel1 with defense value: 1...
+	Damage dealt: 4.
+Neutrel1 is unable to attack because stunned.
+Jigglypuff HP: 35.
+Neutrel1 HP: -1.
+Jigglypuff WINS!
+Jigglypuff buffed!
+New stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 36.
+	Normal attack value: 6.
+	Defense value: 4.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Cape
+	Score: 54.
+Coach Roxana to fight with Neutrel1...
+Coach Roxana picked Psyduck.
+Pokemon stats:
+Pokemon:
+	Name: Psyduck.
+	HP: 44.
+	Normal attack value: 4.
+	Defense value: 4.
+	Special defense value: 4.
+	Abilities:
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+	Items:
+	Score: 56.
+Starting battle...
+tick: 0...
+Psyduck attempts to cast ability on Neutrel1 with damage: 2...
+	Damage dealt: 2.
+Neutrel1 attempts normal attack with value 3 on Psyduck with defense value: 4...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Psyduck HP: 44.
+Neutrel1 HP: 8.
+tick: 1...
+Psyduck attempts to cast ability on Neutrel1 with damage: 2...
+	Damage dealt: 2.
+Neutrel1 is unable to attack because stunned.
+Psyduck HP: 44.
+Neutrel1 HP: 6.
+tick: 2...
+Psyduck attempts normal attack with value 4 on Neutrel1 with defense value: 1...
+	Damage dealt: 3.
+Neutrel1 attempts normal attack with value 3 on Psyduck with defense value: 4...
+	Damage dealt: 0.
+Psyduck HP: 44.
+Neutrel1 HP: 3.
+tick: 3...
+Psyduck attempts normal attack with value 4 on Neutrel1 with defense value: 1...
+	Damage dealt: 3.
+Neutrel1 attempts normal attack with value 3 on Psyduck with defense value: 4...
+	Damage dealt: 0.
+Psyduck HP: 44.
+Neutrel1 HP: 0.
+Psyduck WINS!
+Psyduck buffed!
+New stats:
+Pokemon:
+	Name: Psyduck.
+	HP: 45.
+	Normal attack value: 5.
+	Defense value: 5.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+	Items:
+	Score: 60.
+Coach Ionel to fight with Neutrel1...
+Coach Ionel picked Squirtle.
+Pokemon stats:
+Pokemon:
+	Name: Squirtle.
+	HP: 60.
+	Special attack value: 3.
+	Defense value: 5.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 2
+	Items:
+	Score: 73.
+Starting battle...
+tick: 0...
+Squirtle attempts to cast ability on Neutrel1 with damage: 4...
+	Damage dealt: 4.
+Neutrel1 attempts normal attack with value 3 on Squirtle with defense value: 5...
+	Damage dealt: 0.
+Squirtle HP: 60.
+Neutrel1 HP: 6.
+tick: 1...
+Squirtle attempts to cast ability on Neutrel1 with damage: 2...
+	Damage dealt: 2.
+Neutrel1 attempts normal attack with value 3 on Squirtle with defense value: 5...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Squirtle HP: 60.
+Neutrel1 HP: 4.
+tick: 2...
+Squirtle attempts special attack with value 3 on Neutrel1 with special defense value: 1...
+	Damage dealt: 2.
+Neutrel1 is unable to attack because stunned.
+Squirtle HP: 60.
+Neutrel1 HP: 2.
+tick: 3...
+Squirtle attempts special attack with value 3 on Neutrel1 with special defense value: 1...
+	Damage dealt: 2.
+Neutrel1 attempts normal attack with value 3 on Squirtle with defense value: 5...
+	Damage dealt: 0.
+Squirtle HP: 60.
+Neutrel1 HP: 0.
+Squirtle WINS!
+Squirtle buffed!
+New stats:
+Pokemon:
+	Name: Squirtle.
+	HP: 61.
+	Special attack value: 4.
+	Defense value: 6.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 2
+	Items:
+	Score: 77.
+Coach Roxana to fight with Neutrel1...
+Coach Roxana picked Bulbasaur.
+Pokemon stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 42.
+	Special attack value: 5.
+	Defense value: 3.
+	Special defense value: 1.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+	Score: 51.
+Starting battle...
+tick: 0...
+Bulbasaur attempts to cast ability on Neutrel1 with damage: 5...
+	Damage dealt: 5.
+Neutrel1 attempts normal attack with value 3 on Bulbasaur with defense value: 3...
+	Damage dealt: 0.
+Bulbasaur HP: 42.
+Neutrel1 HP: 5.
+tick: 1...
+Bulbasaur attempts to cast ability on Neutrel1 with damage: 6...
+	Damage dealt: 6.
+Neutrel1 attempts normal attack with value 3 on Bulbasaur with defense value: 3...
+	Damage dealt: 0.
+Bulbasaur HP: 42.
+Neutrel1 HP: -1.
+Bulbasaur WINS!
+Bulbasaur buffed!
+New stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 43.
+	Special attack value: 6.
+	Defense value: 4.
+	Special defense value: 2.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+	Score: 55.
+Coach Ionel to fight with Neutrel1...
+Coach Ionel picked Eevee.
+Pokemon stats:
+Pokemon:
+	Name: Eevee.
+	HP: 39.
+	Special attack value: 7.
+	Defense value: 5.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Cape
+		MagicWand
+		Shield
+	Score: 59.
+Starting battle...
+tick: 0...
+Eevee attempts to cast ability on Neutrel1 with damage: 5...
+	Damage dealt: 5.
+Neutrel1 attempts normal attack with value 3 on Eevee with defense value: 5...
+	Damage dealt: 0.
+Eevee HP: 39.
+Neutrel1 HP: 5.
+tick: 1...
+Eevee attempts to cast ability on Neutrel1 with damage: 3...
+	Damage dealt: 3.
+Neutrel1 attempts normal attack with value 3 on Eevee with defense value: 5...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Eevee HP: 39.
+Neutrel1 HP: 2.
+tick: 2...
+Eevee attempts special attack with value 7 on Neutrel1 with special defense value: 1...
+	Damage dealt: 6.
+Neutrel1 is unable to attack because stunned.
+Eevee HP: 39.
+Neutrel1 HP: -4.
+Eevee WINS!
+Eevee buffed!
+New stats:
+Pokemon:
+	Name: Eevee.
+	HP: 40.
+	Special attack value: 8.
+	Defense value: 6.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Cape
+		MagicWand
+		Shield
+	Score: 63.
+Coach Roxana to fight with Neutrel1...
+Coach Roxana picked Pikachu.
+Pokemon stats:
+Pokemon:
+	Name: Pikachu.
+	HP: 35.
+	Special attack value: 4.
+	Defense value: 2.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: true
+			Cooldown: 5
+	Items:
+		Cape
+	Score: 47.
+Starting battle...
+tick: 0...
+Pikachu attempts to cast ability on Neutrel1 with damage: 6...
+	Damage dealt: 6.
+Neutrel1 attempts normal attack with value 3 on Pikachu with defense value: 2...
+	Damage dealt: 1.
+Pikachu HP: 34.
+Neutrel1 HP: 4.
+tick: 1...
+Pikachu attempts to cast ability on Neutrel1 with damage: 4...
+	Damage dealt: 4.
+Pikachu dodges Neutrel1's attack.
+	Neutrel1 stunned.
+Pikachu HP: 34.
+Neutrel1 HP: 0.
+Pikachu WINS!
+Pikachu buffed!
+New stats:
+Pokemon:
+	Name: Pikachu.
+	HP: 36.
+	Special attack value: 5.
+	Defense value: 3.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: true
+			Cooldown: 5
+	Items:
+		Cape
+	Score: 51.
+Coach Ionel to fight with coach Roxana...
+Battle 1...
+Pokemon Squirtle to fight with Pikachu...
+Squirtle's stats:
+Pokemon:
+	Name: Squirtle.
+	HP: 61.
+	Special attack value: 4.
+	Defense value: 6.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 2
+	Items:
+	Score: 77.
+Pikachu's stats:
+Pokemon:
+	Name: Pikachu.
+	HP: 36.
+	Special attack value: 5.
+	Defense value: 3.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: true
+			Cooldown: 5
+	Items:
+		Cape
+	Score: 51.
+tick: 0...
+Squirtle attempts to cast ability on Pikachu with damage: 2...
+Pikachu attempts to cast ability on Squirtle with damage: 4...
+Pikachu dodges Squirtle's attack.
+	Damage dealt: 4.
+	Squirtle stunned.
+Squirtle HP: 57.
+Pikachu HP: 36.
+tick: 1...
+Pikachu attempts to cast ability on Squirtle with damage: 6...
+Squirtle is unable to attack because stunned.
+	Damage dealt: 6.
+Squirtle HP: 51.
+Pikachu HP: 36.
+tick: 2...
+Squirtle attempts to cast ability on Pikachu with damage: 4...
+	Damage dealt: 4.
+Pikachu attempts special attack with value 5 on Squirtle with special defense value: 6...
+	Damage dealt: 0.
+Squirtle HP: 51.
+Pikachu HP: 32.
+tick: 3...
+Squirtle attempts to cast ability on Pikachu with damage: 2...
+	Damage dealt: 2.
+Pikachu attempts special attack with value 5 on Squirtle with special defense value: 6...
+	Damage dealt: 0.
+	Pikachu stunned.
+Squirtle HP: 51.
+Pikachu HP: 30.
+tick: 4...
+Squirtle attempts special attack with value 4 on Pikachu with special defense value: 3...
+	Damage dealt: 0.
+Pikachu is unable to attack because stunned.
+Squirtle HP: 51.
+Pikachu HP: 30.
+tick: 5...
+Squirtle attempts special attack with value 4 on Pikachu with special defense value: 3...
+	Damage dealt: 0.
+Pikachu attempts special attack with value 5 on Squirtle with special defense value: 6...
+	Damage dealt: 0.
+Squirtle HP: 51.
+Pikachu HP: 30.
+tick: 6...
+Squirtle attempts to cast ability on Pikachu with damage: 2...
+Pikachu attempts to cast ability on Squirtle with damage: 6...
+	Damage dealt: 2.
+	Damage dealt: 6.
+	Pikachu stunned.
+Squirtle HP: 45.
+Pikachu HP: 28.
+tick: 7...
+Squirtle attempts to cast ability on Pikachu with damage: 4...
+	Damage dealt: 4.
+Pikachu is unable to attack because stunned.
+Squirtle HP: 45.
+Pikachu HP: 24.
+tick: 8...
+Pikachu attempts to cast ability on Squirtle with damage: 4...
+Pikachu dodges Squirtle's attack.
+	Damage dealt: 4.
+	Squirtle stunned.
+Squirtle HP: 41.
+Pikachu HP: 24.
+tick: 9...
+Squirtle is unable to attack because stunned.
+Pikachu attempts special attack with value 5 on Squirtle with special defense value: 6...
+	Damage dealt: 0.
+Squirtle HP: 41.
+Pikachu HP: 24.
+tick: 10...
+Squirtle attempts to cast ability on Pikachu with damage: 2...
+	Damage dealt: 2.
+Pikachu attempts special attack with value 5 on Squirtle with special defense value: 6...
+	Damage dealt: 0.
+	Pikachu stunned.
+Squirtle HP: 41.
+Pikachu HP: 22.
+tick: 11...
+Squirtle attempts to cast ability on Pikachu with damage: 4...
+	Damage dealt: 4.
+Pikachu is unable to attack because stunned.
+Squirtle HP: 41.
+Pikachu HP: 18.
+tick: 12...
+Pikachu attempts to cast ability on Squirtle with damage: 6...
+Squirtle attempts special attack with value 4 on Pikachu with special defense value: 3...
+	Damage dealt: 0.
+	Damage dealt: 6.
+Squirtle HP: 35.
+Pikachu HP: 18.
+tick: 13...
+Squirtle attempts to cast ability on Pikachu with damage: 2...
+	Damage dealt: 2.
+Pikachu attempts special attack with value 5 on Squirtle with special defense value: 6...
+	Damage dealt: 0.
+	Pikachu stunned.
+Squirtle HP: 35.
+Pikachu HP: 16.
+tick: 14...
+Squirtle attempts special attack with value 4 on Pikachu with special defense value: 3...
+	Damage dealt: 0.
+Pikachu is unable to attack because stunned.
+Squirtle HP: 35.
+Pikachu HP: 16.
+tick: 15...
+Squirtle attempts to cast ability on Pikachu with damage: 4...
+Pikachu attempts to cast ability on Squirtle with damage: 4...
+Pikachu dodges Squirtle's attack.
+	Damage dealt: 4.
+	Squirtle stunned.
+Squirtle HP: 31.
+Pikachu HP: 16.
+tick: 16...
+Squirtle is unable to attack because stunned.
+Pikachu attempts special attack with value 5 on Squirtle with special defense value: 6...
+	Damage dealt: 0.
+Squirtle HP: 31.
+Pikachu HP: 16.
+tick: 17...
+Squirtle attempts to cast ability on Pikachu with damage: 2...
+Pikachu attempts to cast ability on Squirtle with damage: 6...
+	Damage dealt: 2.
+	Damage dealt: 6.
+	Pikachu stunned.
+Squirtle HP: 25.
+Pikachu HP: 14.
+tick: 18...
+Squirtle attempts special attack with value 4 on Pikachu with special defense value: 3...
+	Damage dealt: 0.
+Pikachu is unable to attack because stunned.
+Squirtle HP: 25.
+Pikachu HP: 14.
+tick: 19...
+Squirtle attempts to cast ability on Pikachu with damage: 4...
+	Damage dealt: 4.
+Pikachu attempts special attack with value 5 on Squirtle with special defense value: 6...
+	Damage dealt: 0.
+Squirtle HP: 25.
+Pikachu HP: 10.
+tick: 20...
+Squirtle attempts to cast ability on Pikachu with damage: 2...
+	Damage dealt: 2.
+Pikachu attempts special attack with value 5 on Squirtle with special defense value: 6...
+	Damage dealt: 0.
+	Pikachu stunned.
+Squirtle HP: 25.
+Pikachu HP: 8.
+tick: 21...
+Squirtle attempts special attack with value 4 on Pikachu with special defense value: 3...
+	Damage dealt: 0.
+Pikachu is unable to attack because stunned.
+Squirtle HP: 25.
+Pikachu HP: 8.
+tick: 22...
+Pikachu attempts to cast ability on Squirtle with damage: 6...
+Squirtle attempts special attack with value 4 on Pikachu with special defense value: 3...
+	Damage dealt: 0.
+	Damage dealt: 6.
+Squirtle HP: 19.
+Pikachu HP: 8.
+tick: 23...
+Squirtle attempts to cast ability on Pikachu with damage: 2...
+Pikachu attempts to cast ability on Squirtle with damage: 4...
+Pikachu dodges Squirtle's attack.
+	Damage dealt: 4.
+	Squirtle stunned.
+Squirtle HP: 15.
+Pikachu HP: 8.
+tick: 24...
+Squirtle is unable to attack because stunned.
+Pikachu attempts special attack with value 5 on Squirtle with special defense value: 6...
+	Damage dealt: 0.
+Squirtle HP: 15.
+Pikachu HP: 8.
+tick: 25...
+Squirtle attempts to cast ability on Pikachu with damage: 4...
+	Damage dealt: 4.
+Pikachu attempts special attack with value 5 on Squirtle with special defense value: 6...
+	Damage dealt: 0.
+Squirtle HP: 15.
+Pikachu HP: 4.
+tick: 26...
+Squirtle attempts to cast ability on Pikachu with damage: 2...
+	Damage dealt: 2.
+Pikachu attempts special attack with value 5 on Squirtle with special defense value: 6...
+	Damage dealt: 0.
+	Pikachu stunned.
+Squirtle HP: 15.
+Pikachu HP: 2.
+tick: 27...
+Squirtle attempts special attack with value 4 on Pikachu with special defense value: 3...
+	Damage dealt: 0.
+Pikachu is unable to attack because stunned.
+Squirtle HP: 15.
+Pikachu HP: 2.
+tick: 28...
+Pikachu attempts to cast ability on Squirtle with damage: 6...
+Squirtle attempts special attack with value 4 on Pikachu with special defense value: 3...
+	Damage dealt: 0.
+	Damage dealt: 6.
+Squirtle HP: 9.
+Pikachu HP: 2.
+tick: 29...
+Squirtle attempts to cast ability on Pikachu with damage: 4...
+Pikachu attempts to cast ability on Squirtle with damage: 4...
+Pikachu dodges Squirtle's attack.
+	Damage dealt: 4.
+	Squirtle stunned.
+Squirtle HP: 5.
+Pikachu HP: 2.
+tick: 30...
+Squirtle is unable to attack because stunned.
+Pikachu attempts special attack with value 5 on Squirtle with special defense value: 6...
+	Damage dealt: 0.
+Squirtle HP: 5.
+Pikachu HP: 2.
+tick: 31...
+Squirtle attempts to cast ability on Pikachu with damage: 2...
+	Damage dealt: 2.
+Pikachu attempts special attack with value 5 on Squirtle with special defense value: 6...
+	Damage dealt: 0.
+	Pikachu stunned.
+Squirtle HP: 5.
+Pikachu HP: 0.
+Squirtle WINS!
+Squirtle buffed!
+New stats:
+Pokemon:
+	Name: Squirtle.
+	HP: 62.
+	Special attack value: 5.
+	Defense value: 7.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 2
+	Items:
+	Score: 81.
+Battle 2...
+Pokemon Eevee to fight with Psyduck...
+Eevee's stats:
+Pokemon:
+	Name: Eevee.
+	HP: 40.
+	Special attack value: 8.
+	Defense value: 6.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Cape
+		MagicWand
+		Shield
+	Score: 63.
+Psyduck's stats:
+Pokemon:
+	Name: Psyduck.
+	HP: 45.
+	Normal attack value: 5.
+	Defense value: 5.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+	Items:
+	Score: 60.
+tick: 0...
+Eevee attempts to cast ability on Psyduck with damage: 5...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 5.
+	Damage dealt: 2.
+	Eevee stunned.
+Eevee HP: 38.
+Psyduck HP: 40.
+tick: 1...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+Eevee is unable to attack because stunned.
+	Damage dealt: 2.
+Eevee HP: 36.
+Psyduck HP: 40.
+tick: 2...
+Eevee attempts to cast ability on Psyduck with damage: 3...
+	Damage dealt: 3.
+Psyduck attempts normal attack with value 5 on Eevee with defense value: 6...
+	Damage dealt: 0.
+	Psyduck stunned.
+Eevee HP: 36.
+Psyduck HP: 37.
+tick: 3...
+Eevee attempts special attack with value 8 on Psyduck with special defense value: 5...
+	Damage dealt: 3.
+Psyduck is unable to attack because stunned.
+Eevee HP: 36.
+Psyduck HP: 34.
+tick: 4...
+Eevee attempts to cast ability on Psyduck with damage: 5...
+	Damage dealt: 5.
+Psyduck attempts normal attack with value 5 on Eevee with defense value: 6...
+	Damage dealt: 0.
+Eevee HP: 36.
+Psyduck HP: 29.
+tick: 5...
+Eevee attempts special attack with value 8 on Psyduck with special defense value: 5...
+	Damage dealt: 3.
+Psyduck attempts normal attack with value 5 on Eevee with defense value: 6...
+	Damage dealt: 0.
+Eevee HP: 36.
+Psyduck HP: 26.
+tick: 6...
+Eevee attempts to cast ability on Psyduck with damage: 3...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 3.
+	Damage dealt: 2.
+	Psyduck stunned.
+Eevee HP: 34.
+Psyduck HP: 23.
+tick: 7...
+Eevee attempts special attack with value 8 on Psyduck with special defense value: 5...
+	Damage dealt: 3.
+Psyduck is unable to attack because stunned.
+Eevee HP: 34.
+Psyduck HP: 20.
+tick: 8...
+Eevee attempts to cast ability on Psyduck with damage: 5...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 5.
+	Damage dealt: 2.
+	Eevee stunned.
+Eevee HP: 32.
+Psyduck HP: 15.
+tick: 9...
+Eevee is unable to attack because stunned.
+Psyduck attempts normal attack with value 5 on Eevee with defense value: 6...
+	Damage dealt: 0.
+Eevee HP: 32.
+Psyduck HP: 15.
+tick: 10...
+Eevee attempts to cast ability on Psyduck with damage: 3...
+	Damage dealt: 3.
+Psyduck attempts normal attack with value 5 on Eevee with defense value: 6...
+	Damage dealt: 0.
+	Psyduck stunned.
+Eevee HP: 32.
+Psyduck HP: 12.
+tick: 11...
+Eevee attempts special attack with value 8 on Psyduck with special defense value: 5...
+	Damage dealt: 3.
+Psyduck is unable to attack because stunned.
+Eevee HP: 32.
+Psyduck HP: 9.
+tick: 12...
+Eevee attempts to cast ability on Psyduck with damage: 5...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 5.
+	Damage dealt: 2.
+Eevee HP: 30.
+Psyduck HP: 4.
+tick: 13...
+Eevee attempts special attack with value 8 on Psyduck with special defense value: 5...
+	Damage dealt: 3.
+Psyduck attempts normal attack with value 5 on Eevee with defense value: 6...
+	Damage dealt: 0.
+Eevee HP: 30.
+Psyduck HP: 1.
+tick: 14...
+Eevee attempts to cast ability on Psyduck with damage: 3...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 3.
+	Damage dealt: 2.
+	Eevee stunned.
+	Psyduck stunned.
+Eevee HP: 28.
+Psyduck HP: -2.
+Eevee WINS!
+Eevee buffed!
+New stats:
+Pokemon:
+	Name: Eevee.
+	HP: 41.
+	Special attack value: 9.
+	Defense value: 7.
+	Special defense value: 10.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Cape
+		MagicWand
+		Shield
+	Score: 67.
+Battle 3...
+Pokemon Jigglypuff to fight with Bulbasaur...
+Jigglypuff's stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 36.
+	Normal attack value: 6.
+	Defense value: 4.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Cape
+	Score: 54.
+Bulbasaur's stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 43.
+	Special attack value: 6.
+	Defense value: 4.
+	Special defense value: 2.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+	Score: 55.
+tick: 0...
+Jigglypuff attempts to cast ability on Bulbasaur with damage: 3...
+Bulbasaur attempts to cast ability on Jigglypuff with damage: 6...
+	Damage dealt: 3.
+	Damage dealt: 6.
+	Bulbasaur stunned.
+Jigglypuff HP: 30.
+Bulbasaur HP: 40.
+tick: 1...
+Jigglypuff attempts to cast ability on Bulbasaur with damage: 4...
+	Damage dealt: 4.
+Bulbasaur is unable to attack because stunned.
+	Bulbasaur stunned.
+Jigglypuff HP: 30.
+Bulbasaur HP: 36.
+tick: 2...
+Jigglypuff attempts normal attack with value 6 on Bulbasaur with defense value: 4...
+	Damage dealt: 2.
+Bulbasaur is unable to attack because stunned.
+Jigglypuff HP: 30.
+Bulbasaur HP: 34.
+tick: 3...
+Bulbasaur attempts to cast ability on Jigglypuff with damage: 5...
+Jigglypuff attempts normal attack with value 6 on Bulbasaur with defense value: 4...
+	Damage dealt: 2.
+	Damage dealt: 5.
+Jigglypuff HP: 25.
+Bulbasaur HP: 32.
+tick: 4...
+Jigglypuff attempts normal attack with value 6 on Bulbasaur with defense value: 4...
+	Damage dealt: 2.
+Bulbasaur attempts special attack with value 6 on Jigglypuff with special defense value: 4...
+	Damage dealt: 0.
+Jigglypuff HP: 25.
+Bulbasaur HP: 30.
+tick: 5...
+Jigglypuff attempts to cast ability on Bulbasaur with damage: 3...
+Bulbasaur attempts to cast ability on Jigglypuff with damage: 6...
+	Damage dealt: 3.
+	Damage dealt: 6.
+	Bulbasaur stunned.
+Jigglypuff HP: 19.
+Bulbasaur HP: 27.
+tick: 6...
+Jigglypuff attempts to cast ability on Bulbasaur with damage: 4...
+	Damage dealt: 4.
+Bulbasaur is unable to attack because stunned.
+	Bulbasaur stunned.
+Jigglypuff HP: 19.
+Bulbasaur HP: 23.
+tick: 7...
+Jigglypuff attempts normal attack with value 6 on Bulbasaur with defense value: 4...
+	Damage dealt: 2.
+Bulbasaur is unable to attack because stunned.
+Jigglypuff HP: 19.
+Bulbasaur HP: 21.
+tick: 8...
+Bulbasaur attempts to cast ability on Jigglypuff with damage: 5...
+Jigglypuff attempts normal attack with value 6 on Bulbasaur with defense value: 4...
+	Damage dealt: 2.
+	Damage dealt: 5.
+Jigglypuff HP: 14.
+Bulbasaur HP: 19.
+tick: 9...
+Jigglypuff attempts normal attack with value 6 on Bulbasaur with defense value: 4...
+	Damage dealt: 2.
+Bulbasaur attempts special attack with value 6 on Jigglypuff with special defense value: 4...
+	Damage dealt: 0.
+Jigglypuff HP: 14.
+Bulbasaur HP: 17.
+tick: 10...
+Jigglypuff attempts to cast ability on Bulbasaur with damage: 3...
+Bulbasaur attempts to cast ability on Jigglypuff with damage: 6...
+	Damage dealt: 3.
+	Damage dealt: 6.
+	Bulbasaur stunned.
+Jigglypuff HP: 8.
+Bulbasaur HP: 14.
+tick: 11...
+Jigglypuff attempts to cast ability on Bulbasaur with damage: 4...
+	Damage dealt: 4.
+Bulbasaur is unable to attack because stunned.
+	Bulbasaur stunned.
+Jigglypuff HP: 8.
+Bulbasaur HP: 10.
+tick: 12...
+Jigglypuff attempts normal attack with value 6 on Bulbasaur with defense value: 4...
+	Damage dealt: 2.
+Bulbasaur is unable to attack because stunned.
+Jigglypuff HP: 8.
+Bulbasaur HP: 8.
+tick: 13...
+Bulbasaur attempts to cast ability on Jigglypuff with damage: 5...
+Jigglypuff attempts normal attack with value 6 on Bulbasaur with defense value: 4...
+	Damage dealt: 2.
+	Damage dealt: 5.
+Jigglypuff HP: 3.
+Bulbasaur HP: 6.
+tick: 14...
+Jigglypuff attempts normal attack with value 6 on Bulbasaur with defense value: 4...
+	Damage dealt: 2.
+Bulbasaur attempts special attack with value 6 on Jigglypuff with special defense value: 4...
+	Damage dealt: 0.
+Jigglypuff HP: 3.
+Bulbasaur HP: 4.
+tick: 15...
+Jigglypuff attempts to cast ability on Bulbasaur with damage: 3...
+Bulbasaur attempts to cast ability on Jigglypuff with damage: 6...
+	Damage dealt: 3.
+	Damage dealt: 6.
+	Bulbasaur stunned.
+Jigglypuff HP: -3.
+Bulbasaur HP: 1.
+Bulbasaur WINS!
+Bulbasaur buffed!
+New stats:
+Pokemon:
+	Name: Bulbasaur.
+	HP: 44.
+	Special attack value: 7.
+	Defense value: 5.
+	Special defense value: 3.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+	Items:
+	Score: 59.
+Final battle...
+Squirtle with score: 81 to fight Psyduck with score: 60...
+tick: 0...
+Squirtle attempts to cast ability on Psyduck with damage: 4...
+Psyduck attempts to cast ability on Squirtle with damage: 2...
+	Damage dealt: 4.
+	Damage dealt: 2.
+	Squirtle stunned.
+Squirtle HP: 60.
+Psyduck HP: 41.
+tick: 1...
+Psyduck attempts to cast ability on Squirtle with damage: 2...
+Squirtle is unable to attack because stunned.
+	Damage dealt: 2.
+Squirtle HP: 58.
+Psyduck HP: 41.
+tick: 2...
+Squirtle attempts to cast ability on Psyduck with damage: 2...
+	Damage dealt: 2.
+Psyduck attempts normal attack with value 5 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+	Psyduck stunned.
+Squirtle HP: 58.
+Psyduck HP: 39.
+tick: 3...
+Squirtle attempts special attack with value 5 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+Psyduck is unable to attack because stunned.
+Squirtle HP: 58.
+Psyduck HP: 39.
+tick: 4...
+Squirtle attempts to cast ability on Psyduck with damage: 4...
+	Damage dealt: 4.
+Psyduck attempts normal attack with value 5 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+Squirtle HP: 58.
+Psyduck HP: 35.
+tick: 5...
+Squirtle attempts to cast ability on Psyduck with damage: 2...
+	Damage dealt: 2.
+Psyduck attempts normal attack with value 5 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+	Psyduck stunned.
+Squirtle HP: 58.
+Psyduck HP: 33.
+tick: 6...
+Squirtle attempts special attack with value 5 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+Psyduck is unable to attack because stunned.
+Squirtle HP: 58.
+Psyduck HP: 33.
+tick: 7...
+Psyduck attempts to cast ability on Squirtle with damage: 2...
+Squirtle attempts special attack with value 5 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+	Damage dealt: 2.
+	Squirtle stunned.
+Squirtle HP: 56.
+Psyduck HP: 33.
+tick: 8...
+Psyduck attempts to cast ability on Squirtle with damage: 2...
+Squirtle is unable to attack because stunned.
+	Damage dealt: 2.
+Squirtle HP: 54.
+Psyduck HP: 33.
+tick: 9...
+Squirtle attempts to cast ability on Psyduck with damage: 4...
+	Damage dealt: 4.
+Psyduck attempts normal attack with value 5 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+Squirtle HP: 54.
+Psyduck HP: 29.
+tick: 10...
+Squirtle attempts to cast ability on Psyduck with damage: 2...
+	Damage dealt: 2.
+Psyduck attempts normal attack with value 5 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+	Psyduck stunned.
+Squirtle HP: 54.
+Psyduck HP: 27.
+tick: 11...
+Squirtle attempts special attack with value 5 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+Psyduck is unable to attack because stunned.
+Squirtle HP: 54.
+Psyduck HP: 27.
+tick: 12...
+Squirtle attempts special attack with value 5 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+Psyduck attempts normal attack with value 5 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+Squirtle HP: 54.
+Psyduck HP: 27.
+tick: 13...
+Squirtle attempts to cast ability on Psyduck with damage: 2...
+Psyduck attempts to cast ability on Squirtle with damage: 2...
+	Damage dealt: 2.
+	Damage dealt: 2.
+	Squirtle stunned.
+	Psyduck stunned.
+Squirtle HP: 52.
+Psyduck HP: 25.
+tick: 14...
+Squirtle is unable to attack because stunned.
+Psyduck is unable to attack because stunned.
+Squirtle HP: 52.
+Psyduck HP: 25.
+tick: 15...
+Squirtle attempts to cast ability on Psyduck with damage: 4...
+Psyduck attempts to cast ability on Squirtle with damage: 2...
+	Damage dealt: 4.
+	Damage dealt: 2.
+Squirtle HP: 50.
+Psyduck HP: 21.
+tick: 16...
+Squirtle attempts to cast ability on Psyduck with damage: 2...
+	Damage dealt: 2.
+Psyduck attempts normal attack with value 5 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+	Psyduck stunned.
+Squirtle HP: 50.
+Psyduck HP: 19.
+tick: 17...
+Squirtle attempts special attack with value 5 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+Psyduck is unable to attack because stunned.
+Squirtle HP: 50.
+Psyduck HP: 19.
+tick: 18...
+Squirtle attempts special attack with value 5 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+Psyduck attempts normal attack with value 5 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+Squirtle HP: 50.
+Psyduck HP: 19.
+tick: 19...
+Squirtle attempts to cast ability on Psyduck with damage: 4...
+Psyduck attempts to cast ability on Squirtle with damage: 2...
+	Damage dealt: 4.
+	Damage dealt: 2.
+	Squirtle stunned.
+Squirtle HP: 48.
+Psyduck HP: 15.
+tick: 20...
+Psyduck attempts to cast ability on Squirtle with damage: 2...
+Squirtle is unable to attack because stunned.
+	Damage dealt: 2.
+Squirtle HP: 46.
+Psyduck HP: 15.
+tick: 21...
+Squirtle attempts to cast ability on Psyduck with damage: 2...
+	Damage dealt: 2.
+Psyduck attempts normal attack with value 5 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+	Psyduck stunned.
+Squirtle HP: 46.
+Psyduck HP: 13.
+tick: 22...
+Squirtle attempts special attack with value 5 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+Psyduck is unable to attack because stunned.
+Squirtle HP: 46.
+Psyduck HP: 13.
+tick: 23...
+Squirtle attempts to cast ability on Psyduck with damage: 4...
+	Damage dealt: 4.
+Psyduck attempts normal attack with value 5 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+Squirtle HP: 46.
+Psyduck HP: 9.
+tick: 24...
+Squirtle attempts to cast ability on Psyduck with damage: 2...
+	Damage dealt: 2.
+Psyduck attempts normal attack with value 5 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+	Psyduck stunned.
+Squirtle HP: 46.
+Psyduck HP: 7.
+tick: 25...
+Squirtle attempts special attack with value 5 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+Psyduck is unable to attack because stunned.
+Squirtle HP: 46.
+Psyduck HP: 7.
+tick: 26...
+Psyduck attempts to cast ability on Squirtle with damage: 2...
+Squirtle attempts special attack with value 5 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+	Damage dealt: 2.
+	Squirtle stunned.
+Squirtle HP: 44.
+Psyduck HP: 7.
+tick: 27...
+Psyduck attempts to cast ability on Squirtle with damage: 2...
+Squirtle is unable to attack because stunned.
+	Damage dealt: 2.
+Squirtle HP: 42.
+Psyduck HP: 7.
+tick: 28...
+Squirtle attempts to cast ability on Psyduck with damage: 4...
+	Damage dealt: 4.
+Psyduck attempts normal attack with value 5 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+Squirtle HP: 42.
+Psyduck HP: 3.
+tick: 29...
+Squirtle attempts to cast ability on Psyduck with damage: 2...
+	Damage dealt: 2.
+Psyduck attempts normal attack with value 5 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+	Psyduck stunned.
+Squirtle HP: 42.
+Psyduck HP: 1.
+tick: 30...
+Squirtle attempts special attack with value 5 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+Psyduck is unable to attack because stunned.
+Squirtle HP: 42.
+Psyduck HP: 1.
+tick: 31...
+Squirtle attempts special attack with value 5 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+Psyduck attempts normal attack with value 5 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+Squirtle HP: 42.
+Psyduck HP: 1.
+tick: 32...
+Squirtle attempts to cast ability on Psyduck with damage: 2...
+Psyduck attempts to cast ability on Squirtle with damage: 2...
+	Damage dealt: 2.
+	Damage dealt: 2.
+	Squirtle stunned.
+	Psyduck stunned.
+Squirtle HP: 40.
+Psyduck HP: -1.
+Squirtle WINS!
+Squirtle buffed!
+New stats:
+Pokemon:
+	Name: Squirtle.
+	HP: 63.
+	Special attack value: 6.
+	Defense value: 8.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 2
+	Items:
+	Score: 85.
+Coach Ionel is the winner of the adventure!

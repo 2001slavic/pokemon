@@ -1,0 +1,903 @@
+Initiating new battle...
+Coach Felix to fight with coach Marilena...
+Battle 1...
+Pokemon Vulpix to fight with Vulpix...
+Vulpix's stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 36.
+	Normal attack value: 5.
+	Defense value: 4.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		Shield
+	Score: 51.
+Vulpix's stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 36.
+	Normal attack value: 5.
+	Defense value: 2.
+	Special defense value: 4.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+	Score: 47.
+tick: 0...
+Vulpix attempts to cast ability on Vulpix with damage: 8...
+Vulpix attempts to cast ability on Vulpix with damage: 2...
+Vulpix dodges Vulpix's attack.
+	Damage dealt: 2.
+Vulpix HP: 34.
+Vulpix HP: 36.
+tick: 1...
+Vulpix attempts to cast ability on Vulpix with damage: 2...
+Vulpix attempts to cast ability on Vulpix with damage: 8...
+	Damage dealt: 2.
+Vulpix dodges Vulpix's attack.
+Vulpix HP: 34.
+Vulpix HP: 34.
+tick: 2...
+Vulpix attempts normal attack with value 5 on Vulpix with defense value: 2...
+	Damage dealt: 3.
+Vulpix attempts normal attack with value 5 on Vulpix with defense value: 4...
+	Damage dealt: 1.
+Vulpix HP: 33.
+Vulpix HP: 31.
+tick: 3...
+Vulpix attempts normal attack with value 5 on Vulpix with defense value: 2...
+	Damage dealt: 3.
+Vulpix attempts normal attack with value 5 on Vulpix with defense value: 4...
+	Damage dealt: 1.
+Vulpix HP: 32.
+Vulpix HP: 28.
+tick: 4...
+Vulpix attempts normal attack with value 5 on Vulpix with defense value: 2...
+	Damage dealt: 3.
+Vulpix attempts normal attack with value 5 on Vulpix with defense value: 4...
+	Damage dealt: 1.
+Vulpix HP: 31.
+Vulpix HP: 25.
+tick: 5...
+Vulpix attempts normal attack with value 5 on Vulpix with defense value: 2...
+	Damage dealt: 3.
+Vulpix attempts normal attack with value 5 on Vulpix with defense value: 4...
+	Damage dealt: 1.
+Vulpix HP: 30.
+Vulpix HP: 22.
+tick: 6...
+Vulpix attempts normal attack with value 5 on Vulpix with defense value: 2...
+	Damage dealt: 3.
+Vulpix attempts normal attack with value 5 on Vulpix with defense value: 4...
+	Damage dealt: 1.
+Vulpix HP: 29.
+Vulpix HP: 19.
+tick: 7...
+Vulpix attempts to cast ability on Vulpix with damage: 8...
+	Damage dealt: 8.
+Vulpix attempts normal attack with value 5 on Vulpix with defense value: 4...
+	Damage dealt: 1.
+	Vulpix stunned.
+Vulpix HP: 28.
+Vulpix HP: 11.
+tick: 8...
+Vulpix attempts normal attack with value 5 on Vulpix with defense value: 2...
+	Damage dealt: 3.
+Vulpix is unable to attack because stunned.
+Vulpix HP: 28.
+Vulpix HP: 8.
+tick: 9...
+Vulpix attempts to cast ability on Vulpix with damage: 2...
+Vulpix attempts to cast ability on Vulpix with damage: 8...
+	Damage dealt: 2.
+Vulpix dodges Vulpix's attack.
+Vulpix HP: 28.
+Vulpix HP: 6.
+tick: 10...
+Vulpix attempts to cast ability on Vulpix with damage: 2...
+Vulpix dodges Vulpix's attack.
+	Damage dealt: 2.
+Vulpix HP: 26.
+Vulpix HP: 6.
+tick: 11...
+Vulpix attempts normal attack with value 5 on Vulpix with defense value: 2...
+	Damage dealt: 3.
+Vulpix attempts normal attack with value 5 on Vulpix with defense value: 4...
+	Damage dealt: 1.
+Vulpix HP: 25.
+Vulpix HP: 3.
+tick: 12...
+Vulpix attempts normal attack with value 5 on Vulpix with defense value: 2...
+	Damage dealt: 3.
+Vulpix attempts normal attack with value 5 on Vulpix with defense value: 4...
+	Damage dealt: 1.
+Vulpix HP: 24.
+Vulpix HP: 0.
+Vulpix WINS!
+Vulpix buffed!
+New stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 37.
+	Normal attack value: 6.
+	Defense value: 5.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		Shield
+	Score: 55.
+Battle 2...
+Pokemon Eevee to fight with Squirtle...
+Eevee's stats:
+Pokemon:
+	Name: Eevee.
+	HP: 51.
+	Special attack value: 6.
+	Defense value: 3.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Cape
+		Vest
+		Vitamins
+	Score: 66.
+Squirtle's stats:
+Pokemon:
+	Name: Squirtle.
+	HP: 60.
+	Special attack value: 3.
+	Defense value: 8.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 2
+	Items:
+		ChristmasTree
+		Shield
+	Score: 78.
+tick: 0...
+Eevee attempts to cast ability on Squirtle with damage: 5...
+Squirtle attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 5.
+	Damage dealt: 2.
+	Eevee stunned.
+Eevee HP: 49.
+Squirtle HP: 55.
+tick: 1...
+Squirtle attempts to cast ability on Eevee with damage: 4...
+Eevee is unable to attack because stunned.
+	Damage dealt: 4.
+Eevee HP: 45.
+Squirtle HP: 55.
+tick: 2...
+Eevee attempts to cast ability on Squirtle with damage: 3...
+	Damage dealt: 3.
+Squirtle attempts special attack with value 3 on Eevee with special defense value: 3...
+	Damage dealt: 0.
+	Squirtle stunned.
+Eevee HP: 45.
+Squirtle HP: 52.
+tick: 3...
+Eevee attempts special attack with value 6 on Squirtle with special defense value: 8...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Eevee HP: 45.
+Squirtle HP: 52.
+tick: 4...
+Eevee attempts to cast ability on Squirtle with damage: 5...
+Squirtle attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 5.
+	Damage dealt: 2.
+	Eevee stunned.
+Eevee HP: 43.
+Squirtle HP: 47.
+tick: 5...
+Squirtle attempts to cast ability on Eevee with damage: 4...
+Eevee is unable to attack because stunned.
+	Damage dealt: 4.
+Eevee HP: 39.
+Squirtle HP: 47.
+tick: 6...
+Eevee attempts to cast ability on Squirtle with damage: 3...
+	Damage dealt: 3.
+Squirtle attempts special attack with value 3 on Eevee with special defense value: 3...
+	Damage dealt: 0.
+	Squirtle stunned.
+Eevee HP: 39.
+Squirtle HP: 44.
+tick: 7...
+Eevee attempts special attack with value 6 on Squirtle with special defense value: 8...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Eevee HP: 39.
+Squirtle HP: 44.
+tick: 8...
+Eevee attempts to cast ability on Squirtle with damage: 5...
+Squirtle attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 5.
+	Damage dealt: 2.
+	Eevee stunned.
+Eevee HP: 37.
+Squirtle HP: 39.
+tick: 9...
+Squirtle attempts to cast ability on Eevee with damage: 4...
+Eevee is unable to attack because stunned.
+	Damage dealt: 4.
+Eevee HP: 33.
+Squirtle HP: 39.
+tick: 10...
+Eevee attempts to cast ability on Squirtle with damage: 3...
+	Damage dealt: 3.
+Squirtle attempts special attack with value 3 on Eevee with special defense value: 3...
+	Damage dealt: 0.
+	Squirtle stunned.
+Eevee HP: 33.
+Squirtle HP: 36.
+tick: 11...
+Eevee attempts special attack with value 6 on Squirtle with special defense value: 8...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Eevee HP: 33.
+Squirtle HP: 36.
+tick: 12...
+Eevee attempts to cast ability on Squirtle with damage: 5...
+Squirtle attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 5.
+	Damage dealt: 2.
+	Eevee stunned.
+Eevee HP: 31.
+Squirtle HP: 31.
+tick: 13...
+Squirtle attempts to cast ability on Eevee with damage: 4...
+Eevee is unable to attack because stunned.
+	Damage dealt: 4.
+Eevee HP: 27.
+Squirtle HP: 31.
+tick: 14...
+Eevee attempts to cast ability on Squirtle with damage: 3...
+	Damage dealt: 3.
+Squirtle attempts special attack with value 3 on Eevee with special defense value: 3...
+	Damage dealt: 0.
+	Squirtle stunned.
+Eevee HP: 27.
+Squirtle HP: 28.
+tick: 15...
+Eevee attempts special attack with value 6 on Squirtle with special defense value: 8...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Eevee HP: 27.
+Squirtle HP: 28.
+tick: 16...
+Eevee attempts to cast ability on Squirtle with damage: 5...
+Squirtle attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 5.
+	Damage dealt: 2.
+	Eevee stunned.
+Eevee HP: 25.
+Squirtle HP: 23.
+tick: 17...
+Squirtle attempts to cast ability on Eevee with damage: 4...
+Eevee is unable to attack because stunned.
+	Damage dealt: 4.
+Eevee HP: 21.
+Squirtle HP: 23.
+tick: 18...
+Eevee attempts to cast ability on Squirtle with damage: 3...
+	Damage dealt: 3.
+Squirtle attempts special attack with value 3 on Eevee with special defense value: 3...
+	Damage dealt: 0.
+	Squirtle stunned.
+Eevee HP: 21.
+Squirtle HP: 20.
+tick: 19...
+Eevee attempts special attack with value 6 on Squirtle with special defense value: 8...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Eevee HP: 21.
+Squirtle HP: 20.
+tick: 20...
+Eevee attempts to cast ability on Squirtle with damage: 5...
+Squirtle attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 5.
+	Damage dealt: 2.
+	Eevee stunned.
+Eevee HP: 19.
+Squirtle HP: 15.
+tick: 21...
+Squirtle attempts to cast ability on Eevee with damage: 4...
+Eevee is unable to attack because stunned.
+	Damage dealt: 4.
+Eevee HP: 15.
+Squirtle HP: 15.
+tick: 22...
+Eevee attempts to cast ability on Squirtle with damage: 3...
+	Damage dealt: 3.
+Squirtle attempts special attack with value 3 on Eevee with special defense value: 3...
+	Damage dealt: 0.
+	Squirtle stunned.
+Eevee HP: 15.
+Squirtle HP: 12.
+tick: 23...
+Eevee attempts special attack with value 6 on Squirtle with special defense value: 8...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Eevee HP: 15.
+Squirtle HP: 12.
+tick: 24...
+Eevee attempts to cast ability on Squirtle with damage: 5...
+Squirtle attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 5.
+	Damage dealt: 2.
+	Eevee stunned.
+Eevee HP: 13.
+Squirtle HP: 7.
+tick: 25...
+Squirtle attempts to cast ability on Eevee with damage: 4...
+Eevee is unable to attack because stunned.
+	Damage dealt: 4.
+Eevee HP: 9.
+Squirtle HP: 7.
+tick: 26...
+Eevee attempts to cast ability on Squirtle with damage: 3...
+	Damage dealt: 3.
+Squirtle attempts special attack with value 3 on Eevee with special defense value: 3...
+	Damage dealt: 0.
+	Squirtle stunned.
+Eevee HP: 9.
+Squirtle HP: 4.
+tick: 27...
+Eevee attempts special attack with value 6 on Squirtle with special defense value: 8...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Eevee HP: 9.
+Squirtle HP: 4.
+tick: 28...
+Eevee attempts to cast ability on Squirtle with damage: 5...
+Squirtle attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 5.
+	Damage dealt: 2.
+	Eevee stunned.
+Eevee HP: 7.
+Squirtle HP: -1.
+Eevee WINS!
+Eevee buffed!
+New stats:
+Pokemon:
+	Name: Eevee.
+	HP: 52.
+	Special attack value: 7.
+	Defense value: 4.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Cape
+		Vest
+		Vitamins
+	Score: 70.
+Battle 3...
+Pokemon Psyduck to fight with Eevee...
+Psyduck's stats:
+Pokemon:
+	Name: Psyduck.
+	HP: 43.
+	Normal attack value: 3.
+	Defense value: 5.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+	Items:
+		Shield
+	Score: 56.
+Eevee's stats:
+Pokemon:
+	Name: Eevee.
+	HP: 39.
+	Special attack value: 4.
+	Defense value: 4.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Cape
+		ChristmasTree
+	Score: 53.
+tick: 0...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+Eevee attempts to cast ability on Psyduck with damage: 5...
+	Damage dealt: 2.
+	Damage dealt: 5.
+Psyduck HP: 38.
+Eevee HP: 37.
+tick: 1...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+Eevee attempts to cast ability on Psyduck with damage: 3...
+	Damage dealt: 2.
+	Damage dealt: 3.
+	Psyduck stunned.
+	Eevee stunned.
+Psyduck HP: 35.
+Eevee HP: 35.
+tick: 2...
+Psyduck is unable to attack because stunned.
+Eevee is unable to attack because stunned.
+Psyduck HP: 35.
+Eevee HP: 35.
+tick: 3...
+Psyduck attempts normal attack with value 3 on Eevee with defense value: 4...
+	Damage dealt: 0.
+Eevee attempts special attack with value 4 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+Psyduck HP: 35.
+Eevee HP: 35.
+tick: 4...
+Eevee attempts to cast ability on Psyduck with damage: 5...
+Psyduck attempts normal attack with value 3 on Eevee with defense value: 4...
+	Damage dealt: 0.
+	Damage dealt: 5.
+Psyduck HP: 30.
+Eevee HP: 35.
+tick: 5...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+Eevee attempts to cast ability on Psyduck with damage: 3...
+	Damage dealt: 2.
+	Damage dealt: 3.
+	Psyduck stunned.
+Psyduck HP: 27.
+Eevee HP: 33.
+tick: 6...
+Psyduck is unable to attack because stunned.
+Eevee attempts special attack with value 4 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+Psyduck HP: 27.
+Eevee HP: 33.
+tick: 7...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 2.
+Eevee attempts special attack with value 4 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+	Eevee stunned.
+Psyduck HP: 27.
+Eevee HP: 31.
+tick: 8...
+Psyduck attempts normal attack with value 3 on Eevee with defense value: 4...
+	Damage dealt: 0.
+Eevee is unable to attack because stunned.
+Psyduck HP: 27.
+Eevee HP: 31.
+tick: 9...
+Eevee attempts to cast ability on Psyduck with damage: 5...
+Psyduck attempts normal attack with value 3 on Eevee with defense value: 4...
+	Damage dealt: 0.
+	Damage dealt: 5.
+Psyduck HP: 22.
+Eevee HP: 31.
+tick: 10...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+Eevee attempts to cast ability on Psyduck with damage: 3...
+	Damage dealt: 2.
+	Damage dealt: 3.
+	Psyduck stunned.
+Psyduck HP: 19.
+Eevee HP: 29.
+tick: 11...
+Psyduck is unable to attack because stunned.
+Eevee attempts special attack with value 4 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+Psyduck HP: 19.
+Eevee HP: 29.
+tick: 12...
+Psyduck attempts normal attack with value 3 on Eevee with defense value: 4...
+	Damage dealt: 0.
+Eevee attempts special attack with value 4 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+Psyduck HP: 19.
+Eevee HP: 29.
+tick: 13...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+Eevee attempts to cast ability on Psyduck with damage: 5...
+	Damage dealt: 2.
+	Damage dealt: 5.
+	Eevee stunned.
+Psyduck HP: 14.
+Eevee HP: 27.
+tick: 14...
+Psyduck attempts normal attack with value 3 on Eevee with defense value: 4...
+	Damage dealt: 0.
+Eevee is unable to attack because stunned.
+Psyduck HP: 14.
+Eevee HP: 27.
+tick: 15...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+Eevee attempts to cast ability on Psyduck with damage: 3...
+	Damage dealt: 2.
+	Damage dealt: 3.
+	Psyduck stunned.
+Psyduck HP: 11.
+Eevee HP: 25.
+tick: 16...
+Psyduck is unable to attack because stunned.
+Eevee attempts special attack with value 4 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+Psyduck HP: 11.
+Eevee HP: 25.
+tick: 17...
+Eevee attempts to cast ability on Psyduck with damage: 5...
+Psyduck attempts normal attack with value 3 on Eevee with defense value: 4...
+	Damage dealt: 0.
+	Damage dealt: 5.
+Psyduck HP: 6.
+Eevee HP: 25.
+tick: 18...
+Psyduck attempts normal attack with value 3 on Eevee with defense value: 4...
+	Damage dealt: 0.
+Eevee attempts special attack with value 4 on Psyduck with special defense value: 5...
+	Damage dealt: 0.
+Psyduck HP: 6.
+Eevee HP: 25.
+tick: 19...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+Eevee attempts to cast ability on Psyduck with damage: 3...
+	Damage dealt: 2.
+	Damage dealt: 3.
+	Psyduck stunned.
+	Eevee stunned.
+Psyduck HP: 3.
+Eevee HP: 23.
+tick: 20...
+Psyduck is unable to attack because stunned.
+Eevee is unable to attack because stunned.
+Psyduck HP: 3.
+Eevee HP: 23.
+tick: 21...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+Eevee attempts to cast ability on Psyduck with damage: 5...
+	Damage dealt: 2.
+	Damage dealt: 5.
+Psyduck HP: -2.
+Eevee HP: 21.
+Eevee WINS!
+Eevee buffed!
+New stats:
+Pokemon:
+	Name: Eevee.
+	HP: 40.
+	Special attack value: 5.
+	Defense value: 5.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Cape
+		ChristmasTree
+	Score: 57.
+Final battle...
+Eevee with score: 70 to fight Squirtle with score: 78...
+tick: 0...
+Eevee attempts to cast ability on Squirtle with damage: 3...
+Squirtle attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 3.
+	Damage dealt: 2.
+	Eevee stunned.
+	Squirtle stunned.
+Eevee HP: 50.
+Squirtle HP: 57.
+tick: 1...
+Eevee is unable to attack because stunned.
+Squirtle is unable to attack because stunned.
+Eevee HP: 50.
+Squirtle HP: 57.
+tick: 2...
+Eevee attempts to cast ability on Squirtle with damage: 5...
+Squirtle attempts to cast ability on Eevee with damage: 4...
+	Damage dealt: 5.
+	Damage dealt: 4.
+Eevee HP: 46.
+Squirtle HP: 52.
+tick: 3...
+Squirtle attempts to cast ability on Eevee with damage: 2...
+Eevee attempts special attack with value 7 on Squirtle with special defense value: 8...
+	Damage dealt: 0.
+	Damage dealt: 2.
+	Eevee stunned.
+Eevee HP: 44.
+Squirtle HP: 52.
+tick: 4...
+Eevee is unable to attack because stunned.
+Squirtle attempts special attack with value 3 on Eevee with special defense value: 4...
+	Damage dealt: 0.
+Eevee HP: 44.
+Squirtle HP: 52.
+tick: 5...
+Eevee attempts to cast ability on Squirtle with damage: 3...
+	Damage dealt: 3.
+Squirtle attempts special attack with value 3 on Eevee with special defense value: 4...
+	Damage dealt: 0.
+	Squirtle stunned.
+Eevee HP: 44.
+Squirtle HP: 49.
+tick: 6...
+Eevee attempts to cast ability on Squirtle with damage: 5...
+	Damage dealt: 5.
+Squirtle is unable to attack because stunned.
+Eevee HP: 44.
+Squirtle HP: 44.
+tick: 7...
+Squirtle attempts to cast ability on Eevee with damage: 4...
+Eevee attempts special attack with value 7 on Squirtle with special defense value: 8...
+	Damage dealt: 0.
+	Damage dealt: 4.
+Eevee HP: 40.
+Squirtle HP: 44.
+tick: 8...
+Squirtle attempts to cast ability on Eevee with damage: 2...
+Eevee attempts special attack with value 7 on Squirtle with special defense value: 8...
+	Damage dealt: 0.
+	Damage dealt: 2.
+	Eevee stunned.
+Eevee HP: 38.
+Squirtle HP: 44.
+tick: 9...
+Eevee is unable to attack because stunned.
+Squirtle attempts special attack with value 3 on Eevee with special defense value: 4...
+	Damage dealt: 0.
+Eevee HP: 38.
+Squirtle HP: 44.
+tick: 10...
+Eevee attempts to cast ability on Squirtle with damage: 5...
+	Damage dealt: 5.
+Squirtle attempts special attack with value 3 on Eevee with special defense value: 4...
+	Damage dealt: 0.
+Eevee HP: 38.
+Squirtle HP: 39.
+tick: 11...
+Eevee attempts to cast ability on Squirtle with damage: 3...
+Squirtle attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 3.
+	Damage dealt: 2.
+	Eevee stunned.
+	Squirtle stunned.
+Eevee HP: 36.
+Squirtle HP: 36.
+tick: 12...
+Eevee is unable to attack because stunned.
+Squirtle is unable to attack because stunned.
+Eevee HP: 36.
+Squirtle HP: 36.
+tick: 13...
+Squirtle attempts to cast ability on Eevee with damage: 4...
+Eevee attempts special attack with value 7 on Squirtle with special defense value: 8...
+	Damage dealt: 0.
+	Damage dealt: 4.
+Eevee HP: 32.
+Squirtle HP: 36.
+tick: 14...
+Eevee attempts to cast ability on Squirtle with damage: 5...
+Squirtle attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 5.
+	Damage dealt: 2.
+	Eevee stunned.
+Eevee HP: 30.
+Squirtle HP: 31.
+tick: 15...
+Eevee is unable to attack because stunned.
+Squirtle attempts special attack with value 3 on Eevee with special defense value: 4...
+	Damage dealt: 0.
+Eevee HP: 30.
+Squirtle HP: 31.
+tick: 16...
+Eevee attempts to cast ability on Squirtle with damage: 3...
+	Damage dealt: 3.
+Squirtle attempts special attack with value 3 on Eevee with special defense value: 4...
+	Damage dealt: 0.
+	Squirtle stunned.
+Eevee HP: 30.
+Squirtle HP: 28.
+tick: 17...
+Eevee attempts special attack with value 7 on Squirtle with special defense value: 8...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Eevee HP: 30.
+Squirtle HP: 28.
+tick: 18...
+Eevee attempts to cast ability on Squirtle with damage: 5...
+Squirtle attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 5.
+	Damage dealt: 2.
+	Eevee stunned.
+Eevee HP: 28.
+Squirtle HP: 23.
+tick: 19...
+Squirtle attempts to cast ability on Eevee with damage: 4...
+Eevee is unable to attack because stunned.
+	Damage dealt: 4.
+Eevee HP: 24.
+Squirtle HP: 23.
+tick: 20...
+Eevee attempts to cast ability on Squirtle with damage: 3...
+	Damage dealt: 3.
+Squirtle attempts special attack with value 3 on Eevee with special defense value: 4...
+	Damage dealt: 0.
+	Squirtle stunned.
+Eevee HP: 24.
+Squirtle HP: 20.
+tick: 21...
+Eevee attempts special attack with value 7 on Squirtle with special defense value: 8...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Eevee HP: 24.
+Squirtle HP: 20.
+tick: 22...
+Eevee attempts to cast ability on Squirtle with damage: 5...
+Squirtle attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 5.
+	Damage dealt: 2.
+	Eevee stunned.
+Eevee HP: 22.
+Squirtle HP: 15.
+tick: 23...
+Squirtle attempts to cast ability on Eevee with damage: 4...
+Eevee is unable to attack because stunned.
+	Damage dealt: 4.
+Eevee HP: 18.
+Squirtle HP: 15.
+tick: 24...
+Eevee attempts to cast ability on Squirtle with damage: 3...
+	Damage dealt: 3.
+Squirtle attempts special attack with value 3 on Eevee with special defense value: 4...
+	Damage dealt: 0.
+	Squirtle stunned.
+Eevee HP: 18.
+Squirtle HP: 12.
+tick: 25...
+Eevee attempts special attack with value 7 on Squirtle with special defense value: 8...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Eevee HP: 18.
+Squirtle HP: 12.
+tick: 26...
+Eevee attempts to cast ability on Squirtle with damage: 5...
+Squirtle attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 5.
+	Damage dealt: 2.
+	Eevee stunned.
+Eevee HP: 16.
+Squirtle HP: 7.
+tick: 27...
+Squirtle attempts to cast ability on Eevee with damage: 4...
+Eevee is unable to attack because stunned.
+	Damage dealt: 4.
+Eevee HP: 12.
+Squirtle HP: 7.
+tick: 28...
+Eevee attempts to cast ability on Squirtle with damage: 3...
+	Damage dealt: 3.
+Squirtle attempts special attack with value 3 on Eevee with special defense value: 4...
+	Damage dealt: 0.
+	Squirtle stunned.
+Eevee HP: 12.
+Squirtle HP: 4.
+tick: 29...
+Eevee attempts special attack with value 7 on Squirtle with special defense value: 8...
+	Damage dealt: 0.
+Squirtle is unable to attack because stunned.
+Eevee HP: 12.
+Squirtle HP: 4.
+tick: 30...
+Eevee attempts to cast ability on Squirtle with damage: 5...
+Squirtle attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 5.
+	Damage dealt: 2.
+	Eevee stunned.
+Eevee HP: 10.
+Squirtle HP: -1.
+Eevee WINS!
+Eevee buffed!
+New stats:
+Pokemon:
+	Name: Eevee.
+	HP: 53.
+	Special attack value: 8.
+	Defense value: 5.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Cape
+		Vest
+		Vitamins
+	Score: 74.
+Coach Felix is the winner of the adventure!

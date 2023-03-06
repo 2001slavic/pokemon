@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<coaches>
+    <coach>
+        <name>Felix</name>
+        <age>38</age>
+        <pokemons>
+            <pokemon>
+                <name>Vulpix</name>
+                <items>
+                    <item>Shield</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Eevee</name>
+                <items>
+                    <item>Cape</item>
+                    <item>Vest</item>
+                    <item>Vitamins</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Psyduck</name>
+                <items>
+                    <item>Shield</item>
+                </items>
+            </pokemon>
+        </pokemons>
+    </coach>
+    <coach>
+        <name>Marilena</name>
+        <age>38</age>
+        <pokemons>
+            <pokemon>
+                <name>Vulpix</name>
+                <items/>
+            </pokemon>
+            <pokemon>
+                <name>Squirtle</name>
+                <items>
+                    <item>Christmas tree</item>
+                    <item>Shield</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Eevee</name>
+                <items>
+                    <item>Cape</item>
+                    <item>Christmas tree</item>
+                </items>
+            </pokemon>
+        </pokemons>
+    </coach>
+</coaches>

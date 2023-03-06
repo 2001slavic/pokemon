@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<coaches>
+    <coach>
+        <name>Ionel</name>
+        <age>37</age>
+        <pokemons>
+            <pokemon>
+                <name>Squirtle</name>
+                <items/>
+            </pokemon>
+            <pokemon>
+                <name>Eevee</name>
+                <items>
+                    <item>Cape</item>
+                    <item>Magic wand</item>
+                    <item>Shield</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Jigglypuff</name>
+                <items>
+                    <item>Cape</item>
+                </items>
+            </pokemon>
+        </pokemons>
+    </coach>
+    <coach>
+        <name>Roxana</name>
+        <age>14</age>
+        <pokemons>
+            <pokemon>
+                <name>Pikachu</name>
+                <items>
+                    <item>Cape</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Psyduck</name>
+                <items/>
+            </pokemon>
+            <pokemon>
+                <name>Bulbasaur</name>
+                <items/>
+            </pokemon>
+        </pokemons>
+    </coach>
+</coaches>

@@ -1,0 +1,940 @@
+Initiating new battle...
+Coach Marilena to fight with Neutrel2...
+Coach Marilena picked Pikachu.
+Pokemon stats:
+Pokemon:
+	Name: Pikachu.
+	HP: 45.
+	Special attack value: 7.
+	Defense value: 2.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: true
+			Cooldown: 5
+	Items:
+		Vest
+		Cape
+		MagicWand
+	Score: 60.
+Starting battle...
+tick: 0...
+Pikachu attempts to cast ability on Neutrel2 with damage: 6...
+	Damage dealt: 6.
+Neutrel2 attempts normal attack with value 4 on Pikachu with defense value: 2...
+	Damage dealt: 2.
+Pikachu HP: 43.
+Neutrel2 HP: 14.
+tick: 1...
+Pikachu attempts to cast ability on Neutrel2 with damage: 4...
+	Damage dealt: 4.
+Pikachu dodges Neutrel2's attack.
+	Neutrel2 stunned.
+Pikachu HP: 43.
+Neutrel2 HP: 10.
+tick: 2...
+Pikachu attempts special attack with value 7 on Neutrel2 with special defense value: 1...
+	Damage dealt: 6.
+Neutrel2 is unable to attack because stunned.
+Pikachu HP: 43.
+Neutrel2 HP: 4.
+tick: 3...
+Pikachu attempts special attack with value 7 on Neutrel2 with special defense value: 1...
+	Damage dealt: 6.
+Neutrel2 attempts normal attack with value 4 on Pikachu with defense value: 2...
+	Damage dealt: 2.
+Pikachu HP: 41.
+Neutrel2 HP: -2.
+Pikachu WINS!
+Pikachu buffed!
+New stats:
+Pokemon:
+	Name: Pikachu.
+	HP: 46.
+	Special attack value: 8.
+	Defense value: 3.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: true
+			Cooldown: 5
+	Items:
+		Vest
+		Cape
+		MagicWand
+	Score: 64.
+Coach Paula to fight with Neutrel2...
+Coach Paula picked Jigglypuff.
+Pokemon stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 34.
+	Normal attack value: 4.
+	Defense value: 2.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Cape
+	Score: 46.
+Starting battle...
+tick: 0...
+Jigglypuff attempts to cast ability on Neutrel2 with damage: 4...
+	Damage dealt: 4.
+Neutrel2 attempts normal attack with value 4 on Jigglypuff with defense value: 2...
+	Damage dealt: 2.
+	Neutrel2 stunned.
+Jigglypuff HP: 32.
+Neutrel2 HP: 16.
+tick: 1...
+Jigglypuff attempts to cast ability on Neutrel2 with damage: 3...
+	Damage dealt: 3.
+Neutrel2 is unable to attack because stunned.
+	Neutrel2 stunned.
+Jigglypuff HP: 32.
+Neutrel2 HP: 13.
+tick: 2...
+Jigglypuff attempts normal attack with value 4 on Neutrel2 with defense value: 1...
+	Damage dealt: 3.
+Neutrel2 is unable to attack because stunned.
+Jigglypuff HP: 32.
+Neutrel2 HP: 10.
+tick: 3...
+Jigglypuff attempts normal attack with value 4 on Neutrel2 with defense value: 1...
+	Damage dealt: 3.
+Neutrel2 attempts normal attack with value 4 on Jigglypuff with defense value: 2...
+	Damage dealt: 2.
+Jigglypuff HP: 30.
+Neutrel2 HP: 7.
+tick: 4...
+Jigglypuff attempts normal attack with value 4 on Neutrel2 with defense value: 1...
+	Damage dealt: 3.
+Neutrel2 attempts normal attack with value 4 on Jigglypuff with defense value: 2...
+	Damage dealt: 2.
+Jigglypuff HP: 28.
+Neutrel2 HP: 4.
+tick: 5...
+Jigglypuff attempts to cast ability on Neutrel2 with damage: 4...
+	Damage dealt: 4.
+Neutrel2 attempts normal attack with value 4 on Jigglypuff with defense value: 2...
+	Damage dealt: 2.
+	Neutrel2 stunned.
+Jigglypuff HP: 26.
+Neutrel2 HP: 0.
+Jigglypuff WINS!
+Jigglypuff buffed!
+New stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 35.
+	Normal attack value: 5.
+	Defense value: 3.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Cape
+	Score: 50.
+Coach Marilena to fight with coach Paula...
+Battle 1...
+Pokemon Pikachu to fight with Pikachu...
+Pikachu's stats:
+Pokemon:
+	Name: Pikachu.
+	HP: 46.
+	Special attack value: 8.
+	Defense value: 3.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: true
+			Cooldown: 5
+	Items:
+		Vest
+		Cape
+		MagicWand
+	Score: 64.
+Pikachu's stats:
+Pokemon:
+	Name: Pikachu.
+	HP: 37.
+	Special attack value: 9.
+	Defense value: 2.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: true
+			Cooldown: 5
+	Items:
+		Vitamins
+		Cape
+		MagicWand
+	Score: 54.
+tick: 0...
+Pikachu attempts to cast ability on Pikachu with damage: 6...
+Pikachu attempts to cast ability on Pikachu with damage: 6...
+	Damage dealt: 6.
+	Damage dealt: 6.
+Pikachu HP: 40.
+Pikachu HP: 31.
+tick: 1...
+Pikachu attempts to cast ability on Pikachu with damage: 4...
+Pikachu attempts to cast ability on Pikachu with damage: 4...
+Pikachu dodges Pikachu's attack.
+Pikachu dodges Pikachu's attack.
+Pikachu HP: 40.
+Pikachu HP: 31.
+tick: 2...
+Pikachu attempts special attack with value 8 on Pikachu with special defense value: 2...
+	Damage dealt: 2.
+Pikachu attempts special attack with value 9 on Pikachu with special defense value: 3...
+	Damage dealt: 2.
+Pikachu HP: 38.
+Pikachu HP: 29.
+tick: 3...
+Pikachu attempts special attack with value 8 on Pikachu with special defense value: 2...
+	Damage dealt: 2.
+Pikachu attempts special attack with value 9 on Pikachu with special defense value: 3...
+	Damage dealt: 2.
+Pikachu HP: 36.
+Pikachu HP: 27.
+tick: 4...
+Pikachu attempts special attack with value 8 on Pikachu with special defense value: 2...
+	Damage dealt: 2.
+Pikachu attempts special attack with value 9 on Pikachu with special defense value: 3...
+	Damage dealt: 2.
+Pikachu HP: 34.
+Pikachu HP: 25.
+tick: 5...
+Pikachu attempts to cast ability on Pikachu with damage: 6...
+Pikachu attempts to cast ability on Pikachu with damage: 6...
+	Damage dealt: 6.
+	Damage dealt: 6.
+Pikachu HP: 28.
+Pikachu HP: 19.
+tick: 6...
+Pikachu attempts special attack with value 8 on Pikachu with special defense value: 2...
+	Damage dealt: 2.
+Pikachu attempts special attack with value 9 on Pikachu with special defense value: 3...
+	Damage dealt: 2.
+Pikachu HP: 26.
+Pikachu HP: 17.
+tick: 7...
+Pikachu attempts to cast ability on Pikachu with damage: 4...
+Pikachu attempts to cast ability on Pikachu with damage: 4...
+Pikachu dodges Pikachu's attack.
+Pikachu dodges Pikachu's attack.
+Pikachu HP: 26.
+Pikachu HP: 17.
+tick: 8...
+Pikachu attempts special attack with value 8 on Pikachu with special defense value: 2...
+	Damage dealt: 2.
+Pikachu attempts special attack with value 9 on Pikachu with special defense value: 3...
+	Damage dealt: 2.
+Pikachu HP: 24.
+Pikachu HP: 15.
+tick: 9...
+Pikachu attempts special attack with value 8 on Pikachu with special defense value: 2...
+	Damage dealt: 2.
+Pikachu attempts special attack with value 9 on Pikachu with special defense value: 3...
+	Damage dealt: 2.
+Pikachu HP: 22.
+Pikachu HP: 13.
+tick: 10...
+Pikachu attempts to cast ability on Pikachu with damage: 6...
+Pikachu attempts to cast ability on Pikachu with damage: 6...
+	Damage dealt: 6.
+	Damage dealt: 6.
+Pikachu HP: 16.
+Pikachu HP: 7.
+tick: 11...
+Pikachu attempts special attack with value 8 on Pikachu with special defense value: 2...
+	Damage dealt: 2.
+Pikachu attempts special attack with value 9 on Pikachu with special defense value: 3...
+	Damage dealt: 2.
+Pikachu HP: 14.
+Pikachu HP: 5.
+tick: 12...
+Pikachu attempts special attack with value 8 on Pikachu with special defense value: 2...
+	Damage dealt: 2.
+Pikachu attempts special attack with value 9 on Pikachu with special defense value: 3...
+	Damage dealt: 2.
+Pikachu HP: 12.
+Pikachu HP: 3.
+tick: 13...
+Pikachu attempts to cast ability on Pikachu with damage: 4...
+Pikachu attempts to cast ability on Pikachu with damage: 4...
+Pikachu dodges Pikachu's attack.
+Pikachu dodges Pikachu's attack.
+Pikachu HP: 12.
+Pikachu HP: 3.
+tick: 14...
+Pikachu attempts special attack with value 8 on Pikachu with special defense value: 2...
+	Damage dealt: 2.
+Pikachu attempts special attack with value 9 on Pikachu with special defense value: 3...
+	Damage dealt: 2.
+Pikachu HP: 10.
+Pikachu HP: 1.
+tick: 15...
+Pikachu attempts to cast ability on Pikachu with damage: 6...
+Pikachu attempts to cast ability on Pikachu with damage: 6...
+	Damage dealt: 6.
+	Damage dealt: 6.
+Pikachu HP: 4.
+Pikachu HP: -5.
+Pikachu WINS!
+Pikachu buffed!
+New stats:
+Pokemon:
+	Name: Pikachu.
+	HP: 47.
+	Special attack value: 9.
+	Defense value: 4.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: true
+			Cooldown: 5
+	Items:
+		Vest
+		Cape
+		MagicWand
+	Score: 68.
+Battle 2...
+Pokemon Psyduck to fight with Eevee...
+Psyduck's stats:
+Pokemon:
+	Name: Psyduck.
+	HP: 43.
+	Normal attack value: 6.
+	Defense value: 4.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 5
+	Items:
+		Cape
+		ChristmasTree
+	Score: 59.
+Eevee's stats:
+Pokemon:
+	Name: Eevee.
+	HP: 39.
+	Special attack value: 4.
+	Defense value: 3.
+	Special defense value: 3.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+	Score: 49.
+tick: 0...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+Eevee attempts to cast ability on Psyduck with damage: 5...
+	Damage dealt: 2.
+	Damage dealt: 5.
+	Eevee stunned.
+Psyduck HP: 38.
+Eevee HP: 37.
+tick: 1...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 2.
+Eevee is unable to attack because stunned.
+Psyduck HP: 38.
+Eevee HP: 35.
+tick: 2...
+Eevee attempts to cast ability on Psyduck with damage: 3...
+Psyduck attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+	Damage dealt: 3.
+	Psyduck stunned.
+Psyduck HP: 35.
+Eevee HP: 32.
+tick: 3...
+Psyduck is unable to attack because stunned.
+Eevee attempts special attack with value 4 on Psyduck with special defense value: 4...
+	Damage dealt: 0.
+Psyduck HP: 35.
+Eevee HP: 32.
+tick: 4...
+Eevee attempts to cast ability on Psyduck with damage: 5...
+Psyduck attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+	Damage dealt: 5.
+Psyduck HP: 30.
+Eevee HP: 29.
+tick: 5...
+Psyduck attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+Eevee attempts special attack with value 4 on Psyduck with special defense value: 4...
+	Damage dealt: 0.
+Psyduck HP: 30.
+Eevee HP: 26.
+tick: 6...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+Eevee attempts to cast ability on Psyduck with damage: 3...
+	Damage dealt: 2.
+	Damage dealt: 3.
+	Psyduck stunned.
+	Eevee stunned.
+Psyduck HP: 27.
+Eevee HP: 24.
+tick: 7...
+Psyduck is unable to attack because stunned.
+Eevee is unable to attack because stunned.
+Psyduck HP: 27.
+Eevee HP: 24.
+tick: 8...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+Eevee attempts to cast ability on Psyduck with damage: 5...
+	Damage dealt: 2.
+	Damage dealt: 5.
+Psyduck HP: 22.
+Eevee HP: 22.
+tick: 9...
+Psyduck attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+Eevee attempts special attack with value 4 on Psyduck with special defense value: 4...
+	Damage dealt: 0.
+Psyduck HP: 22.
+Eevee HP: 19.
+tick: 10...
+Eevee attempts to cast ability on Psyduck with damage: 3...
+Psyduck attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+	Damage dealt: 3.
+	Psyduck stunned.
+Psyduck HP: 19.
+Eevee HP: 16.
+tick: 11...
+Psyduck is unable to attack because stunned.
+Eevee attempts special attack with value 4 on Psyduck with special defense value: 4...
+	Damage dealt: 0.
+Psyduck HP: 19.
+Eevee HP: 16.
+tick: 12...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+Eevee attempts to cast ability on Psyduck with damage: 5...
+	Damage dealt: 2.
+	Damage dealt: 5.
+	Eevee stunned.
+Psyduck HP: 14.
+Eevee HP: 14.
+tick: 13...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+	Damage dealt: 2.
+Eevee is unable to attack because stunned.
+Psyduck HP: 14.
+Eevee HP: 12.
+tick: 14...
+Eevee attempts to cast ability on Psyduck with damage: 3...
+Psyduck attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+	Damage dealt: 3.
+	Psyduck stunned.
+Psyduck HP: 11.
+Eevee HP: 9.
+tick: 15...
+Psyduck is unable to attack because stunned.
+Eevee attempts special attack with value 4 on Psyduck with special defense value: 4...
+	Damage dealt: 0.
+Psyduck HP: 11.
+Eevee HP: 9.
+tick: 16...
+Eevee attempts to cast ability on Psyduck with damage: 5...
+Psyduck attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+	Damage dealt: 5.
+Psyduck HP: 6.
+Eevee HP: 6.
+tick: 17...
+Psyduck attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+Eevee attempts special attack with value 4 on Psyduck with special defense value: 4...
+	Damage dealt: 0.
+Psyduck HP: 6.
+Eevee HP: 3.
+tick: 18...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+Eevee attempts to cast ability on Psyduck with damage: 3...
+	Damage dealt: 2.
+	Damage dealt: 3.
+	Psyduck stunned.
+Psyduck HP: 3.
+Eevee HP: 1.
+tick: 19...
+Psyduck is unable to attack because stunned.
+Eevee attempts special attack with value 4 on Psyduck with special defense value: 4...
+	Damage dealt: 0.
+Psyduck HP: 3.
+Eevee HP: 1.
+tick: 20...
+Psyduck attempts to cast ability on Eevee with damage: 2...
+Eevee attempts to cast ability on Psyduck with damage: 5...
+	Damage dealt: 2.
+	Damage dealt: 5.
+	Eevee stunned.
+Psyduck HP: -2.
+Eevee HP: -1.
+DRAW!
+Psyduck's score: 59.
+Eevee's score: 49.
+Battle 3...
+Pokemon Meowth to fight with Jigglypuff...
+Meowth's stats:
+Pokemon:
+	Name: Meowth.
+	HP: 41.
+	Normal attack value: 3.
+	Defense value: 6.
+	Special defense value: 4.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: true
+			Cooldown: 4
+		Ability:
+			Damage: 1
+			Stun: false
+			Dodge: true
+			Cooldown: 3
+	Items:
+		Shield
+	Score: 54.
+Jigglypuff's stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 35.
+	Normal attack value: 5.
+	Defense value: 3.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Cape
+	Score: 50.
+tick: 0...
+Meowth attempts to cast ability on Jigglypuff with damage: 5...
+Jigglypuff attempts to cast ability on Meowth with damage: 4...
+	Damage dealt: 5.
+Meowth dodges Jigglypuff's attack.
+Meowth HP: 41.
+Jigglypuff HP: 30.
+tick: 1...
+Meowth attempts to cast ability on Jigglypuff with damage: 1...
+Jigglypuff attempts to cast ability on Meowth with damage: 3...
+	Damage dealt: 1.
+Meowth dodges Jigglypuff's attack.
+Meowth HP: 41.
+Jigglypuff HP: 29.
+tick: 2...
+Meowth attempts normal attack with value 3 on Jigglypuff with defense value: 3...
+	Damage dealt: 0.
+Jigglypuff attempts normal attack with value 5 on Meowth with defense value: 6...
+	Damage dealt: 0.
+Meowth HP: 41.
+Jigglypuff HP: 29.
+tick: 3...
+Meowth attempts normal attack with value 3 on Jigglypuff with defense value: 3...
+	Damage dealt: 0.
+Jigglypuff attempts normal attack with value 5 on Meowth with defense value: 6...
+	Damage dealt: 0.
+Meowth HP: 41.
+Jigglypuff HP: 29.
+tick: 4...
+Meowth attempts normal attack with value 3 on Jigglypuff with defense value: 3...
+	Damage dealt: 0.
+Jigglypuff attempts normal attack with value 5 on Meowth with defense value: 6...
+	Damage dealt: 0.
+Meowth HP: 41.
+Jigglypuff HP: 29.
+tick: 5...
+Meowth attempts to cast ability on Jigglypuff with damage: 1...
+Jigglypuff attempts to cast ability on Meowth with damage: 4...
+	Damage dealt: 1.
+Meowth dodges Jigglypuff's attack.
+Meowth HP: 41.
+Jigglypuff HP: 28.
+tick: 6...
+Meowth attempts to cast ability on Jigglypuff with damage: 5...
+Jigglypuff attempts to cast ability on Meowth with damage: 3...
+	Damage dealt: 5.
+Meowth dodges Jigglypuff's attack.
+Meowth HP: 41.
+Jigglypuff HP: 23.
+tick: 7...
+Meowth attempts normal attack with value 3 on Jigglypuff with defense value: 3...
+	Damage dealt: 0.
+Jigglypuff attempts normal attack with value 5 on Meowth with defense value: 6...
+	Damage dealt: 0.
+Meowth HP: 41.
+Jigglypuff HP: 23.
+tick: 8...
+Meowth attempts normal attack with value 3 on Jigglypuff with defense value: 3...
+	Damage dealt: 0.
+Jigglypuff attempts normal attack with value 5 on Meowth with defense value: 6...
+	Damage dealt: 0.
+Meowth HP: 41.
+Jigglypuff HP: 23.
+tick: 9...
+Meowth attempts to cast ability on Jigglypuff with damage: 1...
+	Damage dealt: 1.
+Meowth dodges Jigglypuff's attack.
+Meowth HP: 41.
+Jigglypuff HP: 22.
+tick: 10...
+Jigglypuff attempts to cast ability on Meowth with damage: 4...
+Meowth attempts normal attack with value 3 on Jigglypuff with defense value: 3...
+	Damage dealt: 0.
+	Damage dealt: 4.
+	Meowth stunned.
+Meowth HP: 37.
+Jigglypuff HP: 22.
+tick: 11...
+Jigglypuff attempts to cast ability on Meowth with damage: 3...
+Meowth is unable to attack because stunned.
+	Damage dealt: 3.
+	Meowth stunned.
+Meowth HP: 34.
+Jigglypuff HP: 22.
+tick: 12...
+Meowth is unable to attack because stunned.
+Jigglypuff attempts normal attack with value 5 on Meowth with defense value: 6...
+	Damage dealt: 0.
+Meowth HP: 34.
+Jigglypuff HP: 22.
+tick: 13...
+Meowth attempts to cast ability on Jigglypuff with damage: 1...
+	Damage dealt: 1.
+Meowth dodges Jigglypuff's attack.
+Meowth HP: 34.
+Jigglypuff HP: 21.
+tick: 14...
+Meowth attempts to cast ability on Jigglypuff with damage: 5...
+	Damage dealt: 5.
+Meowth dodges Jigglypuff's attack.
+Meowth HP: 34.
+Jigglypuff HP: 16.
+tick: 15...
+Jigglypuff attempts to cast ability on Meowth with damage: 4...
+Meowth attempts normal attack with value 3 on Jigglypuff with defense value: 3...
+	Damage dealt: 0.
+	Damage dealt: 4.
+	Meowth stunned.
+Meowth HP: 30.
+Jigglypuff HP: 16.
+tick: 16...
+Jigglypuff attempts to cast ability on Meowth with damage: 3...
+Meowth is unable to attack because stunned.
+	Damage dealt: 3.
+	Meowth stunned.
+Meowth HP: 27.
+Jigglypuff HP: 16.
+tick: 17...
+Meowth is unable to attack because stunned.
+Jigglypuff attempts normal attack with value 5 on Meowth with defense value: 6...
+	Damage dealt: 0.
+Meowth HP: 27.
+Jigglypuff HP: 16.
+tick: 18...
+Meowth attempts to cast ability on Jigglypuff with damage: 1...
+	Damage dealt: 1.
+Meowth dodges Jigglypuff's attack.
+Meowth HP: 27.
+Jigglypuff HP: 15.
+tick: 19...
+Meowth attempts to cast ability on Jigglypuff with damage: 5...
+	Damage dealt: 5.
+Meowth dodges Jigglypuff's attack.
+Meowth HP: 27.
+Jigglypuff HP: 10.
+tick: 20...
+Jigglypuff attempts to cast ability on Meowth with damage: 4...
+Meowth attempts normal attack with value 3 on Jigglypuff with defense value: 3...
+	Damage dealt: 0.
+	Damage dealt: 4.
+	Meowth stunned.
+Meowth HP: 23.
+Jigglypuff HP: 10.
+tick: 21...
+Jigglypuff attempts to cast ability on Meowth with damage: 3...
+Meowth is unable to attack because stunned.
+	Damage dealt: 3.
+	Meowth stunned.
+Meowth HP: 20.
+Jigglypuff HP: 10.
+tick: 22...
+Meowth is unable to attack because stunned.
+Jigglypuff attempts normal attack with value 5 on Meowth with defense value: 6...
+	Damage dealt: 0.
+Meowth HP: 20.
+Jigglypuff HP: 10.
+tick: 23...
+Meowth attempts to cast ability on Jigglypuff with damage: 1...
+	Damage dealt: 1.
+Meowth dodges Jigglypuff's attack.
+Meowth HP: 20.
+Jigglypuff HP: 9.
+tick: 24...
+Meowth attempts to cast ability on Jigglypuff with damage: 5...
+	Damage dealt: 5.
+Meowth dodges Jigglypuff's attack.
+Meowth HP: 20.
+Jigglypuff HP: 4.
+tick: 25...
+Jigglypuff attempts to cast ability on Meowth with damage: 4...
+Meowth attempts normal attack with value 3 on Jigglypuff with defense value: 3...
+	Damage dealt: 0.
+	Damage dealt: 4.
+	Meowth stunned.
+Meowth HP: 16.
+Jigglypuff HP: 4.
+tick: 26...
+Jigglypuff attempts to cast ability on Meowth with damage: 3...
+Meowth is unable to attack because stunned.
+	Damage dealt: 3.
+	Meowth stunned.
+Meowth HP: 13.
+Jigglypuff HP: 4.
+tick: 27...
+Meowth is unable to attack because stunned.
+Jigglypuff attempts normal attack with value 5 on Meowth with defense value: 6...
+	Damage dealt: 0.
+Meowth HP: 13.
+Jigglypuff HP: 4.
+tick: 28...
+Meowth attempts to cast ability on Jigglypuff with damage: 1...
+	Damage dealt: 1.
+Meowth dodges Jigglypuff's attack.
+Meowth HP: 13.
+Jigglypuff HP: 3.
+tick: 29...
+Meowth attempts to cast ability on Jigglypuff with damage: 5...
+	Damage dealt: 5.
+Meowth dodges Jigglypuff's attack.
+Meowth HP: 13.
+Jigglypuff HP: -2.
+Meowth WINS!
+Meowth buffed!
+New stats:
+Pokemon:
+	Name: Meowth.
+	HP: 42.
+	Normal attack value: 4.
+	Defense value: 7.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: true
+			Cooldown: 4
+		Ability:
+			Damage: 1
+			Stun: false
+			Dodge: true
+			Cooldown: 3
+	Items:
+		Shield
+	Score: 58.
+Final battle...
+Pikachu with score: 68 to fight Pikachu with score: 54...
+tick: 0...
+Pikachu attempts to cast ability on Pikachu with damage: 4...
+Pikachu attempts to cast ability on Pikachu with damage: 6...
+	Damage dealt: 4.
+Pikachu dodges Pikachu's attack.
+	Pikachu stunned.
+Pikachu HP: 47.
+Pikachu HP: 33.
+tick: 1...
+Pikachu attempts to cast ability on Pikachu with damage: 6...
+	Damage dealt: 6.
+Pikachu is unable to attack because stunned.
+Pikachu HP: 47.
+Pikachu HP: 27.
+tick: 2...
+Pikachu attempts to cast ability on Pikachu with damage: 4...
+Pikachu dodges Pikachu's attack.
+	Damage dealt: 4.
+	Pikachu stunned.
+Pikachu HP: 43.
+Pikachu HP: 27.
+tick: 3...
+Pikachu is unable to attack because stunned.
+Pikachu attempts special attack with value 9 on Pikachu with special defense value: 4...
+	Damage dealt: 1.
+Pikachu HP: 42.
+Pikachu HP: 27.
+tick: 4...
+Pikachu attempts special attack with value 9 on Pikachu with special defense value: 2...
+	Damage dealt: 3.
+Pikachu attempts special attack with value 9 on Pikachu with special defense value: 4...
+	Damage dealt: 1.
+Pikachu HP: 41.
+Pikachu HP: 24.
+tick: 5...
+Pikachu attempts to cast ability on Pikachu with damage: 6...
+Pikachu attempts special attack with value 9 on Pikachu with special defense value: 2...
+	Damage dealt: 3.
+	Damage dealt: 6.
+Pikachu HP: 35.
+Pikachu HP: 21.
+tick: 6...
+Pikachu attempts to cast ability on Pikachu with damage: 4...
+	Damage dealt: 4.
+Pikachu dodges Pikachu's attack.
+	Pikachu stunned.
+Pikachu HP: 35.
+Pikachu HP: 17.
+tick: 7...
+Pikachu attempts to cast ability on Pikachu with damage: 6...
+	Damage dealt: 6.
+Pikachu is unable to attack because stunned.
+Pikachu HP: 35.
+Pikachu HP: 11.
+tick: 8...
+Pikachu attempts to cast ability on Pikachu with damage: 4...
+Pikachu dodges Pikachu's attack.
+	Damage dealt: 4.
+	Pikachu stunned.
+Pikachu HP: 31.
+Pikachu HP: 11.
+tick: 9...
+Pikachu is unable to attack because stunned.
+Pikachu attempts special attack with value 9 on Pikachu with special defense value: 4...
+	Damage dealt: 1.
+Pikachu HP: 30.
+Pikachu HP: 11.
+tick: 10...
+Pikachu attempts to cast ability on Pikachu with damage: 6...
+Pikachu attempts special attack with value 9 on Pikachu with special defense value: 2...
+	Damage dealt: 3.
+	Damage dealt: 6.
+Pikachu HP: 24.
+Pikachu HP: 8.
+tick: 11...
+Pikachu attempts special attack with value 9 on Pikachu with special defense value: 2...
+	Damage dealt: 3.
+Pikachu attempts special attack with value 9 on Pikachu with special defense value: 4...
+	Damage dealt: 1.
+Pikachu HP: 23.
+Pikachu HP: 5.
+tick: 12...
+Pikachu attempts to cast ability on Pikachu with damage: 4...
+	Damage dealt: 4.
+Pikachu dodges Pikachu's attack.
+	Pikachu stunned.
+Pikachu HP: 23.
+Pikachu HP: 1.
+tick: 13...
+Pikachu attempts to cast ability on Pikachu with damage: 6...
+	Damage dealt: 6.
+Pikachu is unable to attack because stunned.
+Pikachu HP: 23.
+Pikachu HP: -5.
+Pikachu WINS!
+Pikachu buffed!
+New stats:
+Pokemon:
+	Name: Pikachu.
+	HP: 48.
+	Special attack value: 10.
+	Defense value: 5.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: true
+			Cooldown: 5
+	Items:
+		Vest
+		Cape
+		MagicWand
+	Score: 72.
+Coach Marilena is the winner of the adventure!

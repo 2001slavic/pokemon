@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<coaches>
+    <coach>
+        <name>Viorica</name>
+        <age>44</age>
+        <pokemons>
+            <pokemon>
+                <name>Charmander</name>
+                <items>
+                    <item>Vitamins</item>
+                    <item>Vest</item>
+                    <item>Cape</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Jigglypuff</name>
+                <items>
+                    <item>Shield</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Vulpix</name>
+                <items>
+                    <item>Vitamins</item>
+                    <item>Sword</item>
+                    <item>Christmas tree</item>
+                </items>
+            </pokemon>
+        </pokemons>
+    </coach>
+    <coach>
+        <name>Paula</name>
+        <age>20</age>
+        <pokemons>
+            <pokemon>
+                <name>Jigglypuff</name>
+                <items>
+                    <item>Sword</item>
+                    <item>Shield</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Squirtle</name>
+                <items>
+                    <item>Shield</item>
+                    <item>Cape</item>
+                    <item>Vest</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Charmander</name>
+                <items/>
+            </pokemon>
+        </pokemons>
+    </coach>
+</coaches>

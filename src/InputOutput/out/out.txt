@@ -1,0 +1,1057 @@
+Initiating new battle...
+Coach Marilena to fight with Neutrel1...
+Coach Marilena picked Squirtle.
+Pokemon stats:
+Pokemon:
+	Name: Squirtle.
+	HP: 60.
+	Special attack value: 3.
+	Defense value: 6.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 2
+	Items:
+		Cape
+		ChristmasTree
+	Score: 77.
+Starting battle...
+tick: 0...
+Squirtle attempts to cast ability on Neutrel1 with damage: 4...
+	Damage dealt: 4.
+Neutrel1 attempts normal attack with value 3 on Squirtle with defense value: 6...
+	Damage dealt: 0.
+Squirtle HP: 60.
+Neutrel1 HP: 6.
+tick: 1...
+Squirtle attempts to cast ability on Neutrel1 with damage: 2...
+	Damage dealt: 2.
+Neutrel1 attempts normal attack with value 3 on Squirtle with defense value: 6...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Squirtle HP: 60.
+Neutrel1 HP: 4.
+tick: 2...
+Squirtle attempts special attack with value 3 on Neutrel1 with special defense value: 1...
+	Damage dealt: 2.
+Neutrel1 is unable to attack because stunned.
+Squirtle HP: 60.
+Neutrel1 HP: 2.
+tick: 3...
+Squirtle attempts special attack with value 3 on Neutrel1 with special defense value: 1...
+	Damage dealt: 2.
+Neutrel1 attempts normal attack with value 3 on Squirtle with defense value: 6...
+	Damage dealt: 0.
+Squirtle HP: 60.
+Neutrel1 HP: 0.
+Squirtle WINS!
+Squirtle buffed!
+New stats:
+Pokemon:
+	Name: Squirtle.
+	HP: 61.
+	Special attack value: 4.
+	Defense value: 7.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 2
+	Items:
+		Cape
+		ChristmasTree
+	Score: 81.
+Coach Paula to fight with Neutrel1...
+Coach Paula picked Vulpix.
+Pokemon stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 36.
+	Normal attack value: 8.
+	Defense value: 3.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		ChristmasTree
+		Cape
+	Score: 54.
+Starting battle...
+tick: 0...
+Vulpix attempts to cast ability on Neutrel1 with damage: 8...
+	Damage dealt: 8.
+Neutrel1 attempts normal attack with value 3 on Vulpix with defense value: 3...
+	Damage dealt: 0.
+	Neutrel1 stunned.
+Vulpix HP: 36.
+Neutrel1 HP: 2.
+tick: 1...
+Vulpix attempts to cast ability on Neutrel1 with damage: 2...
+	Damage dealt: 2.
+Neutrel1 is unable to attack because stunned.
+Vulpix HP: 36.
+Neutrel1 HP: 0.
+Vulpix WINS!
+Vulpix buffed!
+New stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 37.
+	Normal attack value: 9.
+	Defense value: 4.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		ChristmasTree
+		Cape
+	Score: 58.
+Coach Marilena to fight with Neutrel2...
+Coach Marilena picked Squirtle.
+Pokemon stats:
+Pokemon:
+	Name: Squirtle.
+	HP: 61.
+	Special attack value: 4.
+	Defense value: 7.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 2
+	Items:
+		Cape
+		ChristmasTree
+	Score: 81.
+Starting battle...
+tick: 0...
+Squirtle attempts to cast ability on Neutrel2 with damage: 2...
+	Damage dealt: 2.
+Neutrel2 attempts normal attack with value 4 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+	Neutrel2 stunned.
+Squirtle HP: 61.
+Neutrel2 HP: 18.
+tick: 1...
+Squirtle attempts to cast ability on Neutrel2 with damage: 4...
+	Damage dealt: 4.
+Neutrel2 is unable to attack because stunned.
+Squirtle HP: 61.
+Neutrel2 HP: 14.
+tick: 2...
+Squirtle attempts special attack with value 4 on Neutrel2 with special defense value: 1...
+	Damage dealt: 3.
+Neutrel2 attempts normal attack with value 4 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+Squirtle HP: 61.
+Neutrel2 HP: 11.
+tick: 3...
+Squirtle attempts to cast ability on Neutrel2 with damage: 2...
+	Damage dealt: 2.
+Neutrel2 attempts normal attack with value 4 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+	Neutrel2 stunned.
+Squirtle HP: 61.
+Neutrel2 HP: 9.
+tick: 4...
+Squirtle attempts special attack with value 4 on Neutrel2 with special defense value: 1...
+	Damage dealt: 3.
+Neutrel2 is unable to attack because stunned.
+Squirtle HP: 61.
+Neutrel2 HP: 6.
+tick: 5...
+Squirtle attempts to cast ability on Neutrel2 with damage: 4...
+	Damage dealt: 4.
+Neutrel2 attempts normal attack with value 4 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+Squirtle HP: 61.
+Neutrel2 HP: 2.
+tick: 6...
+Squirtle attempts to cast ability on Neutrel2 with damage: 2...
+	Damage dealt: 2.
+Neutrel2 attempts normal attack with value 4 on Squirtle with defense value: 7...
+	Damage dealt: 0.
+	Neutrel2 stunned.
+Squirtle HP: 61.
+Neutrel2 HP: 0.
+Squirtle WINS!
+Squirtle buffed!
+New stats:
+Pokemon:
+	Name: Squirtle.
+	HP: 62.
+	Special attack value: 5.
+	Defense value: 8.
+	Special defense value: 10.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 2
+	Items:
+		Cape
+		ChristmasTree
+	Score: 85.
+Coach Paula to fight with Neutrel2...
+Coach Paula picked Vulpix.
+Pokemon stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 37.
+	Normal attack value: 9.
+	Defense value: 4.
+	Special defense value: 8.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		ChristmasTree
+		Cape
+	Score: 58.
+Starting battle...
+tick: 0...
+Vulpix attempts to cast ability on Neutrel2 with damage: 2...
+	Damage dealt: 2.
+Vulpix dodges Neutrel2's attack.
+Vulpix HP: 37.
+Neutrel2 HP: 18.
+tick: 1...
+Vulpix attempts to cast ability on Neutrel2 with damage: 8...
+	Damage dealt: 8.
+Neutrel2 attempts normal attack with value 4 on Vulpix with defense value: 4...
+	Damage dealt: 0.
+	Neutrel2 stunned.
+Vulpix HP: 37.
+Neutrel2 HP: 10.
+tick: 2...
+Vulpix attempts normal attack with value 9 on Neutrel2 with defense value: 1...
+	Damage dealt: 8.
+Neutrel2 is unable to attack because stunned.
+Vulpix HP: 37.
+Neutrel2 HP: 2.
+tick: 3...
+Vulpix attempts normal attack with value 9 on Neutrel2 with defense value: 1...
+	Damage dealt: 8.
+Neutrel2 attempts normal attack with value 4 on Vulpix with defense value: 4...
+	Damage dealt: 0.
+Vulpix HP: 37.
+Neutrel2 HP: -6.
+Vulpix WINS!
+Vulpix buffed!
+New stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 38.
+	Normal attack value: 10.
+	Defense value: 5.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		ChristmasTree
+		Cape
+	Score: 62.
+Coach Marilena to fight with coach Paula...
+Battle 1...
+Pokemon Squirtle to fight with Vulpix...
+Squirtle's stats:
+Pokemon:
+	Name: Squirtle.
+	HP: 62.
+	Special attack value: 5.
+	Defense value: 8.
+	Special defense value: 10.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 2
+			Stun: true
+			Dodge: false
+			Cooldown: 2
+	Items:
+		Cape
+		ChristmasTree
+	Score: 85.
+Vulpix's stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 38.
+	Normal attack value: 10.
+	Defense value: 5.
+	Special defense value: 9.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		ChristmasTree
+		Cape
+	Score: 62.
+tick: 0...
+Squirtle attempts to cast ability on Vulpix with damage: 2...
+Vulpix attempts to cast ability on Squirtle with damage: 2...
+Vulpix dodges Squirtle's attack.
+	Damage dealt: 2.
+Squirtle HP: 60.
+Vulpix HP: 38.
+tick: 1...
+Squirtle attempts to cast ability on Vulpix with damage: 4...
+Vulpix attempts to cast ability on Squirtle with damage: 8...
+	Damage dealt: 4.
+	Damage dealt: 8.
+	Squirtle stunned.
+Squirtle HP: 52.
+Vulpix HP: 34.
+tick: 2...
+Squirtle is unable to attack because stunned.
+Vulpix attempts normal attack with value 10 on Squirtle with defense value: 8...
+	Damage dealt: 2.
+Squirtle HP: 50.
+Vulpix HP: 34.
+tick: 3...
+Squirtle attempts to cast ability on Vulpix with damage: 2...
+	Damage dealt: 2.
+Vulpix attempts normal attack with value 10 on Squirtle with defense value: 8...
+	Damage dealt: 2.
+	Vulpix stunned.
+Squirtle HP: 48.
+Vulpix HP: 32.
+tick: 4...
+Squirtle attempts special attack with value 5 on Vulpix with special defense value: 5...
+	Damage dealt: 0.
+Vulpix is unable to attack because stunned.
+Squirtle HP: 48.
+Vulpix HP: 32.
+tick: 5...
+Squirtle attempts to cast ability on Vulpix with damage: 4...
+	Damage dealt: 4.
+Vulpix attempts normal attack with value 10 on Squirtle with defense value: 8...
+	Damage dealt: 2.
+Squirtle HP: 46.
+Vulpix HP: 28.
+tick: 6...
+Squirtle attempts to cast ability on Vulpix with damage: 2...
+	Damage dealt: 2.
+Vulpix attempts normal attack with value 10 on Squirtle with defense value: 8...
+	Damage dealt: 2.
+	Vulpix stunned.
+Squirtle HP: 44.
+Vulpix HP: 26.
+tick: 7...
+Squirtle attempts special attack with value 5 on Vulpix with special defense value: 5...
+	Damage dealt: 0.
+Vulpix is unable to attack because stunned.
+Squirtle HP: 44.
+Vulpix HP: 26.
+tick: 8...
+Vulpix attempts to cast ability on Squirtle with damage: 8...
+Squirtle attempts special attack with value 5 on Vulpix with special defense value: 5...
+	Damage dealt: 0.
+	Damage dealt: 8.
+	Squirtle stunned.
+Squirtle HP: 36.
+Vulpix HP: 26.
+tick: 9...
+Vulpix attempts to cast ability on Squirtle with damage: 2...
+Squirtle is unable to attack because stunned.
+	Damage dealt: 2.
+Squirtle HP: 34.
+Vulpix HP: 26.
+tick: 10...
+Squirtle attempts to cast ability on Vulpix with damage: 4...
+	Damage dealt: 4.
+Vulpix attempts normal attack with value 10 on Squirtle with defense value: 8...
+	Damage dealt: 2.
+Squirtle HP: 32.
+Vulpix HP: 22.
+tick: 11...
+Squirtle attempts to cast ability on Vulpix with damage: 2...
+	Damage dealt: 2.
+Vulpix attempts normal attack with value 10 on Squirtle with defense value: 8...
+	Damage dealt: 2.
+	Vulpix stunned.
+Squirtle HP: 30.
+Vulpix HP: 20.
+tick: 12...
+Squirtle attempts special attack with value 5 on Vulpix with special defense value: 5...
+	Damage dealt: 0.
+Vulpix is unable to attack because stunned.
+Squirtle HP: 30.
+Vulpix HP: 20.
+tick: 13...
+Squirtle attempts special attack with value 5 on Vulpix with special defense value: 5...
+	Damage dealt: 0.
+Vulpix attempts normal attack with value 10 on Squirtle with defense value: 8...
+	Damage dealt: 2.
+Squirtle HP: 28.
+Vulpix HP: 20.
+tick: 14...
+Squirtle attempts to cast ability on Vulpix with damage: 2...
+	Damage dealt: 2.
+Vulpix attempts normal attack with value 10 on Squirtle with defense value: 8...
+	Damage dealt: 2.
+	Vulpix stunned.
+Squirtle HP: 26.
+Vulpix HP: 18.
+tick: 15...
+Squirtle attempts to cast ability on Vulpix with damage: 4...
+	Damage dealt: 4.
+Vulpix is unable to attack because stunned.
+Squirtle HP: 26.
+Vulpix HP: 14.
+tick: 16...
+Vulpix attempts to cast ability on Squirtle with damage: 8...
+Squirtle attempts special attack with value 5 on Vulpix with special defense value: 5...
+	Damage dealt: 0.
+	Damage dealt: 8.
+	Squirtle stunned.
+Squirtle HP: 18.
+Vulpix HP: 14.
+tick: 17...
+Vulpix attempts to cast ability on Squirtle with damage: 2...
+Squirtle is unable to attack because stunned.
+	Damage dealt: 2.
+Squirtle HP: 16.
+Vulpix HP: 14.
+tick: 18...
+Squirtle attempts to cast ability on Vulpix with damage: 2...
+	Damage dealt: 2.
+Vulpix attempts normal attack with value 10 on Squirtle with defense value: 8...
+	Damage dealt: 2.
+	Vulpix stunned.
+Squirtle HP: 14.
+Vulpix HP: 12.
+tick: 19...
+Squirtle attempts to cast ability on Vulpix with damage: 4...
+	Damage dealt: 4.
+Vulpix is unable to attack because stunned.
+Squirtle HP: 14.
+Vulpix HP: 8.
+tick: 20...
+Squirtle attempts special attack with value 5 on Vulpix with special defense value: 5...
+	Damage dealt: 0.
+Vulpix attempts normal attack with value 10 on Squirtle with defense value: 8...
+	Damage dealt: 2.
+Squirtle HP: 12.
+Vulpix HP: 8.
+tick: 21...
+Squirtle attempts to cast ability on Vulpix with damage: 2...
+	Damage dealt: 2.
+Vulpix attempts normal attack with value 10 on Squirtle with defense value: 8...
+	Damage dealt: 2.
+	Vulpix stunned.
+Squirtle HP: 10.
+Vulpix HP: 6.
+tick: 22...
+Squirtle attempts special attack with value 5 on Vulpix with special defense value: 5...
+	Damage dealt: 0.
+Vulpix is unable to attack because stunned.
+Squirtle HP: 10.
+Vulpix HP: 6.
+tick: 23...
+Squirtle attempts to cast ability on Vulpix with damage: 4...
+Vulpix attempts to cast ability on Squirtle with damage: 8...
+	Damage dealt: 4.
+	Damage dealt: 8.
+	Squirtle stunned.
+Squirtle HP: 2.
+Vulpix HP: 2.
+tick: 24...
+Squirtle is unable to attack because stunned.
+Vulpix attempts normal attack with value 10 on Squirtle with defense value: 8...
+	Damage dealt: 2.
+Squirtle HP: 0.
+Vulpix HP: 2.
+Vulpix WINS!
+Vulpix buffed!
+New stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 39.
+	Normal attack value: 11.
+	Defense value: 6.
+	Special defense value: 10.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		ChristmasTree
+		Cape
+	Score: 66.
+Battle 2...
+Pokemon Vulpix to fight with Pikachu...
+Vulpix's stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 36.
+	Normal attack value: 11.
+	Defense value: 5.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		ChristmasTree
+		Shield
+		Sword
+	Score: 58.
+Pikachu's stats:
+Pokemon:
+	Name: Pikachu.
+	HP: 35.
+	Special attack value: 4.
+	Defense value: 2.
+	Special defense value: 3.
+	Abilities:
+		Ability:
+			Damage: 6
+			Stun: false
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: true
+			Cooldown: 5
+	Items:
+	Score: 44.
+tick: 0...
+Vulpix attempts to cast ability on Pikachu with damage: 8...
+Pikachu attempts to cast ability on Vulpix with damage: 6...
+	Damage dealt: 8.
+	Damage dealt: 6.
+	Pikachu stunned.
+Vulpix HP: 30.
+Pikachu HP: 27.
+tick: 1...
+Vulpix attempts to cast ability on Pikachu with damage: 2...
+	Damage dealt: 2.
+Pikachu is unable to attack because stunned.
+Vulpix HP: 30.
+Pikachu HP: 25.
+tick: 2...
+Pikachu attempts to cast ability on Vulpix with damage: 4...
+Pikachu dodges Vulpix's attack.
+	Damage dealt: 4.
+	Vulpix stunned.
+Vulpix HP: 26.
+Pikachu HP: 25.
+tick: 3...
+Vulpix is unable to attack because stunned.
+Pikachu attempts special attack with value 4 on Vulpix with special defense value: 5...
+	Damage dealt: 0.
+Vulpix HP: 26.
+Pikachu HP: 25.
+tick: 4...
+Vulpix attempts normal attack with value 11 on Pikachu with defense value: 2...
+	Damage dealt: 9.
+Pikachu attempts special attack with value 4 on Vulpix with special defense value: 5...
+	Damage dealt: 0.
+Vulpix HP: 26.
+Pikachu HP: 16.
+tick: 5...
+Pikachu attempts to cast ability on Vulpix with damage: 6...
+Vulpix attempts normal attack with value 11 on Pikachu with defense value: 2...
+	Damage dealt: 9.
+	Damage dealt: 6.
+Vulpix HP: 20.
+Pikachu HP: 7.
+tick: 6...
+Vulpix attempts normal attack with value 11 on Pikachu with defense value: 2...
+	Damage dealt: 9.
+Pikachu attempts special attack with value 4 on Vulpix with special defense value: 5...
+	Damage dealt: 0.
+Vulpix HP: 20.
+Pikachu HP: -2.
+Vulpix WINS!
+Vulpix buffed!
+New stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 37.
+	Normal attack value: 12.
+	Defense value: 6.
+	Special defense value: 7.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		ChristmasTree
+		Shield
+		Sword
+	Score: 62.
+Battle 3...
+Pokemon Jigglypuff to fight with Eevee...
+Jigglypuff's stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 36.
+	Normal attack value: 6.
+	Defense value: 4.
+	Special defense value: 5.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Shield
+		Vitamins
+	Score: 51.
+Eevee's stats:
+Pokemon:
+	Name: Eevee.
+	HP: 49.
+	Special attack value: 4.
+	Defense value: 3.
+	Special defense value: 3.
+	Abilities:
+		Ability:
+			Damage: 5
+			Stun: false
+			Dodge: false
+			Cooldown: 3
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 3
+	Items:
+		Vest
+	Score: 59.
+tick: 0...
+Jigglypuff attempts to cast ability on Eevee with damage: 3...
+Eevee attempts to cast ability on Jigglypuff with damage: 3...
+	Damage dealt: 3.
+	Damage dealt: 3.
+	Jigglypuff stunned.
+	Eevee stunned.
+Jigglypuff HP: 33.
+Eevee HP: 46.
+tick: 1...
+Jigglypuff is unable to attack because stunned.
+Eevee is unable to attack because stunned.
+Jigglypuff HP: 33.
+Eevee HP: 46.
+tick: 2...
+Jigglypuff attempts to cast ability on Eevee with damage: 4...
+Eevee attempts to cast ability on Jigglypuff with damage: 5...
+	Damage dealt: 4.
+	Damage dealt: 5.
+	Eevee stunned.
+Jigglypuff HP: 28.
+Eevee HP: 42.
+tick: 3...
+Jigglypuff attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+Eevee is unable to attack because stunned.
+Jigglypuff HP: 28.
+Eevee HP: 39.
+tick: 4...
+Eevee attempts to cast ability on Jigglypuff with damage: 3...
+Jigglypuff attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+	Damage dealt: 3.
+	Jigglypuff stunned.
+Jigglypuff HP: 25.
+Eevee HP: 36.
+tick: 5...
+Jigglypuff is unable to attack because stunned.
+Eevee attempts special attack with value 4 on Jigglypuff with special defense value: 4...
+	Damage dealt: 0.
+Jigglypuff HP: 25.
+Eevee HP: 36.
+tick: 6...
+Jigglypuff attempts to cast ability on Eevee with damage: 3...
+Eevee attempts to cast ability on Jigglypuff with damage: 5...
+	Damage dealt: 3.
+	Damage dealt: 5.
+	Eevee stunned.
+Jigglypuff HP: 20.
+Eevee HP: 33.
+tick: 7...
+Jigglypuff attempts to cast ability on Eevee with damage: 4...
+	Damage dealt: 4.
+Eevee is unable to attack because stunned.
+	Eevee stunned.
+Jigglypuff HP: 20.
+Eevee HP: 29.
+tick: 8...
+Jigglypuff attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+Eevee is unable to attack because stunned.
+Jigglypuff HP: 20.
+Eevee HP: 26.
+tick: 9...
+Eevee attempts to cast ability on Jigglypuff with damage: 3...
+Jigglypuff attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+	Damage dealt: 3.
+	Jigglypuff stunned.
+Jigglypuff HP: 17.
+Eevee HP: 23.
+tick: 10...
+Eevee attempts to cast ability on Jigglypuff with damage: 5...
+Jigglypuff is unable to attack because stunned.
+	Damage dealt: 5.
+Jigglypuff HP: 12.
+Eevee HP: 23.
+tick: 11...
+Jigglypuff attempts to cast ability on Eevee with damage: 3...
+	Damage dealt: 3.
+Eevee attempts special attack with value 4 on Jigglypuff with special defense value: 4...
+	Damage dealt: 0.
+	Eevee stunned.
+Jigglypuff HP: 12.
+Eevee HP: 20.
+tick: 12...
+Jigglypuff attempts to cast ability on Eevee with damage: 4...
+	Damage dealt: 4.
+Eevee is unable to attack because stunned.
+	Eevee stunned.
+Jigglypuff HP: 12.
+Eevee HP: 16.
+tick: 13...
+Jigglypuff attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+Eevee is unable to attack because stunned.
+Jigglypuff HP: 12.
+Eevee HP: 13.
+tick: 14...
+Eevee attempts to cast ability on Jigglypuff with damage: 3...
+Jigglypuff attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+	Damage dealt: 3.
+	Jigglypuff stunned.
+Jigglypuff HP: 9.
+Eevee HP: 10.
+tick: 15...
+Eevee attempts to cast ability on Jigglypuff with damage: 5...
+Jigglypuff is unable to attack because stunned.
+	Damage dealt: 5.
+Jigglypuff HP: 4.
+Eevee HP: 10.
+tick: 16...
+Jigglypuff attempts to cast ability on Eevee with damage: 3...
+	Damage dealt: 3.
+Eevee attempts special attack with value 4 on Jigglypuff with special defense value: 4...
+	Damage dealt: 0.
+	Eevee stunned.
+Jigglypuff HP: 4.
+Eevee HP: 7.
+tick: 17...
+Jigglypuff attempts to cast ability on Eevee with damage: 4...
+	Damage dealt: 4.
+Eevee is unable to attack because stunned.
+	Eevee stunned.
+Jigglypuff HP: 4.
+Eevee HP: 3.
+tick: 18...
+Jigglypuff attempts normal attack with value 6 on Eevee with defense value: 3...
+	Damage dealt: 3.
+Eevee is unable to attack because stunned.
+Jigglypuff HP: 4.
+Eevee HP: 0.
+Jigglypuff WINS!
+Jigglypuff buffed!
+New stats:
+Pokemon:
+	Name: Jigglypuff.
+	HP: 37.
+	Normal attack value: 7.
+	Defense value: 5.
+	Special defense value: 6.
+	Abilities:
+		Ability:
+			Damage: 4
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+		Ability:
+			Damage: 3
+			Stun: true
+			Dodge: false
+			Cooldown: 4
+	Items:
+		Shield
+		Vitamins
+	Score: 55.
+Final battle...
+Squirtle with score: 85 to fight Vulpix with score: 66...
+tick: 0...
+Squirtle attempts to cast ability on Vulpix with damage: 4...
+Vulpix attempts to cast ability on Squirtle with damage: 8...
+	Damage dealt: 4.
+	Damage dealt: 8.
+	Squirtle stunned.
+Squirtle HP: 54.
+Vulpix HP: 35.
+tick: 1...
+Vulpix attempts to cast ability on Squirtle with damage: 2...
+Squirtle is unable to attack because stunned.
+	Damage dealt: 2.
+Squirtle HP: 52.
+Vulpix HP: 35.
+tick: 2...
+Squirtle attempts to cast ability on Vulpix with damage: 2...
+	Damage dealt: 2.
+Vulpix attempts normal attack with value 11 on Squirtle with defense value: 8...
+	Damage dealt: 3.
+	Vulpix stunned.
+Squirtle HP: 49.
+Vulpix HP: 33.
+tick: 3...
+Squirtle attempts special attack with value 5 on Vulpix with special defense value: 6...
+	Damage dealt: 0.
+Vulpix is unable to attack because stunned.
+Squirtle HP: 49.
+Vulpix HP: 33.
+tick: 4...
+Squirtle attempts to cast ability on Vulpix with damage: 4...
+	Damage dealt: 4.
+Vulpix attempts normal attack with value 11 on Squirtle with defense value: 8...
+	Damage dealt: 3.
+Squirtle HP: 46.
+Vulpix HP: 29.
+tick: 5...
+Squirtle attempts to cast ability on Vulpix with damage: 2...
+	Damage dealt: 2.
+Vulpix attempts normal attack with value 11 on Squirtle with defense value: 8...
+	Damage dealt: 3.
+	Vulpix stunned.
+Squirtle HP: 43.
+Vulpix HP: 27.
+tick: 6...
+Squirtle attempts special attack with value 5 on Vulpix with special defense value: 6...
+	Damage dealt: 0.
+Vulpix is unable to attack because stunned.
+Squirtle HP: 43.
+Vulpix HP: 27.
+tick: 7...
+Vulpix attempts to cast ability on Squirtle with damage: 8...
+Squirtle attempts special attack with value 5 on Vulpix with special defense value: 6...
+	Damage dealt: 0.
+	Damage dealt: 8.
+	Squirtle stunned.
+Squirtle HP: 35.
+Vulpix HP: 27.
+tick: 8...
+Squirtle is unable to attack because stunned.
+Vulpix attempts normal attack with value 11 on Squirtle with defense value: 8...
+	Damage dealt: 3.
+Squirtle HP: 32.
+Vulpix HP: 27.
+tick: 9...
+Squirtle attempts to cast ability on Vulpix with damage: 4...
+Vulpix attempts to cast ability on Squirtle with damage: 2...
+Vulpix dodges Squirtle's attack.
+	Damage dealt: 2.
+Squirtle HP: 30.
+Vulpix HP: 27.
+tick: 10...
+Squirtle attempts to cast ability on Vulpix with damage: 2...
+	Damage dealt: 2.
+Vulpix attempts normal attack with value 11 on Squirtle with defense value: 8...
+	Damage dealt: 3.
+	Vulpix stunned.
+Squirtle HP: 27.
+Vulpix HP: 25.
+tick: 11...
+Squirtle attempts special attack with value 5 on Vulpix with special defense value: 6...
+	Damage dealt: 0.
+Vulpix is unable to attack because stunned.
+Squirtle HP: 27.
+Vulpix HP: 25.
+tick: 12...
+Squirtle attempts special attack with value 5 on Vulpix with special defense value: 6...
+	Damage dealt: 0.
+Vulpix attempts normal attack with value 11 on Squirtle with defense value: 8...
+	Damage dealt: 3.
+Squirtle HP: 24.
+Vulpix HP: 25.
+tick: 13...
+Squirtle attempts to cast ability on Vulpix with damage: 4...
+	Damage dealt: 4.
+Vulpix attempts normal attack with value 11 on Squirtle with defense value: 8...
+	Damage dealt: 3.
+Squirtle HP: 21.
+Vulpix HP: 21.
+tick: 14...
+Squirtle attempts to cast ability on Vulpix with damage: 2...
+Vulpix attempts to cast ability on Squirtle with damage: 8...
+	Damage dealt: 2.
+	Damage dealt: 8.
+	Squirtle stunned.
+	Vulpix stunned.
+Squirtle HP: 13.
+Vulpix HP: 19.
+tick: 15...
+Squirtle is unable to attack because stunned.
+Vulpix is unable to attack because stunned.
+Squirtle HP: 13.
+Vulpix HP: 19.
+tick: 16...
+Squirtle attempts special attack with value 5 on Vulpix with special defense value: 6...
+	Damage dealt: 0.
+Vulpix attempts normal attack with value 11 on Squirtle with defense value: 8...
+	Damage dealt: 3.
+Squirtle HP: 10.
+Vulpix HP: 19.
+tick: 17...
+Squirtle attempts to cast ability on Vulpix with damage: 2...
+Vulpix attempts to cast ability on Squirtle with damage: 2...
+Vulpix dodges Squirtle's attack.
+	Damage dealt: 2.
+Squirtle HP: 8.
+Vulpix HP: 19.
+tick: 18...
+Squirtle attempts to cast ability on Vulpix with damage: 4...
+	Damage dealt: 4.
+Vulpix attempts normal attack with value 11 on Squirtle with defense value: 8...
+	Damage dealt: 3.
+Squirtle HP: 5.
+Vulpix HP: 15.
+tick: 19...
+Squirtle attempts special attack with value 5 on Vulpix with special defense value: 6...
+	Damage dealt: 0.
+Vulpix attempts normal attack with value 11 on Squirtle with defense value: 8...
+	Damage dealt: 3.
+Squirtle HP: 2.
+Vulpix HP: 15.
+tick: 20...
+Squirtle attempts to cast ability on Vulpix with damage: 2...
+	Damage dealt: 2.
+Vulpix attempts normal attack with value 11 on Squirtle with defense value: 8...
+	Damage dealt: 3.
+	Vulpix stunned.
+Squirtle HP: -1.
+Vulpix HP: 13.
+Vulpix WINS!
+Vulpix buffed!
+New stats:
+Pokemon:
+	Name: Vulpix.
+	HP: 40.
+	Normal attack value: 12.
+	Defense value: 7.
+	Special defense value: 11.
+	Abilities:
+		Ability:
+			Damage: 8
+			Stun: true
+			Dodge: false
+			Cooldown: 6
+		Ability:
+			Damage: 2
+			Stun: false
+			Dodge: true
+			Cooldown: 7
+	Items:
+		ChristmasTree
+		Cape
+	Score: 70.
+Coach Marilena is the winner of the adventure!

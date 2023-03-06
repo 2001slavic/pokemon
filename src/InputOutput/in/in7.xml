@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<coaches>
+    <coach>
+        <name>Aurel</name>
+        <age>21</age>
+        <pokemons>
+            <pokemon>
+                <name>Psyduck</name>
+                <items>
+                    <item>Cape</item>
+                    <item>Christmas tree</item>
+                    <item>Vest</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Squirtle</name>
+                <items/>
+            </pokemon>
+            <pokemon>
+                <name>Eevee</name>
+                <items/>
+            </pokemon>
+        </pokemons>
+    </coach>
+    <coach>
+        <name>Radu</name>
+        <age>52</age>
+        <pokemons>
+            <pokemon>
+                <name>Eevee</name>
+                <items>
+                    <item>Vest</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Psyduck</name>
+                <items>
+                    <item>Christmas tree</item>
+                </items>
+            </pokemon>
+            <pokemon>
+                <name>Jigglypuff</name>
+                <items>
+                    <item>Sword</item>
+                    <item>Vest</item>
+                    <item>Cape</item>
+                </items>
+            </pokemon>
+        </pokemons>
+    </coach>
+</coaches>
